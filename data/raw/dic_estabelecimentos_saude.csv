@@ -1,0 +1,8 @@
+Variável;Tipo;Descrição;Fonte;Ano
+co_mun;numérico;Código IBGE do Município;IBGE;2020
+tiposeade;texto;Tipo de estabelecimento de saúde;Fundação Seade;2024
+estadual;numérico;Número de estabelecimento de saúde - estadual;Ministério da Saúde. Cadastro Nacional de Estabelecimentos de Saúde (CNES) Dez. de 2023. Fundação Seade;2024
+federal;numérico;Número de estabelecimento de saúde - federal;Ministério da Saúde. Cadastro Nacional de Estabelecimentos de Saúde (CNES) Dez. de 2023. Fundação Seade;2024
+municipal;numérico;Número de estabelecimento de saúde - municipal;Ministério da Saúde. Cadastro Nacional de Estabelecimentos de Saúde (CNES) Dez. de 2023. Fundação Seade;2024
+particular;numérico;Número de estabelecimento de saúde - particular;Ministério da Saúde. Cadastro Nacional de Estabelecimentos de Saúde (CNES) Dez. de 2023. Fundação Seade;2024
+total_geral;numérico;Número de estabelecimento de saúde - total;Ministério da Saúde. Cadastro Nacional de Estabelecimentos de Saúde (CNES) Dez. de 2023. Fundação Seade;2024

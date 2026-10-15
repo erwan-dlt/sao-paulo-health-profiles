@@ -1,0 +1,13 @@
+outcome,grouping,n,log1p_variance_explained
+physician_sus_per1000,profile,635,0.05424947282510306
+physician_sus_per1000,income_group,635,0.0700915896783525
+physician_non_sus_per1000,profile,635,0.2805405761059039
+physician_non_sus_per1000,income_group,635,0.2352872817838364
+nurse_sus_per1000,profile,643,0.007212171493533592
+nurse_sus_per1000,income_group,643,0.006822208930853613
+nurse_non_sus_per1000,profile,643,0.17493750168455313
+nurse_non_sus_per1000,income_group,643,0.1728177929393805
+basic_health_units_per10000,profile,645,0.1605267620434222
+basic_health_units_per10000,income_group,645,0.10132871928473774
+infant_mortality_per1000,profile,645,0.025703729722912905
+infant_mortality_per1000,income_group,645,0.02576928993758898

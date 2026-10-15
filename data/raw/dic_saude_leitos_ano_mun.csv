@@ -1,0 +1,10 @@
+Variável;Tipo;Descrição;Fonte;Ano
+cod_ibge;numérico;Código IBGE do Município;IBGE;2020
+localidades;texto;Nome do Municipio;IBGE;2020
+periodos;numérico;Ano;Ministério da Saúde. Cadastro Nacional de Estabelecimentos de Saúde (CNES) Dez. de 2023. Fundação Seade;2024
+leitos_total;numérico;Total de leitos;Ministério da Saúde. Cadastro Nacional de Estabelecimentos de Saúde (CNES) Dez. de 2023. Fundação Seade;2024
+leitos_hab;numérico;Leitos (Coeficiente por mil habitantes);Ministério da Saúde. Cadastro Nacional de Estabelecimentos de Saúde (CNES) Dez. de 2023. Fundação Seade;2024
+leitos sus;numérico;Leitos SUS;Ministério da Saúde. Cadastro Nacional de Estabelecimentos de Saúde (CNES) Dez. de 2023. Fundação Seade;2024
+leitos_sus_hab;numérico;Leitos SUS (Coeficiente por mil habitantes);Ministério da Saúde. Cadastro Nacional de Estabelecimentos de Saúde (CNES) Dez. de 2023. Fundação Seade;2024
+leitos não sus;numérico;Leitos Não SUS;Ministério da Saúde. Cadastro Nacional de Estabelecimentos de Saúde (CNES) Dez. de 2023. Fundação Seade;2024
+leitos_naosus_hab;numérico;Leitos Não SUS (Coeficiente por mil habitantes);Ministério da Saúde. Cadastro Nacional de Estabelecimentos de Saúde (CNES) Dez. de 2023. Fundação Seade;2024

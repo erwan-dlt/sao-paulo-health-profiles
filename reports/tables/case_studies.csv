@@ -1,0 +1,12 @@
+ibge_code,municipality,profile,case_type,income_median,literacy_pct,adverse_sanitation_pct,distance_to_profile,profile_stability
+3509106,Caiuá,1,Nearest profile center,1000.0,92.93,29.456906729634003,0.46815152504806834,1.0
+3549953,São Lourenço da Serra,1,Nearest profile center,1000.0,93.56,29.019003595274782,0.4729892389385513,1.0
+3529203,Martinópolis,2,Nearest profile center,1133.33,94.09,7.552289429055964,0.20541850247933816,1.0
+3531001,Monções,2,Nearest profile center,1100.0,94.22,7.759699624530663,0.22598391711821017,1.0
+3547502,Santa Rita do Passa Quatro,3,Nearest profile center,1300.0,96.48,4.024081115335868,0.12108373950806733,1.0
+3523909,Itu,3,Nearest profile center,1300.0,96.51,3.7097993114451255,0.1504520468826777,1.0
+3548807,São Caetano do Sul,3,Largest distance to assigned center,2500.0,98.84,0.045164932655859344,4.680225482421577,1.0
+3536802,Pedra Bela,1,Largest distance to assigned center,1200.0,92.72,69.57757920389926,4.1698893928014025,1.0
+3522158,Itaoca,1,Largest distance to assigned center,706.0,90.08,53.80348652931854,3.454998585104517,1.0
+3500600,Águas de São Pedro,3,Largest distance to assigned center,2040.0,98.76,0.0,3.382320575730654,1.0
+3505401,Barra do Turvo,1,Largest distance to assigned center,806.0,87.77,36.077669902912625,3.217826358519231,1.0

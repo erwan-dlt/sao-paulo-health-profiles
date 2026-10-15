@@ -1,0 +1,8 @@
+Variável;Tipo;Descrição;Fonte;Ano
+cod_ibge;numérico;Código IBGE do Município;IBGE;2020
+mun;texto;Nome do Municipio;IBGE;2020
+prof_sus;numérico;Vínculos empregatícios do profissional no SUS;Ministério da Saúde. Cadastro Nacional de Estabelecimentos de Saúde (CNES) Dez. de 2023. Fundação Seade;2024
+prof_nsus;numérico;Vínculos empregatícios do profissional não SUS;Ministério da Saúde. Cadastro Nacional de Estabelecimentos de Saúde (CNES) Dez. de 2023. Fundação Seade;2024
+prof_tot;numérico;Vínculos empregatícios dos profissionais;Ministério da Saúde. Cadastro Nacional de Estabelecimentos de Saúde (CNES) Dez. de 2023. Fundação Seade;2024
+medenf;texto;Categórico: Médico ou Enfermeiro;Ministério da Saúde. Cadastro Nacional de Estabelecimentos de Saúde (CNES) Dez. de 2023. Fundação Seade;2024
+prof_habitante;numérico;Profissional por habitante;Ministério da Saúde. Cadastro Nacional de Estabelecimentos de Saúde (CNES) Dez. de 2023. Fundação Seade;2024

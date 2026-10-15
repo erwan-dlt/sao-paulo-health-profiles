@@ -1,0 +1,1279 @@
+cod_ibge;mun;prof_sus;prof_nsus;prof_tot;medenf;prof_habitante
+3500105;Adamantina;98;3;101;Enfermeiro;2,82
+3500204;Adolfo;9;0;9;Enfermeiro;2,04
+3500303;Aguaí;40;1;41;Enfermeiro;1,25
+3500402;Águas da Prata;9;1;10;Enfermeiro;1,22
+3500501;Águas de Lindóia;23;1;24;Enfermeiro;1,28
+3500550;Águas de Santa Bárbara;15;0;15;Enfermeiro;2,06
+3500600;Águas de São Pedro;9;0;9;Enfermeiro;3,24
+3500709;Agudos;52;0;52;Enfermeiro;1,37
+3500758;Alambari;7;0;7;Enfermeiro;1,12
+3500808;Alfredo Marcondes;4;0;4;Enfermeiro;0,89
+3500907;Altair;8;0;8;Enfermeiro;2,34
+3501004;Altinópolis;26;0;26;Enfermeiro;1,54
+3501103;Alto Alegre;10;0;10;Enfermeiro;2,63
+3501152;Alumínio;19;1;20;Enfermeiro;1,1
+3501202;Álvares Florence;6;0;6;Enfermeiro;1,53
+3501301;Álvares Machado;27;0;27;Enfermeiro;0,98
+3501400;Álvaro de Carvalho;12;0;12;Enfermeiro;2,49
+3501509;Alvinlândia;5;0;5;Enfermeiro;1,75
+3501608;Americana;297;157;454;Enfermeiro;1,24
+3501707;Américo Brasiliense;132;4;136;Enfermeiro;4,03
+3501806;Américo de Campos;10;0;10;Enfermeiro;1,7
+3501905;Amparo;143;27;170;Enfermeiro;2,1
+3502002;Analândia;13;0;13;Enfermeiro;2,82
+3502101;Andradina;102;12;114;Enfermeiro;1,7
+3502200;Angatuba;28;0;28;Enfermeiro;1,16
+3502309;Anhembi;12;0;12;Enfermeiro;2,12
+3502408;Anhumas;4;0;4;Enfermeiro;0,99
+3502507;Aparecida;58;0;58;Enfermeiro;1,8
+3502606;Aparecida d'Oeste;8;0;8;Enfermeiro;1,98
+3502705;Apiaí;40;0;40;Enfermeiro;1,63
+3502754;Araçariguama;35;1;36;Enfermeiro;1,6
+3502804;Araçatuba;407;43;450;Enfermeiro;2,02
+3502903;Araçoiaba da Serra;38;7;45;Enfermeiro;1,16
+3503000;Aramina;11;0;11;Enfermeiro;2,02
+3503109;Arandu;12;0;12;Enfermeiro;1,73
+3503158;Arapeí;8;0;8;Enfermeiro;3,47
+3503208;Araraquara;383;150;533;Enfermeiro;1,57
+3503307;Araras;175;57;232;Enfermeiro;1,33
+3503356;Arco-Íris;2;0;2;Enfermeiro;0,97
+3503406;Arealva;13;0;13;Enfermeiro;1,6
+3503505;Areias;6;0;6;Enfermeiro;1,69
+3503604;Areiópolis;11;0;11;Enfermeiro;1,09
+3503703;Ariranha;14;2;16;Enfermeiro;1,87
+3503802;Artur Nogueira;42;2;44;Enfermeiro;0,81
+3503901;Arujá;90;14;104;Enfermeiro;1,03
+3503950;Aspásia;4;0;4;Enfermeiro;2,18
+3504008;Assis;231;37;268;Enfermeiro;2,27
+3504107;Atibaia;159;199;358;Enfermeiro;0,99
+3504206;Auriflama;28;0;28;Enfermeiro;2,05
+3504305;Avaí;7;0;7;Enfermeiro;1,58
+3504404;Avanhandava;12;0;12;Enfermeiro;1,07
+3504503;Avaré;123;0;123;Enfermeiro;1,32
+3504602;Bady Bassitt;39;0;39;Enfermeiro;1,38
+3504701;Balbinos;6;0;6;Enfermeiro;1,54
+3504800;Bálsamo;17;0;17;Enfermeiro;1,75
+3504909;Bananal;18;0;18;Enfermeiro;1,81
+3505005;Barão de Antonina;5;0;5;Enfermeiro;1,4
+3505104;Barbosa;6;0;6;Enfermeiro;1,08
+3505203;Bariri;34;1;35;Enfermeiro;1,08
+3505302;Barra Bonita;28;9;37;Enfermeiro;0,82
+3505351;Barra do Chapéu;9;0;9;Enfermeiro;1,74
+3505401;Barra do Turvo;13;0;13;Enfermeiro;1,92
+3505500;Barretos;591;21;612;Enfermeiro;4,8
+3505609;Barrinha;25;3;28;Enfermeiro;0,77
+3505708;Barueri;654;142;796;Enfermeiro;2,03
+3505807;Bastos;40;1;41;Enfermeiro;1,86
+3505906;Batatais;73;3;76;Enfermeiro;1,25
+3506003;Bauru;936;223;1159;Enfermeiro;2,46
+3506102;Bebedouro;148;30;178;Enfermeiro;1,94
+3506201;Bento de Abreu;4;0;4;Enfermeiro;1,54
+3506300;Bernardino de Campos;20;0;20;Enfermeiro;1,72
+3506359;Bertioga;60;6;66;Enfermeiro;0,92
+3506409;Bilac;9;0;9;Enfermeiro;1,23
+3506508;Birigui;137;17;154;Enfermeiro;1,15
+3506607;Biritiba Mirim;25;0;25;Enfermeiro;0,84
+3506706;Boa Esperança do Sul;10;0;10;Enfermeiro;0,78
+3506805;Bocaina;12;0;12;Enfermeiro;1,07
+3506904;Bofete;19;0;19;Enfermeiro;1,81
+3507001;Boituva;86;5;91;Enfermeiro;1,39
+3507100;Bom Jesus dos Perdões;19;1;20;Enfermeiro;0,86
+3507159;Bom Sucesso de Itararé;4;0;4;Enfermeiro;1,13
+3507209;Borá;4;0;4;Enfermeiro;4,43
+3507308;Boracéia;4;0;4;Enfermeiro;0,84
+3507407;Borborema;17;0;17;Enfermeiro;1,2
+3507456;Borebi;11;0;11;Enfermeiro;4,01
+3507506;Botucatu;654;151;805;Enfermeiro;4,47
+3507605;Bragança Paulista;346;21;367;Enfermeiro;1,93
+3507704;Braúna;7;0;7;Enfermeiro;1,31
+3507753;Brejo Alegre;3;0;3;Enfermeiro;1,17
+3507803;Brodowski;29;0;29;Enfermeiro;1,14
+3507902;Brotas;29;3;32;Enfermeiro;1,21
+3508009;Buri;18;1;19;Enfermeiro;0,89
+3508108;Buritama;27;0;27;Enfermeiro;1,56
+3508207;Buritizal;4;0;4;Enfermeiro;0,92
+3508306;Cabrália Paulista;5;0;5;Enfermeiro;1,17
+3508405;Cabreúva;68;5;73;Enfermeiro;1,43
+3508504;Caçapava;149;24;173;Enfermeiro;1,54
+3508603;Cachoeira Paulista;33;2;35;Enfermeiro;1,04
+3508702;Caconde;16;0;16;Enfermeiro;0,94
+3508801;Cafelândia;25;0;25;Enfermeiro;1,5
+3508900;Caiabu;3;0;3;Enfermeiro;0,82
+3509007;Caieiras;160;58;218;Enfermeiro;1,68
+3509106;Caiuá;9;0;9;Enfermeiro;1,64
+3509205;Cajamar;120;12;132;Enfermeiro;1,27
+3509254;Cajati;34;1;35;Enfermeiro;1,19
+3509304;Cajobi;11;0;11;Enfermeiro;1,21
+3509403;Cajuru;34;1;35;Enfermeiro;1,43
+3509452;Campina do Monte Alegre;6;0;6;Enfermeiro;1
+3509502;Campinas;2436;1030;3466;Enfermeiro;2,14
+3509601;Campo Limpo Paulista;75;4;79;Enfermeiro;0,97
+3509700;Campos do Jordão;84;6;90;Enfermeiro;1,8
+3509809;Campos Novos Paulista;11;0;11;Enfermeiro;2,25
+3509908;Cananéia;24;1;25;Enfermeiro;1,96
+3509957;Canas;4;0;4;Enfermeiro;0,81
+3510005;Cândido Mota;29;0;29;Enfermeiro;0,99
+3510104;Cândido Rodrigues;7;0;7;Enfermeiro;2,4
+3510153;Canitar;5;0;5;Enfermeiro;0,78
+3510203;Capão Bonito;41;2;43;Enfermeiro;0,89
+3510302;Capela do Alto;27;1;28;Enfermeiro;1,16
+3510401;Capivari;68;45;113;Enfermeiro;1,36
+3510500;Caraguatatuba;362;31;393;Enfermeiro;2,64
+3510609;Carapicuíba;364;42;406;Enfermeiro;0,94
+3510708;Cardoso;18;0;18;Enfermeiro;1,59
+3510807;Casa Branca;68;0;68;Enfermeiro;2,43
+3510906;Cássia dos Coqueiros;4;0;4;Enfermeiro;1,43
+3511003;Castilho;25;0;25;Enfermeiro;1,25
+3511102;Catanduva;304;62;366;Enfermeiro;2,63
+3511201;Catiguá;8;0;8;Enfermeiro;1,15
+3511300;Cedral;20;2;22;Enfermeiro;1,54
+3511409;Cerqueira César;27;0;27;Enfermeiro;1,24
+3511508;Cerquilho;41;4;45;Enfermeiro;0,91
+3511607;Cesário Lange;21;0;21;Enfermeiro;1,09
+3511706;Charqueada;15;4;19;Enfermeiro;0,97
+3511904;Clementina;9;0;9;Enfermeiro;1,29
+3512001;Colina;32;0;32;Enfermeiro;1,72
+3512100;Colômbia;13;1;14;Enfermeiro;1,95
+3512209;Conchal;25;0;25;Enfermeiro;0,89
+3512308;Conchas;17;0;17;Enfermeiro;1,13
+3512407;Cordeirópolis;33;1;34;Enfermeiro;1,33
+3512506;Coroados;6;0;6;Enfermeiro;1,11
+3512605;Coronel Macedo;7;0;7;Enfermeiro;1,67
+3512704;Corumbataí;12;0;12;Enfermeiro;2,85
+3512803;Cosmópolis;55;2;57;Enfermeiro;0,92
+3512902;Cosmorama;11;0;11;Enfermeiro;1,25
+3513009;Cotia;346;85;431;Enfermeiro;1,24
+3513108;Cravinhos;27;1;28;Enfermeiro;0,81
+3513207;Cristais Paulista;9;0;9;Enfermeiro;0,96
+3513306;Cruzália;5;0;5;Enfermeiro;2,39
+3513405;Cruzeiro;147;5;152;Enfermeiro;1,97
+3513504;Cubatão;248;14;262;Enfermeiro;2,22
+3513603;Cunha;20;1;21;Enfermeiro;0,9
+3513702;Descalvado;31;11;42;Enfermeiro;0,98
+3513801;Diadema;473;58;531;Enfermeiro;1,21
+3513850;Dirce Reis;2;0;2;Enfermeiro;1,24
+3513900;Divinolândia;30;1;31;Enfermeiro;2,7
+3514007;Dobrada;13;0;13;Enfermeiro;1,47
+3514106;Dois Córregos;27;2;29;Enfermeiro;1,11
+3514205;Dolcinópolis;2;0;2;Enfermeiro;0,9
+3514304;Dourado;11;1;12;Enfermeiro;1,37
+3514403;Dracena;100;8;108;Enfermeiro;2,19
+3514502;Duartina;14;0;14;Enfermeiro;1,14
+3514601;Dumont;10;0;10;Enfermeiro;1,05
+3514700;Echaporã;9;0;9;Enfermeiro;1,46
+3514809;Eldorado;23;0;23;Enfermeiro;1,78
+3514908;Elias Fausto;16;0;16;Enfermeiro;0,9
+3514957;Embaúba;8;0;8;Enfermeiro;3,46
+3515004;Embu das Artes;265;2;267;Enfermeiro;1,06
+3515103;Embu-Guaçu;57;3;60;Enfermeiro;0,85
+3515129;Emilianópolis;5;0;5;Enfermeiro;1,66
+3515152;Engenheiro Coelho;16;7;23;Enfermeiro;0,81
+3515186;Espírito Santo do Pinhal;92;6;98;Enfermeiro;2,32
+3515194;Espírito Santo do Turvo;4;0;4;Enfermeiro;0,96
+3515202;Estrela d'Oeste;16;0;16;Enfermeiro;1,68
+3515301;Estrela do Norte;4;0;4;Enfermeiro;1,49
+3515350;Euclides da Cunha Paulista;12;0;12;Enfermeiro;1,55
+3515400;Fartura;18;1;19;Enfermeiro;1,08
+3515509;Fernandópolis;161;10;171;Enfermeiro;2,25
+3515608;Fernando Prestes;9;0;9;Enfermeiro;1,51
+3515657;Fernão;3;0;3;Enfermeiro;1,8
+3515707;Ferraz de Vasconcelos;277;1;278;Enfermeiro;1,54
+3515806;Flora Rica;4;0;4;Enfermeiro;2,73
+3515905;Floreal;3;0;3;Enfermeiro;1,11
+3516002;Flórida Paulista;20;1;21;Enfermeiro;1,55
+3516101;Florínea;12;0;12;Enfermeiro;3,06
+3516200;Franca;344;105;449;Enfermeiro;0,97
+3516309;Francisco Morato;188;2;190;Enfermeiro;1,14
+3516408;Franco da Rocha;278;22;300;Enfermeiro;1,91
+3516507;Gabriel Monteiro;5;0;5;Enfermeiro;1,81
+3516606;Gália;14;0;14;Enfermeiro;2,22
+3516705;Garça;78;1;79;Enfermeiro;1,86
+3516804;Gastão Vidigal;3;0;3;Enfermeiro;0,95
+3516853;Gavião Peixoto;7;0;7;Enfermeiro;1,48
+3516903;General Salgado;15;0;15;Enfermeiro;1,46
+3517000;Getulina;19;0;19;Enfermeiro;1,87
+3517109;Glicério;5;0;5;Enfermeiro;1,22
+3517208;Guaiçara;9;0;9;Enfermeiro;0,8
+3517307;Guaimbê;10;0;10;Enfermeiro;1,82
+3517406;Guaíra;48;1;49;Enfermeiro;1,22
+3517505;Guapiaçu;27;0;27;Enfermeiro;1,23
+3517604;Guapiara;23;0;23;Enfermeiro;1,36
+3517703;Guará;24;2;26;Enfermeiro;1,3
+3517802;Guaraçaí;12;0;12;Enfermeiro;1,64
+3517901;Guaraci;10;0;10;Enfermeiro;0,96
+3518008;Guarani d'Oeste;4;0;4;Enfermeiro;2,04
+3518107;Guarantã;8;0;8;Enfermeiro;1,25
+3518206;Guararapes;30;2;32;Enfermeiro;0,97
+3518305;Guararema;41;1;42;Enfermeiro;1,3
+3518404;Guaratinguetá;208;77;285;Enfermeiro;1,76
+3518503;Guareí;22;0;22;Enfermeiro;1,46
+3518602;Guariba;27;6;33;Enfermeiro;0,72
+3518701;Guarujá;503;45;548;Enfermeiro;1,76
+3518800;Guarulhos;1624;329;1953;Enfermeiro;1,26
+3518859;Guatapará;10;0;10;Enfermeiro;1,36
+3518909;Guzolândia;3;0;3;Enfermeiro;0,72
+3519006;Herculândia;15;0;15;Enfermeiro;1,64
+3519055;Holambra;12;2;14;Enfermeiro;0,78
+3519071;Hortolândia;204;28;232;Enfermeiro;0,85
+3519105;Iacanga;16;0;16;Enfermeiro;1,53
+3519204;Iacri;12;0;12;Enfermeiro;1,97
+3519253;Iaras;7;0;7;Enfermeiro;0,86
+3519303;Ibaté;29;1;30;Enfermeiro;0,9
+3519402;Ibirá;13;0;13;Enfermeiro;1,11
+3519501;Ibirarema;10;0;10;Enfermeiro;1,58
+3519600;Ibitinga;55;4;59;Enfermeiro;0,91
+3519709;Ibiúna;60;11;71;Enfermeiro;0,79
+3519808;Icém;11;0;11;Enfermeiro;1,4
+3519907;Iepê;14;0;14;Enfermeiro;1,84
+3520004;Igaraçu do Tietê;18;0;18;Enfermeiro;0,78
+3520103;Igarapava;39;1;40;Enfermeiro;1,5
+3520202;Igaratá;12;0;12;Enfermeiro;1,12
+3520301;Iguape;34;0;34;Enfermeiro;1,17
+3520400;Ilhabela;104;0;104;Enfermeiro;2,94
+3520426;Ilha Comprida;21;0;21;Enfermeiro;1,53
+3520442;Ilha Solteira;51;1;52;Enfermeiro;2
+3520509;Indaiatuba;308;73;381;Enfermeiro;1,19
+3520608;Indiana;4;0;4;Enfermeiro;0,79
+3520707;Indiaporã;9;0;9;Enfermeiro;2,22
+3520806;Inúbia Paulista;6;0;6;Enfermeiro;1,67
+3520905;Ipaussu;11;0;11;Enfermeiro;0,8
+3521002;Iperó;37;0;37;Enfermeiro;1
+3521101;Ipeúna;13;0;13;Enfermeiro;1,89
+3521150;Ipiguá;8;0;8;Enfermeiro;1,15
+3521200;Iporanga;9;0;9;Enfermeiro;2,23
+3521309;Ipuã;29;0;29;Enfermeiro;2,01
+3521408;Iracemápolis;17;0;17;Enfermeiro;0,77
+3521507;Irapuã;7;0;7;Enfermeiro;1,02
+3521606;Irapuru;11;0;11;Enfermeiro;1,57
+3521705;Itaberá;21;0;21;Enfermeiro;1,17
+3521804;Itaí;28;0;28;Enfermeiro;1,11
+3521903;Itajobi;22;0;22;Enfermeiro;1,28
+3522000;Itaju;4;0;4;Enfermeiro;1,1
+3522109;Itanhaém;205;2;207;Enfermeiro;1,8
+3522208;Itapecerica da Serra;281;38;319;Enfermeiro;1,77
+3522307;Itapetininga;220;46;266;Enfermeiro;1,39
+3522406;Itapeva;157;9;166;Enfermeiro;1,75
+3522505;Itapevi;285;83;368;Enfermeiro;1,22
+3522604;Itapira;103;36;139;Enfermeiro;1,43
+3522653;Itapirapuã Paulista;7;0;7;Enfermeiro;1,61
+3522703;Itápolis;34;2;36;Enfermeiro;0,86
+3522802;Itaporanga;18;1;19;Enfermeiro;1,29
+3522901;Itapuí;13;0;13;Enfermeiro;0,94
+3523008;Itapura;3;0;3;Enfermeiro;0,76
+3523107;Itaquaquecetuba;258;3;261;Enfermeiro;0,69
+3523206;Itararé;41;2;43;Enfermeiro;0,93
+3523305;Itariri;16;1;17;Enfermeiro;1,03
+3523404;Itatiba;152;10;162;Enfermeiro;1,24
+3523503;Itatinga;12;0;12;Enfermeiro;0,63
+3523602;Itirapina;16;0;16;Enfermeiro;0,99
+3523701;Itirapuã;6;0;6;Enfermeiro;1,04
+3523800;Itobi;7;0;7;Enfermeiro;0,87
+3523909;Itu;260;32;292;Enfermeiro;1,54
+3524006;Itupeva;90;7;97;Enfermeiro;1,24
+3524105;Ituverava;53;10;63;Enfermeiro;1,42
+3524204;Jaborandi;14;0;14;Enfermeiro;2,27
+3524303;Jaboticabal;104;30;134;Enfermeiro;1,45
+3524402;Jacareí;329;124;453;Enfermeiro;1,36
+3524501;Jaci;24;0;24;Enfermeiro;3,1
+3524600;Jacupiranga;23;0;23;Enfermeiro;1,44
+3524709;Jaguariúna;111;7;118;Enfermeiro;1,84
+3524808;Jales;117;4;121;Enfermeiro;2,4
+3524907;Jambeiro;12;0;12;Enfermeiro;1,85
+3525003;Jandira;94;2;96;Enfermeiro;0,79
+3525102;Jardinópolis;45;0;45;Enfermeiro;0,98
+3525201;Jarinu;37;1;38;Enfermeiro;0,96
+3525300;Jaú;470;60;530;Enfermeiro;3,52
+3525409;Jeriquara;4;0;4;Enfermeiro;1,02
+3525508;Joanópolis;12;0;12;Enfermeiro;0,93
+3525607;João Ramalho;8;0;8;Enfermeiro;1,83
+3525706;José Bonifácio;29;0;29;Enfermeiro;0,79
+3525805;Júlio Mesquita;5;0;5;Enfermeiro;1,18
+3525854;Jumirim;7;0;7;Enfermeiro;2,28
+3525904;Jundiaí;687;345;1032;Enfermeiro;1,53
+3526001;Junqueirópolis;30;0;30;Enfermeiro;1,46
+3526100;Juquiá;17;0;17;Enfermeiro;1
+3526209;Juquitiba;26;0;26;Enfermeiro;0,96
+3526308;Lagoinha;12;0;12;Enfermeiro;2,36
+3526407;Laranjal Paulista;30;0;30;Enfermeiro;1,14
+3526506;Lavínia;11;0;11;Enfermeiro;1,13
+3526605;Lavrinhas;7;1;8;Enfermeiro;0,97
+3526704;Leme;123;13;136;Enfermeiro;1,25
+3526803;Lençóis Paulista;98;15;113;Enfermeiro;1,47
+3526902;Limeira;364;95;459;Enfermeiro;1,24
+3527009;Lindóia;2;1;3;Enfermeiro;0,28
+3527108;Lins;100;39;139;Enfermeiro;1,34
+3527207;Lorena;135;46;181;Enfermeiro;1,59
+3527256;Lourdes;2;0;2;Enfermeiro;1,04
+3527306;Louveira;77;0;77;Enfermeiro;1,46
+3527405;Lucélia;34;0;34;Enfermeiro;1,7
+3527504;Lucianópolis;3;0;3;Enfermeiro;1,26
+3527603;Luís Antônio;22;0;22;Enfermeiro;1,79
+3527702;Luiziânia;6;1;7;Enfermeiro;1,29
+3527801;Lupércio;5;0;5;Enfermeiro;1,27
+3527900;Lutécia;7;0;7;Enfermeiro;2,64
+3528007;Macatuba;12;0;12;Enfermeiro;0,71
+3528106;Macaubal;12;0;12;Enfermeiro;1,61
+3528205;Macedônia;5;0;5;Enfermeiro;1,25
+3528304;Magda;3;0;3;Enfermeiro;0,95
+3528403;Mairinque;43;1;44;Enfermeiro;0,85
+3528502;Mairiporã;82;2;84;Enfermeiro;0,87
+3528601;Manduri;9;1;10;Enfermeiro;0,91
+3528700;Marabá Paulista;6;0;6;Enfermeiro;1,32
+3528809;Maracaí;12;1;13;Enfermeiro;0,96
+3528858;Marapoama;9;0;9;Enfermeiro;2,7
+3528908;Mariápolis;4;0;4;Enfermeiro;1,15
+3529005;Marília;741;38;779;Enfermeiro;3,11
+3529104;Marinópolis;1;0;1;Enfermeiro;0,55
+3529203;Martinópolis;26;0;26;Enfermeiro;1,05
+3529302;Matão;122;5;127;Enfermeiro;1,54
+3529401;Mauá;372;124;496;Enfermeiro;0,89
+3529500;Mendonça;7;0;7;Enfermeiro;1,12
+3529609;Meridiano;4;0;4;Enfermeiro;0,86
+3529658;Mesópolis;4;0;4;Enfermeiro;2,05
+3529708;Miguelópolis;22;0;22;Enfermeiro;1,14
+3529807;Mineiros do Tietê;11;0;11;Enfermeiro;0,99
+3529906;Miracatu;22;0;22;Enfermeiro;1,2
+3530003;Mira Estrela;5;0;5;Enfermeiro;1,59
+3530102;Mirandópolis;69;1;70;Enfermeiro;2,47
+3530201;Mirante do Paranapanema;19;1;20;Enfermeiro;1,2
+3530300;Mirassol;47;4;51;Enfermeiro;0,73
+3530409;Mirassolândia;9;0;9;Enfermeiro;1,92
+3530508;Mococa;80;6;86;Enfermeiro;1,18
+3530607;Mogi das Cruzes;679;225;904;Enfermeiro;1,49
+3530706;Mogi Guaçu;212;44;256;Enfermeiro;1,37
+3530805;Mogi Mirim;122;31;153;Enfermeiro;1,31
+3530904;Mombuca;3;0;3;Enfermeiro;0,8
+3531001;Monções;4;0;4;Enfermeiro;2,1
+3531100;Mongaguá;55;1;56;Enfermeiro;0,87
+3531209;Monte Alegre do Sul;8;0;8;Enfermeiro;0,92
+3531308;Monte Alto;77;9;86;Enfermeiro;1,62
+3531407;Monte Aprazível;24;1;25;Enfermeiro;1,07
+3531506;Monte Azul Paulista;25;0;25;Enfermeiro;1,39
+3531605;Monte Castelo;3;0;3;Enfermeiro;0,71
+3531704;Monteiro Lobato;9;0;9;Enfermeiro;2,17
+3531803;Monte Mor;48;5;53;Enfermeiro;0,73
+3531902;Morro Agudo;41;0;41;Enfermeiro;1,48
+3532009;Morungaba;19;0;19;Enfermeiro;1,37
+3532058;Motuca;6;0;6;Enfermeiro;1,51
+3532108;Murutinga do Sul;6;0;6;Enfermeiro;1,62
+3532157;Nantes;5;0;5;Enfermeiro;1,89
+3532207;Narandiba;7;0;7;Enfermeiro;1,2
+3532306;Natividade da Serra;8;0;8;Enfermeiro;1,14
+3532405;Nazaré Paulista;17;0;17;Enfermeiro;0,93
+3532504;Neves Paulista;8;0;8;Enfermeiro;0,82
+3532603;Nhandeara;21;1;22;Enfermeiro;2,15
+3532702;Nipoã;8;0;8;Enfermeiro;1,68
+3532801;Nova Aliança;7;0;7;Enfermeiro;1,04
+3532827;Nova Campina;10;0;10;Enfermeiro;1,18
+3532843;Nova Canaã Paulista;3;0;3;Enfermeiro;1,49
+3532868;Nova Castilho;3;0;3;Enfermeiro;2,85
+3532900;Nova Europa;12;2;14;Enfermeiro;1,29
+3533007;Nova Granada;16;0;16;Enfermeiro;0,82
+3533106;Nova Guataporanga;2;0;2;Enfermeiro;0,93
+3533205;Nova Independência;13;0;13;Enfermeiro;2,76
+3533254;Novais;7;0;7;Enfermeiro;1,6
+3533304;Nova Luzitânia;4;0;4;Enfermeiro;1,44
+3533403;Nova Odessa;67;1;68;Enfermeiro;1,07
+3533502;Novo Horizonte;48;1;49;Enfermeiro;1,25
+3533601;Nuporanga;12;0;12;Enfermeiro;1,61
+3533700;Ocauçu;8;0;8;Enfermeiro;1,84
+3533809;Óleo;4;0;4;Enfermeiro;1,61
+3533908;Olímpia;97;12;109;Enfermeiro;1,75
+3534005;Onda Verde;8;0;8;Enfermeiro;1,66
+3534104;Oriente;8;0;8;Enfermeiro;1,32
+3534203;Orindiúva;10;1;11;Enfermeiro;1,66
+3534302;Orlândia;38;5;43;Enfermeiro;1
+3534401;Osasco;866;386;1252;Enfermeiro;1,18
+3534500;Oscar Bressane;10;0;10;Enfermeiro;4,09
+3534609;Osvaldo Cruz;43;1;44;Enfermeiro;1,38
+3534708;Ourinhos;223;54;277;Enfermeiro;2,15
+3534757;Ouroeste;18;0;18;Enfermeiro;1,73
+3534807;Ouro Verde;7;0;7;Enfermeiro;0,9
+3534906;Pacaembu;24;0;24;Enfermeiro;1,6
+3535002;Palestina;11;1;12;Enfermeiro;0,96
+3535101;Palmares Paulista;7;0;7;Enfermeiro;0,74
+3535200;Palmeira d'Oeste;11;1;12;Enfermeiro;1,24
+3535309;Palmital;25;0;25;Enfermeiro;1,29
+3535408;Panorama;18;1;19;Enfermeiro;1,21
+3535507;Paraguaçu Paulista;74;0;74;Enfermeiro;1,81
+3535606;Paraibuna;19;1;20;Enfermeiro;1,08
+3535705;Paraíso;12;0;12;Enfermeiro;1,96
+3535804;Paranapanema;19;0;19;Enfermeiro;0,97
+3535903;Paranapuã;4;0;4;Enfermeiro;0,99
+3536000;Parapuã;16;0;16;Enfermeiro;1,52
+3536109;Pardinho;6;0;6;Enfermeiro;0,83
+3536208;Pariquera-Açu;103;0;103;Enfermeiro;5,35
+3536257;Parisi;4;0;4;Enfermeiro;1,35
+3536307;Patrocínio Paulista;18;0;18;Enfermeiro;1,23
+3536406;Paulicéia;15;0;15;Enfermeiro;1,87
+3536505;Paulínia;206;13;219;Enfermeiro;1,83
+3536570;Paulistânia;3;0;3;Enfermeiro;1,42
+3536604;Paulo de Faria;10;0;10;Enfermeiro;1,37
+3536703;Pederneiras;41;8;49;Enfermeiro;0,91
+3536802;Pedra Bela;3;0;3;Enfermeiro;0,45
+3536901;Pedranópolis;4;0;4;Enfermeiro;1,43
+3537008;Pedregulho;22;0;22;Enfermeiro;1,42
+3537107;Pedreira;36;1;37;Enfermeiro;0,83
+3537156;Pedrinhas Paulista;8;0;8;Enfermeiro;2,87
+3537206;Pedro de Toledo;7;0;7;Enfermeiro;0,62
+3537305;Penápolis;93;3;96;Enfermeiro;1,5
+3537404;Pereira Barreto;25;1;26;Enfermeiro;1,04
+3537503;Pereiras;11;0;11;Enfermeiro;1,25
+3537602;Peruíbe;79;4;83;Enfermeiro;1,15
+3537701;Piacatu;8;0;8;Enfermeiro;1,45
+3537800;Piedade;18;3;21;Enfermeiro;0,34
+3537909;Pilar do Sul;24;1;25;Enfermeiro;0,87
+3538006;Pindamonhangaba;191;89;280;Enfermeiro;1,15
+3538105;Pindorama;11;0;11;Enfermeiro;0,76
+3538204;Pinhalzinho;9;1;10;Enfermeiro;0,59
+3538303;Piquerobi;4;0;4;Enfermeiro;1,23
+3538501;Piquete;12;1;13;Enfermeiro;0,97
+3538600;Piracaia;19;2;21;Enfermeiro;0,73
+3538709;Piracicaba;665;189;854;Enfermeiro;1,56
+3538808;Piraju;31;0;31;Enfermeiro;1,06
+3538907;Pirajuí;28;0;28;Enfermeiro;1,25
+3539004;Pirangi;12;1;13;Enfermeiro;1,1
+3539103;Pirapora do Bom Jesus;17;3;20;Enfermeiro;0,92
+3539202;Pirapozinho;29;2;31;Enfermeiro;1,15
+3539301;Pirassununga;118;20;138;Enfermeiro;1,6
+3539400;Piratininga;23;0;23;Enfermeiro;1,5
+3539509;Pitangueiras;36;1;37;Enfermeiro;1,08
+3539608;Planalto;7;0;7;Enfermeiro;1,61
+3539707;Platina;5;0;5;Enfermeiro;1,66
+3539806;Poá;50;2;52;Enfermeiro;0,48
+3539905;Poloni;5;0;5;Enfermeiro;0,9
+3540002;Pompéia;27;8;35;Enfermeiro;1,34
+3540101;Pongaí;4;0;4;Enfermeiro;1,18
+3540200;Pontal;30;2;32;Enfermeiro;0,8
+3540259;Pontalinda;3;0;3;Enfermeiro;0,73
+3540309;Pontes Gestal;9;0;9;Enfermeiro;3,79
+3540408;Populina;5;0;5;Enfermeiro;1,21
+3540507;Porangaba;17;0;17;Enfermeiro;1,61
+3540606;Porto Feliz;59;0;59;Enfermeiro;1,04
+3540705;Porto Ferreira;50;3;53;Enfermeiro;0,95
+3540754;Potim;16;0;16;Enfermeiro;0,78
+3540804;Potirendaba;15;0;15;Enfermeiro;0,8
+3540853;Pracinha;5;0;5;Enfermeiro;1,95
+3540903;Pradópolis;16;0;16;Enfermeiro;0,94
+3541000;Praia Grande;424;29;453;Enfermeiro;1,19
+3541059;Pratânia;4;0;4;Enfermeiro;0,78
+3541109;Presidente Alves;4;0;4;Enfermeiro;1,06
+3541208;Presidente Bernardes;18;0;18;Enfermeiro;1,24
+3541307;Presidente Epitácio;49;1;50;Enfermeiro;1,25
+3541406;Presidente Prudente;530;142;672;Enfermeiro;2,34
+3541505;Presidente Venceslau;46;1;47;Enfermeiro;1,32
+3541604;Promissão;73;1;74;Enfermeiro;2,09
+3541653;Quadra;1;0;1;Enfermeiro;0,29
+3541703;Quatá;16;1;17;Enfermeiro;1,22
+3541802;Queiroz;7;0;7;Enfermeiro;2,12
+3541901;Queluz;9;0;9;Enfermeiro;1
+3542008;Quintana;12;0;12;Enfermeiro;1,68
+3542107;Rafard;7;0;7;Enfermeiro;0,78
+3542206;Rancharia;43;0;43;Enfermeiro;1,51
+3542305;Redenção da Serra;5;0;5;Enfermeiro;1,1
+3542404;Regente Feijó;20;0;20;Enfermeiro;0,99
+3542503;Reginópolis;11;0;11;Enfermeiro;1,43
+3542602;Registro;144;14;158;Enfermeiro;2,39
+3542701;Restinga;7;0;7;Enfermeiro;1,1
+3542800;Ribeira;5;0;5;Enfermeiro;1,61
+3542909;Ribeirão Bonito;11;0;11;Enfermeiro;1,01
+3543006;Ribeirão Branco;18;1;19;Enfermeiro;0,97
+3543105;Ribeirão Corrente;3;0;3;Enfermeiro;0,65
+3543204;Ribeirão do Sul;8;0;8;Enfermeiro;1,71
+3543238;Ribeirão dos Índios;1;0;1;Enfermeiro;0,5
+3543253;Ribeirão Grande;5;0;5;Enfermeiro;0,67
+3543303;Ribeirão Pires;93;53;146;Enfermeiro;0,81
+3543402;Ribeirão Preto;1584;466;2050;Enfermeiro;2,25
+3543501;Riversul;10;0;10;Enfermeiro;1,8
+3543600;Rifaina;6;0;6;Enfermeiro;1,46
+3543709;Rincão;12;0;12;Enfermeiro;1,34
+3543808;Rinópolis;10;0;10;Enfermeiro;1,09
+3543907;Rio Claro;197;103;300;Enfermeiro;0,97
+3544004;Rio das Pedras;16;0;16;Enfermeiro;0,51
+3544103;Rio Grande da Serra;20;0;20;Enfermeiro;0,45
+3544202;Riolândia;20;0;20;Enfermeiro;1,95
+3544251;Rosana;49;1;50;Enfermeiro;2,85
+3544301;Roseira;20;0;20;Enfermeiro;1,83
+3544400;Rubiácea;3;0;3;Enfermeiro;1,12
+3544509;Rubinéia;5;0;5;Enfermeiro;1,29
+3544608;Sabino;3;0;3;Enfermeiro;0,59
+3544707;Sagres;4;0;4;Enfermeiro;1,62
+3544806;Sales;11;0;11;Enfermeiro;1,69
+3544905;Sales Oliveira;17;0;17;Enfermeiro;1,48
+3545001;Salesópolis;12;0;12;Enfermeiro;0,79
+3545100;Salmourão;8;0;8;Enfermeiro;1,67
+3545159;Saltinho;13;0;13;Enfermeiro;1,58
+3545209;Salto;87;17;104;Enfermeiro;0,64
+3545308;Salto de Pirapora;51;0;51;Enfermeiro;1,16
+3545407;Salto Grande;8;0;8;Enfermeiro;0,88
+3545506;Sandovalina;4;1;5;Enfermeiro;1,1
+3545605;Santa Adélia;14;2;16;Enfermeiro;1
+3545704;Santa Albertina;7;0;7;Enfermeiro;1,09
+3545803;Santa Bárbara d'Oeste;155;21;176;Enfermeiro;0,85
+3546009;Santa Branca;17;0;17;Enfermeiro;1,22
+3546108;Santa Clara d'Oeste;3;1;4;Enfermeiro;1,15
+3546207;Santa Cruz da Conceição;6;0;6;Enfermeiro;1,4
+3546256;Santa Cruz da Esperança;4;0;4;Enfermeiro;1,89
+3546306;Santa Cruz das Palmeiras;26;2;28;Enfermeiro;0,9
+3546405;Santa Cruz do Rio Pardo;61;2;63;Enfermeiro;1,31
+3546504;Santa Ernestina;10;0;10;Enfermeiro;1,62
+3546603;Santa Fé do Sul;60;3;63;Enfermeiro;1,71
+3546702;Santa Gertrudes;33;1;34;Enfermeiro;1,39
+3546801;Santa Isabel;66;5;71;Enfermeiro;1,24
+3546900;Santa Lúcia;6;0;6;Enfermeiro;0,85
+3547007;Santa Maria da Serra;11;0;11;Enfermeiro;2,11
+3547106;Santa Mercedes;5;0;5;Enfermeiro;1,69
+3547205;Santana da Ponte Pensa;3;0;3;Enfermeiro;1,8
+3547304;Santana de Parnaíba;175;5;180;Enfermeiro;1,11
+3547403;Santa Rita d'Oeste;2;0;2;Enfermeiro;0,73
+3547502;Santa Rita do Passa Quatro;45;0;45;Enfermeiro;1,82
+3547601;Santa Rosa de Viterbo;17;2;19;Enfermeiro;0,73
+3547650;Santa Salete;3;0;3;Enfermeiro;1,82
+3547700;Santo Anastácio;19;2;21;Enfermeiro;1,07
+3547809;Santo André;923;612;1535;Enfermeiro;1,23
+3547908;Santo Antônio da Alegria;9;1;10;Enfermeiro;1,32
+3548005;Santo Antônio de Posse;19;1;20;Enfermeiro;0,81
+3548054;Santo Antônio do Aracanguá;11;0;11;Enfermeiro;1,31
+3548104;Santo Antônio do Jardim;4;0;4;Enfermeiro;0,65
+3548203;Santo Antônio do Pinhal;7;0;7;Enfermeiro;0,98
+3548302;Santo Expedito;4;0;4;Enfermeiro;1,33
+3548401;Santópolis do Aguapeí;7;0;7;Enfermeiro;1,81
+3548500;Santos;1067;381;1448;Enfermeiro;2,55
+3548609;São Bento do Sapucaí;11;0;11;Enfermeiro;0,94
+3548708;São Bernardo do Campo;1061;559;1620;Enfermeiro;1,31
+3548807;São Caetano do Sul;370;139;509;Enfermeiro;2,22
+3548906;São Carlos;429;75;504;Enfermeiro;1,67
+3549003;São Francisco;3;0;3;Enfermeiro;1,16
+3549102;São João da Boa Vista;144;65;209;Enfermeiro;1,55
+3549201;São João das Duas Pontes;2;0;2;Enfermeiro;0,78
+3549250;São João de Iracema;4;0;4;Enfermeiro;2,16
+3549300;São João do Pau d'Alho;4;0;4;Enfermeiro;1,78
+3549409;São Joaquim da Barra;54;1;55;Enfermeiro;1,11
+3549508;São José da Bela Vista;9;0;9;Enfermeiro;1,19
+3549607;São José do Barreiro;5;0;5;Enfermeiro;1,3
+3549706;São José do Rio Pardo;63;13;76;Enfermeiro;1,21
+3549805;São José do Rio Preto;1525;315;1840;Enfermeiro;3,14
+3549904;São José dos Campos;1122;540;1662;Enfermeiro;1,6
+3549953;São Lourenço da Serra;21;2;23;Enfermeiro;1,3
+3550001;São Luiz do Paraitinga;9;0;9;Enfermeiro;0,87
+3550100;São Manuel;41;1;42;Enfermeiro;1,1
+3550209;São Miguel Arcanjo;52;1;53;Enfermeiro;1,62
+3550308;São Paulo;20855;11531;32386;Enfermeiro;1,82
+3550407;São Pedro;45;4;49;Enfermeiro;1,16
+3550506;São Pedro do Turvo;9;0;9;Enfermeiro;1,25
+3550605;São Roque;88;59;147;Enfermeiro;1,11
+3550704;São Sebastião;190;4;194;Enfermeiro;2,32
+3550803;São Sebastião da Grama;11;0;11;Enfermeiro;1,07
+3550902;São Simão;17;0;17;Enfermeiro;1,28
+3551009;São Vicente;216;19;235;Enfermeiro;0,66
+3551108;Sarapuí;10;0;10;Enfermeiro;0,96
+3551207;Sarutaiá;3;0;3;Enfermeiro;0,81
+3551306;Sebastianópolis do Sul;4;0;4;Enfermeiro;1,28
+3551405;Serra Azul;11;0;11;Enfermeiro;0,86
+3551504;Serrana;72;2;74;Enfermeiro;1,63
+3551603;Serra Negra;28;0;28;Enfermeiro;0,93
+3551702;Sertãozinho;126;62;188;Enfermeiro;0,99
+3551801;Sete Barras;17;0;17;Enfermeiro;1,34
+3551900;Severínia;10;0;10;Enfermeiro;0,69
+3552007;Silveiras;12;0;12;Enfermeiro;1,93
+3552106;Socorro;45;0;45;Enfermeiro;1,12
+3552205;Sorocaba;1032;601;1633;Enfermeiro;1,41
+3552304;Sud Mennucci;13;0;13;Enfermeiro;1,78
+3552403;Sumaré;260;34;294;Enfermeiro;0,92
+3552502;Suzano;281;12;293;Enfermeiro;0,91
+3552551;Suzanápolis;3;0;3;Enfermeiro;0,88
+3552601;Tabapuã;11;1;12;Enfermeiro;0,97
+3552700;Tabatinga;15;0;15;Enfermeiro;1,02
+3552809;Taboão da Serra;326;14;340;Enfermeiro;1,19
+3552908;Taciba;5;0;5;Enfermeiro;0,79
+3553005;Taguaí;19;0;19;Enfermeiro;1,49
+3553104;Taiaçu;10;0;10;Enfermeiro;1,77
+3553203;Taiúva;10;0;10;Enfermeiro;1,51
+3553302;Tambaú;19;2;21;Enfermeiro;0,89
+3553401;Tanabi;15;0;15;Enfermeiro;0,59
+3553500;Tapiraí;6;0;6;Enfermeiro;0,75
+3553609;Tapiratiba;13;2;15;Enfermeiro;1,11
+3553658;Taquaral;6;0;6;Enfermeiro;2,3
+3553708;Taquaritinga;50;2;52;Enfermeiro;0,96
+3553807;Taquarituba;31;0;31;Enfermeiro;1,27
+3553856;Taquarivaí;12;0;12;Enfermeiro;1,72
+3553906;Tarabai;8;1;9;Enfermeiro;1,23
+3553955;Tarumã;11;0;11;Enfermeiro;0,73
+3554003;Tatuí;128;57;185;Enfermeiro;1,02
+3554102;Taubaté;594;71;665;Enfermeiro;1,9
+3554201;Tejupá;6;0;6;Enfermeiro;1,48
+3554300;Teodoro Sampaio;26;0;26;Enfermeiro;1,18
+3554409;Terra Roxa;7;0;7;Enfermeiro;0,89
+3554508;Tietê;35;2;37;Enfermeiro;0,93
+3554607;Timburi;4;0;4;Enfermeiro;1,63
+3554656;Torre de Pedra;1;0;1;Enfermeiro;0,5
+3554706;Torrinha;10;1;11;Enfermeiro;1,07
+3554755;Trabiju;4;0;4;Enfermeiro;2,36
+3554805;Tremembé;37;1;38;Enfermeiro;0,71
+3554904;Três Fronteiras;4;0;4;Enfermeiro;0,58
+3554953;Tuiuti;2;0;2;Enfermeiro;0,29
+3555000;Tupã;104;4;108;Enfermeiro;1,63
+3555109;Tupi Paulista;25;0;25;Enfermeiro;1,57
+3555208;Turiúba;2;0;2;Enfermeiro;1,11
+3555307;Turmalina;1;0;1;Enfermeiro;0,61
+3555356;Ubarana;6;0;6;Enfermeiro;1,13
+3555406;Ubatuba;154;1;155;Enfermeiro;1,64
+3555505;Ubirajara;8;0;8;Enfermeiro;1,55
+3555604;Uchoa;12;0;12;Enfermeiro;1,15
+3555703;União Paulista;3;0;3;Enfermeiro;1,87
+3555802;Urânia;16;0;16;Enfermeiro;1,81
+3555901;Uru;3;0;3;Enfermeiro;2,15
+3556008;Urupês;13;0;13;Enfermeiro;0,94
+3556107;Valentim Gentil;16;0;16;Enfermeiro;1,12
+3556206;Valinhos;151;55;206;Enfermeiro;1,18
+3556305;Valparaíso;35;0;35;Enfermeiro;1,44
+3556354;Vargem;6;0;6;Enfermeiro;0,56
+3556404;Vargem Grande do Sul;29;0;29;Enfermeiro;0,72
+3556453;Vargem Grande Paulista;54;12;66;Enfermeiro;1,06
+3556503;Várzea Paulista;42;5;47;Enfermeiro;0,36
+3556602;Vera Cruz;7;0;7;Enfermeiro;0,69
+3556701;Vinhedo;103;5;108;Enfermeiro;1,33
+3556800;Viradouro;24;1;25;Enfermeiro;1,38
+3556909;Vista Alegre do Alto;8;0;8;Enfermeiro;0,98
+3556958;Vitória Brasil;3;0;3;Enfermeiro;1,66
+3557006;Votorantim;88;21;109;Enfermeiro;0,68
+3557105;Votuporanga;292;40;332;Enfermeiro;3
+3557154;Zacarias;7;0;7;Enfermeiro;2,58
+3557204;Chavantes;12;0;12;Enfermeiro;0,99
+3557303;Estiva Gerbi;14;0;14;Enfermeiro;1,23
+3500105;Adamantina;178;19;197;Médico;5,13
+3500204;Adolfo;12;1;13;Médico;2,72
+3500303;Aguaí;46;28;74;Médico;1,44
+3500402;Águas da Prata;24;2;26;Médico;3,26
+3500501;Águas de Lindóia;48;10;58;Médico;2,68
+3500550;Águas de Santa Bárbara;16;0;16;Médico;2,2
+3500600;Águas de São Pedro;19;0;19;Médico;6,85
+3500709;Agudos;95;10;105;Médico;2,51
+3500758;Alambari;10;1;11;Médico;1,61
+3500808;Alfredo Marcondes;10;0;10;Médico;2,23
+3500907;Altair;12;0;12;Médico;3,52
+3501004;Altinópolis;22;7;29;Médico;1,3
+3501103;Alto Alegre;9;0;9;Médico;2,37
+3501152;Alumínio;25;10;35;Médico;1,45
+3501202;Álvares Florence;5;0;5;Médico;1,28
+3501301;Álvares Machado;80;2;82;Médico;2,91
+3501400;Álvaro de Carvalho;9;0;9;Médico;1,87
+3501509;Alvinlândia;2;0;2;Médico;0,7
+3501608;Americana;594;378;972;Médico;2,49
+3501707;Américo Brasiliense;195;4;199;Médico;5,95
+3501806;Américo de Campos;20;0;20;Médico;3,4
+3501905;Amparo;236;114;350;Médico;3,47
+3502002;Analândia;15;0;15;Médico;3,25
+3502101;Andradina;194;64;258;Médico;3,23
+3502200;Angatuba;36;6;42;Médico;1,49
+3502309;Anhembi;15;0;15;Médico;2,65
+3502408;Anhumas;3;0;3;Médico;0,74
+3502507;Aparecida;69;8;77;Médico;2,14
+3502606;Aparecida d'Oeste;10;0;10;Médico;2,48
+3502705;Apiaí;43;3;46;Médico;1,76
+3502754;Araçariguama;21;2;23;Médico;0,96
+3502804;Araçatuba;511;289;800;Médico;2,54
+3502903;Araçoiaba da Serra;41;23;64;Médico;1,25
+3503000;Aramina;15;0;15;Médico;2,75
+3503109;Arandu;29;0;29;Médico;4,18
+3503158;Arapeí;12;0;12;Médico;5,2
+3503208;Araraquara;691;341;1032;Médico;2,83
+3503307;Araras;361;131;492;Médico;2,75
+3503406;Arealva;17;2;19;Médico;2,09
+3503505;Areias;12;0;12;Médico;3,37
+3503604;Areiópolis;16;0;16;Médico;1,59
+3503703;Ariranha;7;1;8;Médico;0,93
+3503802;Artur Nogueira;62;41;103;Médico;1,19
+3503901;Arujá;198;97;295;Médico;2,26
+3503950;Aspásia;2;0;2;Médico;1,09
+3504008;Assis;282;195;477;Médico;2,77
+3504107;Atibaia;520;532;1052;Médico;3,23
+3504206;Auriflama;30;0;30;Médico;2,2
+3504305;Avaí;7;0;7;Médico;1,58
+3504404;Avanhandava;37;0;37;Médico;3,3
+3504503;Avaré;224;30;254;Médico;2,4
+3504602;Bady Bassitt;73;2;75;Médico;2,58
+3504701;Balbinos;7;0;7;Médico;1,79
+3504800;Bálsamo;15;0;15;Médico;1,54
+3504909;Bananal;31;4;35;Médico;3,12
+3505005;Barão de Antonina;5;0;5;Médico;1,4
+3505104;Barbosa;11;0;11;Médico;1,98
+3505203;Bariri;67;13;80;Médico;2,12
+3505302;Barra Bonita;94;22;116;Médico;2,75
+3505351;Barra do Chapéu;2;0;2;Médico;0,39
+3505401;Barra do Turvo;11;0;11;Médico;1,62
+3505500;Barretos;1070;103;1173;Médico;8,69
+3505609;Barrinha;70;29;99;Médico;2,17
+3505708;Barueri;1582;437;2019;Médico;4,92
+3505807;Bastos;40;4;44;Médico;1,86
+3505906;Batatais;158;34;192;Médico;2,7
+3506003;Bauru;986;455;1441;Médico;2,59
+3506102;Bebedouro;211;111;322;Médico;2,76
+3506201;Bento de Abreu;2;0;2;Médico;0,77
+3506300;Bernardino de Campos;62;0;62;Médico;5,32
+3506359;Bertioga;99;29;128;Médico;1,51
+3506409;Bilac;12;1;13;Médico;1,64
+3506508;Birigui;129;102;231;Médico;1,08
+3506607;Biritiba Mirim;98;2;100;Médico;3,3
+3506706;Boa Esperança do Sul;11;1;12;Médico;0,85
+3506805;Bocaina;8;0;8;Médico;0,71
+3506904;Bofete;18;0;18;Médico;1,71
+3507001;Boituva;151;71;222;Médico;2,43
+3507100;Bom Jesus dos Perdões;36;2;38;Médico;1,62
+3507159;Bom Sucesso de Itararé;1;0;1;Médico;0,28
+3507209;Borá;1;0;1;Médico;1,11
+3507308;Boracéia;11;1;12;Médico;2,3
+3507407;Borborema;25;3;28;Médico;1,76
+3507456;Borebi;4;0;4;Médico;1,46
+3507506;Botucatu;1283;216;1499;Médico;8,77
+3507605;Bragança Paulista;752;123;875;Médico;4,2
+3507704;Braúna;4;0;4;Médico;0,75
+3507753;Brejo Alegre;6;0;6;Médico;2,34
+3507803;Brodowski;48;2;50;Médico;1,89
+3507902;Brotas;29;9;38;Médico;1,21
+3508009;Buri;29;1;30;Médico;1,43
+3508108;Buritama;29;4;33;Médico;1,68
+3508207;Buritizal;16;0;16;Médico;3,67
+3508306;Cabrália Paulista;4;0;4;Médico;0,93
+3508405;Cabreúva;100;29;129;Médico;2,11
+3508504;Caçapava;226;135;361;Médico;2,33
+3508603;Cachoeira Paulista;43;17;60;Médico;1,36
+3508702;Caconde;21;4;25;Médico;1,24
+3508801;Cafelândia;20;11;31;Médico;1,2
+3508900;Caiabu;5;0;5;Médico;1,36
+3509007;Caieiras;287;161;448;Médico;3,01
+3509106;Caiuá;4;0;4;Médico;0,73
+3509205;Cajamar;158;67;225;Médico;1,67
+3509254;Cajati;37;7;44;Médico;1,3
+3509304;Cajobi;10;1;11;Médico;1,1
+3509403;Cajuru;48;4;52;Médico;2,02
+3509452;Campina do Monte Alegre;3;0;3;Médico;0,5
+3509502;Campinas;3940;3831;7771;Médico;3,46
+3509601;Campo Limpo Paulista;80;9;89;Médico;1,03
+3509700;Campos do Jordão;138;35;173;Médico;2,95
+3509809;Campos Novos Paulista;7;0;7;Médico;1,43
+3509908;Cananéia;13;1;14;Médico;1,06
+3509957;Canas;3;0;3;Médico;0,6
+3510005;Cândido Mota;60;7;67;Médico;2,05
+3510104;Cândido Rodrigues;4;0;4;Médico;1,37
+3510153;Canitar;31;0;31;Médico;4,81
+3510203;Capão Bonito;74;5;79;Médico;1,6
+3510302;Capela do Alto;29;0;29;Médico;1,25
+3510401;Capivari;104;51;155;Médico;2,08
+3510500;Caraguatatuba;412;108;520;Médico;3
+3510609;Carapicuíba;483;133;616;Médico;1,25
+3510708;Cardoso;20;0;20;Médico;1,77
+3510807;Casa Branca;68;9;77;Médico;2,43
+3510906;Cássia dos Coqueiros;12;0;12;Médico;4,29
+3511003;Castilho;17;0;17;Médico;0,85
+3511102;Catanduva;530;199;729;Médico;4,58
+3511201;Catiguá;13;0;13;Médico;1,87
+3511300;Cedral;33;4;37;Médico;2,54
+3511409;Cerqueira César;19;4;23;Médico;0,87
+3511508;Cerquilho;41;51;92;Médico;0,91
+3511607;Cesário Lange;21;2;23;Médico;1,09
+3511706;Charqueada;15;1;16;Médico;0,97
+3511904;Clementina;6;0;6;Médico;0,86
+3512001;Colina;39;5;44;Médico;2,1
+3512100;Colômbia;22;1;23;Médico;3,3
+3512209;Conchal;25;6;31;Médico;0,89
+3512308;Conchas;5;5;10;Médico;0,33
+3512407;Cordeirópolis;27;24;51;Médico;1,09
+3512506;Coroados;1;0;1;Médico;0,19
+3512605;Coronel Macedo;4;0;4;Médico;0,95
+3512704;Corumbataí;20;0;20;Médico;4,76
+3512803;Cosmópolis;77;17;94;Médico;1,29
+3512902;Cosmorama;13;2;15;Médico;1,47
+3513009;Cotia;298;172;470;Médico;1,07
+3513108;Cravinhos;41;4;45;Médico;1,23
+3513207;Cristais Paulista;33;0;33;Médico;3,52
+3513306;Cruzália;5;0;5;Médico;2,39
+3513405;Cruzeiro;174;70;244;Médico;2,33
+3513504;Cubatão;406;60;466;Médico;3,64
+3513603;Cunha;27;8;35;Médico;1,22
+3513702;Descalvado;73;4;77;Médico;2,3
+3513801;Diadema;977;520;1497;Médico;2,49
+3513850;Dirce Reis;3;0;3;Médico;1,86
+3513900;Divinolândia;48;2;50;Médico;4,32
+3514007;Dobrada;5;0;5;Médico;0,57
+3514106;Dois Córregos;46;5;51;Médico;1,88
+3514205;Dolcinópolis;3;0;3;Médico;1,35
+3514304;Dourado;6;0;6;Médico;0,74
+3514403;Dracena;165;29;194;Médico;3,62
+3514502;Duartina;15;12;27;Médico;1,22
+3514601;Dumont;64;0;64;Médico;6,69
+3514700;Echaporã;12;0;12;Médico;1,94
+3514809;Eldorado;7;0;7;Médico;0,54
+3514908;Elias Fausto;26;4;30;Médico;1,46
+3514924;Elisiário;1;0;1;Médico;0,32
+3514957;Embaúba;14;0;14;Médico;6,06
+3515004;Embu das Artes;315;22;337;Médico;1,26
+3515103;Embu-Guaçu;55;11;66;Médico;0,82
+3515129;Emilianópolis;4;0;4;Médico;1,33
+3515152;Engenheiro Coelho;30;18;48;Médico;1,51
+3515186;Espírito Santo do Pinhal;80;31;111;Médico;2,02
+3515194;Espírito Santo do Turvo;6;0;6;Médico;1,44
+3515202;Estrela d'Oeste;11;3;14;Médico;1,16
+3515301;Estrela do Norte;4;0;4;Médico;1,49
+3515350;Euclides da Cunha Paulista;8;1;9;Médico;1,03
+3515400;Fartura;32;3;35;Médico;1,92
+3515509;Fernandópolis;200;109;309;Médico;2,79
+3515608;Fernando Prestes;18;0;18;Médico;3,01
+3515657;Fernão;1;0;1;Médico;0,6
+3515707;Ferraz de Vasconcelos;457;13;470;Médico;2,55
+3515806;Flora Rica;5;0;5;Médico;3,42
+3515905;Floreal;5;0;5;Médico;1,85
+3516002;Flórida Paulista;12;1;13;Médico;0,93
+3516101;Florínea;4;0;4;Médico;1,02
+3516200;Franca;814;270;1084;Médico;2,3
+3516309;Francisco Morato;247;16;263;Médico;1,49
+3516408;Franco da Rocha;350;30;380;Médico;2,4
+3516507;Gabriel Monteiro;2;0;2;Médico;0,72
+3516606;Gália;17;1;18;Médico;2,7
+3516705;Garça;85;17;102;Médico;2,03
+3516804;Gastão Vidigal;1;0;1;Médico;0,32
+3516853;Gavião Peixoto;8;0;8;Médico;1,69
+3516903;General Salgado;6;1;7;Médico;0,58
+3517000;Getulina;16;0;16;Médico;1,58
+3517109;Glicério;4;0;4;Médico;0,98
+3517208;Guaiçara;11;0;11;Médico;0,98
+3517307;Guaimbê;2;0;2;Médico;0,36
+3517406;Guaíra;47;9;56;Médico;1,19
+3517505;Guapiaçu;35;2;37;Médico;1,59
+3517604;Guapiara;8;0;8;Médico;0,47
+3517703;Guará;43;6;49;Médico;2,33
+3517802;Guaraçaí;7;0;7;Médico;0,96
+3517901;Guaraci;23;0;23;Médico;2,22
+3518008;Guarani d'Oeste;5;0;5;Médico;2,55
+3518107;Guarantã;3;0;3;Médico;0,47
+3518206;Guararapes;34;1;35;Médico;1,1
+3518305;Guararema;78;6;84;Médico;2,47
+3518404;Guaratinguetá;223;193;416;Médico;1,88
+3518503;Guareí;14;1;15;Médico;0,93
+3518602;Guariba;42;15;57;Médico;1,12
+3518701;Guarujá;854;177;1031;Médico;2,98
+3518800;Guarulhos;2206;1623;3829;Médico;1,71
+3518859;Guatapará;18;0;18;Médico;2,46
+3518909;Guzolândia;2;0;2;Médico;0,48
+3519006;Herculândia;14;0;14;Médico;1,53
+3519055;Holambra;9;6;15;Médico;0,58
+3519071;Hortolândia;251;52;303;Médico;1,05
+3519105;Iacanga;7;0;7;Médico;0,67
+3519204;Iacri;6;0;6;Médico;0,98
+3519253;Iaras;5;0;5;Médico;0,62
+3519303;Ibaté;71;4;75;Médico;2,2
+3519402;Ibirá;12;0;12;Médico;1,02
+3519501;Ibirarema;7;0;7;Médico;1,11
+3519600;Ibitinga;97;24;121;Médico;1,6
+3519709;Ibiúna;50;17;67;Médico;0,66
+3519808;Icém;16;3;19;Médico;2,04
+3519907;Iepê;16;1;17;Médico;2,11
+3520004;Igaraçu do Tietê;26;0;26;Médico;1,13
+3520103;Igarapava;46;8;54;Médico;1,77
+3520202;Igaratá;10;0;10;Médico;0,93
+3520301;Iguape;77;6;83;Médico;2,65
+3520400;Ilhabela;108;6;114;Médico;3,05
+3520426;Ilha Comprida;12;4;16;Médico;0,87
+3520442;Ilha Solteira;53;14;67;Médico;2,08
+3520509;Indaiatuba;840;172;1012;Médico;3,23
+3520608;Indiana;2;0;2;Médico;0,39
+3520707;Indiaporã;10;0;10;Médico;2,47
+3520806;Inúbia Paulista;8;0;8;Médico;2,23
+3520905;Ipaussu;8;0;8;Médico;0,58
+3521002;Iperó;29;2;31;Médico;0,78
+3521101;Ipeúna;67;0;67;Médico;9,73
+3521150;Ipiguá;34;0;34;Médico;4,9
+3521200;Iporanga;9;0;9;Médico;2,23
+3521309;Ipuã;13;3;16;Médico;0,9
+3521408;Iracemápolis;20;8;28;Médico;0,91
+3521507;Irapuã;3;1;4;Médico;0,44
+3521606;Irapuru;7;0;7;Médico;1
+3521705;Itaberá;23;0;23;Médico;1,28
+3521804;Itaí;13;2;15;Médico;0,52
+3521903;Itajobi;17;3;20;Médico;0,99
+3522000;Itaju;2;0;2;Médico;0,55
+3522109;Itanhaém;167;42;209;Médico;1,46
+3522158;Itaoca;2;0;2;Médico;0,58
+3522208;Itapecerica da Serra;270;57;327;Médico;1,71
+3522307;Itapetininga;260;117;377;Médico;1,64
+3522406;Itapeva;159;46;205;Médico;1,77
+3522505;Itapevi;369;56;425;Médico;1,58
+3522604;Itapira;112;93;205;Médico;1,55
+3522653;Itapirapuã Paulista;3;0;3;Médico;0,69
+3522703;Itápolis;53;7;60;Médico;1,35
+3522802;Itaporanga;15;1;16;Médico;1,07
+3522901;Itapuí;12;0;12;Médico;0,87
+3523008;Itapura;1;0;1;Médico;0,25
+3523107;Itaquaquecetuba;258;39;297;Médico;0,69
+3523206;Itararé;46;9;55;Médico;1,04
+3523305;Itariri;17;1;18;Médico;1,1
+3523404;Itatiba;275;29;304;Médico;2,24
+3523503;Itatinga;8;1;9;Médico;0,42
+3523602;Itirapina;29;1;30;Médico;1,79
+3523701;Itirapuã;4;0;4;Médico;0,7
+3523800;Itobi;12;1;13;Médico;1,49
+3523909;Itu;471;130;601;Médico;2,79
+3524006;Itupeva;126;43;169;Médico;1,74
+3524105;Ituverava;112;56;168;Médico;2,99
+3524204;Jaborandi;8;3;11;Médico;1,3
+3524303;Jaboticabal;219;58;277;Médico;3,05
+3524402;Jacareí;676;380;1056;Médico;2,79
+3524501;Jaci;24;0;24;Médico;3,1
+3524600;Jacupiranga;15;1;16;Médico;0,94
+3524709;Jaguariúna;242;29;271;Médico;4,01
+3524808;Jales;129;51;180;Médico;2,64
+3524907;Jambeiro;6;0;6;Médico;0,93
+3525003;Jandira;50;16;66;Médico;0,42
+3525102;Jardinópolis;66;7;73;Médico;1,44
+3525201;Jarinu;21;4;25;Médico;0,54
+3525300;Jaú;479;104;583;Médico;3,59
+3525409;Jeriquara;2;0;2;Médico;0,51
+3525508;Joanópolis;17;3;20;Médico;1,32
+3525607;João Ramalho;5;0;5;Médico;1,15
+3525706;José Bonifácio;39;14;53;Médico;1,06
+3525805;Júlio Mesquita;5;0;5;Médico;1,18
+3525854;Jumirim;4;0;4;Médico;1,3
+3525904;Jundiaí;1156;1062;2218;Médico;2,58
+3526001;Junqueirópolis;24;0;24;Médico;1,17
+3526100;Juquiá;13;2;15;Médico;0,77
+3526209;Juquitiba;16;1;17;Médico;0,59
+3526308;Lagoinha;8;0;8;Médico;1,57
+3526407;Laranjal Paulista;40;11;51;Médico;1,52
+3526506;Lavínia;10;0;10;Médico;1,03
+3526605;Lavrinhas;4;1;5;Médico;0,56
+3526704;Leme;148;42;190;Médico;1,5
+3526803;Lençóis Paulista;100;31;131;Médico;1,5
+3526902;Limeira;569;263;832;Médico;1,94
+3527009;Lindóia;19;2;21;Médico;2,71
+3527108;Lins;97;83;180;Médico;1,3
+3527207;Lorena;155;93;248;Médico;1,83
+3527306;Louveira;76;13;89;Médico;1,44
+3527405;Lucélia;20;3;23;Médico;1
+3527504;Lucianópolis;2;0;2;Médico;0,84
+3527603;Luís Antônio;17;1;18;Médico;1,38
+3527702;Luiziânia;16;0;16;Médico;3,43
+3527801;Lupércio;2;0;2;Médico;0,51
+3527900;Lutécia;2;0;2;Médico;0,75
+3528007;Macatuba;9;0;9;Médico;0,54
+3528106;Macaubal;7;0;7;Médico;0,94
+3528205;Macedônia;3;0;3;Médico;0,75
+3528304;Magda;6;0;6;Médico;1,9
+3528403;Mairinque;46;13;59;Médico;0,91
+3528502;Mairiporã;90;4;94;Médico;0,95
+3528601;Manduri;18;0;18;Médico;1,81
+3528700;Marabá Paulista;3;0;3;Médico;0,66
+3528809;Maracaí;13;0;13;Médico;1,04
+3528858;Marapoama;9;0;9;Médico;2,7
+3528908;Mariápolis;1;0;1;Médico;0,29
+3529005;Marília;1148;229;1377;Médico;4,81
+3529104;Marinópolis;1;0;1;Médico;0,55
+3529203;Martinópolis;46;6;52;Médico;1,85
+3529302;Matão;184;20;204;Médico;2,33
+3529401;Mauá;654;346;1000;Médico;1,57
+3529500;Mendonça;6;1;7;Médico;0,96
+3529609;Meridiano;1;0;1;Médico;0,22
+3529658;Mesópolis;1;0;1;Médico;0,51
+3529708;Miguelópolis;24;3;27;Médico;1,24
+3529807;Mineiros do Tietê;8;0;8;Médico;0,72
+3529906;Miracatu;11;1;12;Médico;0,6
+3530003;Mira Estrela;4;0;4;Médico;1,27
+3530102;Mirandópolis;29;7;36;Médico;1,04
+3530201;Mirante do Paranapanema;40;3;43;Médico;2,53
+3530300;Mirassol;71;89;160;Médico;1,11
+3530409;Mirassolândia;6;0;6;Médico;1,28
+3530508;Mococa;99;35;134;Médico;1,46
+3530607;Mogi das Cruzes;756;597;1353;Médico;1,66
+3530706;Mogi Guaçu;256;82;338;Médico;1,66
+3530805;Mogi Mirim;88;73;161;Médico;0,95
+3530904;Mombuca;3;0;3;Médico;0,8
+3531001;Monções;3;0;3;Médico;1,57
+3531100;Mongaguá;59;13;72;Médico;0,94
+3531209;Monte Alegre do Sul;7;1;8;Médico;0,8
+3531308;Monte Alto;53;23;76;Médico;1,12
+3531407;Monte Aprazível;15;19;34;Médico;0,67
+3531506;Monte Azul Paulista;17;4;21;Médico;0,94
+3531605;Monte Castelo;7;0;7;Médico;1,66
+3531704;Monteiro Lobato;11;0;11;Médico;2,66
+3531803;Monte Mor;35;17;52;Médico;0,53
+3531902;Morro Agudo;39;9;48;Médico;1,4
+3532009;Morungaba;12;1;13;Médico;0,86
+3532058;Motuca;4;0;4;Médico;1,01
+3532108;Murutinga do Sul;2;0;2;Médico;0,54
+3532157;Nantes;4;0;4;Médico;1,51
+3532207;Narandiba;6;0;6;Médico;1,03
+3532306;Natividade da Serra;8;0;8;Médico;1,14
+3532405;Nazaré Paulista;23;1;24;Médico;1,26
+3532504;Neves Paulista;9;1;10;Médico;0,92
+3532603;Nhandeara;16;3;19;Médico;1,64
+3532702;Nipoã;5;0;5;Médico;1,05
+3532801;Nova Aliança;17;0;17;Médico;2,52
+3532827;Nova Campina;5;0;5;Médico;0,59
+3532843;Nova Canaã Paulista;2;0;2;Médico;0,99
+3532868;Nova Castilho;3;0;3;Médico;2,85
+3532900;Nova Europa;9;3;12;Médico;0,97
+3533007;Nova Granada;16;9;25;Médico;0,82
+3533106;Nova Guataporanga;1;0;1;Médico;0,46
+3533205;Nova Independência;7;0;7;Médico;1,48
+3533254;Novais;7;0;7;Médico;1,6
+3533304;Nova Luzitânia;3;0;3;Médico;1,08
+3533403;Nova Odessa;79;2;81;Médico;1,26
+3533502;Novo Horizonte;82;11;93;Médico;2,14
+3533601;Nuporanga;8;1;9;Médico;1,08
+3533700;Ocauçu;2;0;2;Médico;0,46
+3533809;Óleo;5;0;5;Médico;2,01
+3533908;Olímpia;84;20;104;Médico;1,52
+3534005;Onda Verde;6;0;6;Médico;1,25
+3534104;Oriente;18;0;18;Médico;2,97
+3534203;Orindiúva;12;6;18;Médico;1,99
+3534302;Orlândia;73;34;107;Médico;1,92
+3534401;Osasco;1053;1174;2227;Médico;1,44
+3534500;Oscar Bressane;5;0;5;Médico;2,04
+3534609;Osvaldo Cruz;54;18;72;Médico;1,73
+3534708;Ourinhos;197;105;302;Médico;1,9
+3534757;Ouroeste;14;3;17;Médico;1,35
+3534807;Ouro Verde;7;0;7;Médico;0,9
+3534906;Pacaembu;13;1;14;Médico;0,87
+3535002;Palestina;19;3;22;Médico;1,65
+3535101;Palmares Paulista;21;0;21;Médico;2,21
+3535200;Palmeira d'Oeste;4;2;6;Médico;0,45
+3535309;Palmital;40;1;41;Médico;2,06
+3535408;Panorama;6;1;7;Médico;0,4
+3535507;Paraguaçu Paulista;120;9;129;Médico;2,93
+3535606;Paraibuna;8;2;10;Médico;0,45
+3535705;Paraíso;31;0;31;Médico;5,07
+3535804;Paranapanema;10;0;10;Médico;0,51
+3535903;Paranapuã;3;0;3;Médico;0,74
+3536000;Parapuã;3;1;4;Médico;0,28
+3536109;Pardinho;1;0;1;Médico;0,14
+3536208;Pariquera-Açu;106;0;106;Médico;5,51
+3536257;Parisi;1;0;1;Médico;0,34
+3536307;Patrocínio Paulista;10;1;11;Médico;0,69
+3536406;Paulicéia;5;0;5;Médico;0,62
+3536505;Paulínia;209;48;257;Médico;1,86
+3536570;Paulistânia;1;0;1;Médico;0,47
+3536604;Paulo de Faria;6;0;6;Médico;0,82
+3536703;Pederneiras;36;11;47;Médico;0,8
+3536802;Pedra Bela;1;0;1;Médico;0,15
+3536901;Pedranópolis;3;0;3;Médico;1,07
+3537008;Pedregulho;9;6;15;Médico;0,58
+3537107;Pedreira;58;12;70;Médico;1,34
+3537156;Pedrinhas Paulista;3;0;3;Médico;1,07
+3537206;Pedro de Toledo;6;0;6;Médico;0,53
+3537305;Penápolis;106;27;133;Médico;1,72
+3537404;Pereira Barreto;12;11;23;Médico;0,5
+3537503;Pereiras;15;1;16;Médico;1,71
+3537602;Peruíbe;48;30;78;Médico;0,7
+3537701;Piacatu;3;1;4;Médico;0,54
+3537800;Piedade;40;17;57;Médico;0,76
+3537909;Pilar do Sul;20;6;26;Médico;0,72
+3538006;Pindamonhangaba;389;117;506;Médico;2,33
+3538105;Pindorama;13;0;13;Médico;0,9
+3538204;Pinhalzinho;10;1;11;Médico;0,65
+3538303;Piquerobi;1;0;1;Médico;0,31
+3538501;Piquete;5;0;5;Médico;0,41
+3538600;Piracaia;22;1;23;Médico;0,84
+3538709;Piracicaba;1119;414;1533;Médico;2,62
+3538808;Piraju;37;9;46;Médico;1,26
+3538907;Pirajuí;25;5;30;Médico;1,12
+3539004;Pirangi;24;1;25;Médico;2,2
+3539103;Pirapora do Bom Jesus;13;4;17;Médico;0,7
+3539202;Pirapozinho;17;5;22;Médico;0,67
+3539301;Pirassununga;120;59;179;Médico;1,63
+3539400;Piratininga;13;1;14;Médico;0,85
+3539509;Pitangueiras;55;7;62;Médico;1,64
+3539608;Planalto;9;0;9;Médico;2,06
+3539806;Poá;48;13;61;Médico;0,47
+3539905;Poloni;11;2;13;Médico;1,97
+3540002;Pompéia;25;9;34;Médico;1,24
+3540101;Pongaí;2;0;2;Médico;0,59
+3540200;Pontal;59;10;69;Médico;1,58
+3540259;Pontalinda;1;0;1;Médico;0,24
+3540309;Pontes Gestal;17;0;17;Médico;7,16
+3540408;Populina;3;0;3;Médico;0,73
+3540507;Porangaba;26;1;27;Médico;2,46
+3540606;Porto Feliz;81;18;99;Médico;1,42
+3540705;Porto Ferreira;109;19;128;Médico;2,07
+3540754;Potim;9;0;9;Médico;0,44
+3540804;Potirendaba;13;18;31;Médico;0,69
+3540853;Pracinha;2;0;2;Médico;0,78
+3540903;Pradópolis;20;0;20;Médico;1,18
+3541000;Praia Grande;790;199;989;Médico;2,22
+3541059;Pratânia;3;0;3;Médico;0,58
+3541109;Presidente Alves;3;0;3;Médico;0,8
+3541208;Presidente Bernardes;11;6;17;Médico;0,76
+3541307;Presidente Epitácio;52;16;68;Médico;1,33
+3541406;Presidente Prudente;742;300;1042;Médico;3,28
+3541505;Presidente Venceslau;28;22;50;Médico;0,8
+3541604;Promissão;37;7;44;Médico;1,06
+3541653;Quadra;14;0;14;Médico;4,1
+3541703;Quatá;13;2;15;Médico;0,99
+3541802;Queiroz;1;0;1;Médico;0,3
+3541901;Queluz;10;0;10;Médico;1,12
+3542008;Quintana;7;0;7;Médico;0,98
+3542107;Rafard;8;0;8;Médico;0,89
+3542206;Rancharia;27;4;31;Médico;0,95
+3542305;Redenção da Serra;10;0;10;Médico;2,2
+3542404;Regente Feijó;14;4;18;Médico;0,69
+3542503;Reginópolis;6;0;6;Médico;0,78
+3542602;Registro;100;37;137;Médico;1,66
+3542701;Restinga;4;0;4;Médico;0,63
+3542800;Ribeira;6;0;6;Médico;1,93
+3542909;Ribeirão Bonito;8;1;9;Médico;0,74
+3543006;Ribeirão Branco;7;0;7;Médico;0,38
+3543204;Ribeirão do Sul;8;0;8;Médico;1,71
+3543238;Ribeirão dos Índios;1;0;1;Médico;0,5
+3543253;Ribeirão Grande;6;0;6;Médico;0,81
+3543303;Ribeirão Pires;122;118;240;Médico;1,06
+3543402;Ribeirão Preto;3222;1500;4722;Médico;4,57
+3543501;Riversul;4;0;4;Médico;0,72
+3543600;Rifaina;3;0;3;Médico;0,73
+3543709;Rincão;9;0;9;Médico;1,01
+3543808;Rinópolis;10;1;11;Médico;1,09
+3543907;Rio Claro;194;212;406;Médico;0,96
+3544004;Rio das Pedras;11;9;20;Médico;0,35
+3544103;Rio Grande da Serra;29;0;29;Médico;0,66
+3544202;Riolândia;8;0;8;Médico;0,78
+3544251;Rosana;35;3;38;Médico;2,03
+3544301;Roseira;53;1;54;Médico;4,86
+3544400;Rubiácea;3;0;3;Médico;1,12
+3544509;Rubinéia;2;0;2;Médico;0,51
+3544608;Sabino;4;0;4;Médico;0,79
+3544707;Sagres;1;0;1;Médico;0,4
+3544806;Sales;3;0;3;Médico;0,46
+3544905;Sales Oliveira;7;7;14;Médico;0,61
+3545001;Salesópolis;9;0;9;Médico;0,59
+3545100;Salmourão;1;0;1;Médico;0,21
+3545159;Saltinho;18;0;18;Médico;2,19
+3545209;Salto;64;46;110;Médico;0,47
+3545308;Salto de Pirapora;44;7;51;Médico;1
+3545407;Salto Grande;6;0;6;Médico;0,66
+3545506;Sandovalina;4;0;4;Médico;1,1
+3545605;Santa Adélia;8;6;14;Médico;0,57
+3545704;Santa Albertina;3;0;3;Médico;0,47
+3545803;Santa Bárbara d'Oeste;155;39;194;Médico;0,85
+3546009;Santa Branca;15;2;17;Médico;1,07
+3546108;Santa Clara d'Oeste;2;0;2;Médico;0,76
+3546207;Santa Cruz da Conceição;2;0;2;Médico;0,47
+3546256;Santa Cruz da Esperança;3;0;3;Médico;1,41
+3546306;Santa Cruz das Palmeiras;20;6;26;Médico;0,7
+3546405;Santa Cruz do Rio Pardo;101;6;107;Médico;2,17
+3546504;Santa Ernestina;3;0;3;Médico;0,49
+3546603;Santa Fé do Sul;61;25;86;Médico;1,74
+3546702;Santa Gertrudes;20;6;26;Médico;0,84
+3546801;Santa Isabel;49;6;55;Médico;0,92
+3546900;Santa Lúcia;2;0;2;Médico;0,28
+3547007;Santa Maria da Serra;10;0;10;Médico;1,92
+3547106;Santa Mercedes;2;0;2;Médico;0,68
+3547304;Santana de Parnaíba;205;10;215;Médico;1,3
+3547502;Santa Rita do Passa Quatro;29;6;35;Médico;1,18
+3547601;Santa Rosa de Viterbo;21;8;29;Médico;0,9
+3547650;Santa Salete;1;0;1;Médico;0,61
+3547700;Santo Anastácio;10;1;11;Médico;0,56
+3547809;Santo André;2067;1450;3517;Médico;2,75
+3547908;Santo Antônio da Alegria;17;0;17;Médico;2,5
+3548005;Santo Antônio de Posse;14;4;18;Médico;0,6
+3548054;Santo Antônio do Aracanguá;8;0;8;Médico;0,95
+3548104;Santo Antônio do Jardim;6;0;6;Médico;0,98
+3548203;Santo Antônio do Pinhal;6;1;7;Médico;0,84
+3548302;Santo Expedito;1;0;1;Médico;0,33
+3548401;Santópolis do Aguapeí;12;0;12;Médico;3,1
+3548500;Santos;1911;969;2880;Médico;4,57
+3548609;São Bento do Sapucaí;25;0;25;Médico;2,13
+3548708;São Bernardo do Campo;1721;1234;2955;Médico;2,12
+3548807;São Caetano do Sul;1159;525;1684;Médico;6,97
+3548906;São Carlos;383;340;723;Médico;1,49
+3549003;São Francisco;4;0;4;Médico;1,55
+3549102;São João da Boa Vista;193;140;333;Médico;2,07
+3549250;São João de Iracema;2;0;2;Médico;1,08
+3549300;São João do Pau d'Alho;4;0;4;Médico;1,78
+3549409;São Joaquim da Barra;126;16;142;Médico;2,59
+3549508;São José da Bela Vista;1;0;1;Médico;0,13
+3549607;São José do Barreiro;3;0;3;Médico;0,78
+3549706;São José do Rio Pardo;76;37;113;Médico;1,46
+3549805;São José do Rio Preto;2149;707;2856;Médico;4,43
+3549904;São José dos Campos;1491;869;2360;Médico;2,13
+3549953;São Lourenço da Serra;13;1;14;Médico;0,8
+3550001;São Luiz do Paraitinga;7;0;7;Médico;0,68
+3550100;São Manuel;43;10;53;Médico;1,16
+3550209;São Miguel Arcanjo;19;2;21;Médico;0,59
+3550308;São Paulo;29454;24363;53817;Médico;2,58
+3550407;São Pedro;23;12;35;Médico;0,59
+3550506;São Pedro do Turvo;3;0;3;Médico;0,42
+3550605;São Roque;144;112;256;Médico;1,82
+3550704;São Sebastião;155;21;176;Médico;1,89
+3550803;São Sebastião da Grama;12;2;14;Médico;1,17
+3550902;São Simão;9;1;10;Médico;0,68
+3551009;São Vicente;99;42;141;Médico;0,3
+3551108;Sarapuí;1;0;1;Médico;0,1
+3551207;Sarutaiá;1;0;1;Médico;0,27
+3551306;Sebastianópolis do Sul;3;0;3;Médico;0,96
+3551405;Serra Azul;29;0;29;Médico;2,26
+3551504;Serrana;42;9;51;Médico;0,95
+3551603;Serra Negra;24;8;32;Médico;0,8
+3551702;Sertãozinho;185;94;279;Médico;1,45
+3551801;Sete Barras;4;1;5;Médico;0,32
+3551900;Severínia;1;4;5;Médico;0,07
+3552007;Silveiras;7;0;7;Médico;1,13
+3552106;Socorro;39;5;44;Médico;0,97
+3552205;Sorocaba;1881;792;2673;Médico;2,57
+3552304;Sud Mennucci;7;0;7;Médico;0,96
+3552403;Sumaré;204;68;272;Médico;0,72
+3552502;Suzano;187;78;265;Médico;0,6
+3552551;Suzanápolis;2;0;2;Médico;0,59
+3552601;Tabapuã;29;1;30;Médico;2,57
+3552700;Tabatinga;11;1;12;Médico;0,75
+3552809;Taboão da Serra;362;57;419;Médico;1,32
+3552908;Taciba;7;0;7;Médico;1,11
+3553005;Taguaí;10;0;10;Médico;0,78
+3553104;Taiaçu;3;0;3;Médico;0,53
+3553203;Taiúva;6;1;7;Médico;0,91
+3553302;Tambaú;20;7;27;Médico;0,94
+3553401;Tanabi;23;7;30;Médico;0,91
+3553500;Tapiraí;5;0;5;Médico;0,62
+3553609;Tapiratiba;7;0;7;Médico;0,6
+3553658;Taquaral;2;0;2;Médico;0,77
+3553708;Taquaritinga;71;4;75;Médico;1,37
+3553807;Taquarituba;19;0;19;Médico;0,78
+3553856;Taquarivaí;2;0;2;Médico;0,29
+3553906;Tarabai;5;0;5;Médico;0,77
+3553955;Tarumã;8;0;8;Médico;0,53
+3554003;Tatuí;88;71;159;Médico;0,7
+3554102;Taubaté;593;237;830;Médico;1,9
+3554201;Tejupá;3;0;3;Médico;0,74
+3554300;Teodoro Sampaio;18;8;26;Médico;0,81
+3554409;Terra Roxa;4;0;4;Médico;0,51
+3554508;Tietê;24;18;42;Médico;0,64
+3554607;Timburi;1;0;1;Médico;0,41
+3554656;Torre de Pedra;1;0;1;Médico;0,5
+3554706;Torrinha;6;0;6;Médico;0,64
+3554755;Trabiju;4;0;4;Médico;2,36
+3554805;Tremembé;11;4;15;Médico;0,21
+3554953;Tuiuti;4;0;4;Médico;0,59
+3555000;Tupã;117;38;155;Médico;1,83
+3555109;Tupi Paulista;7;1;8;Médico;0,44
+3555208;Turiúba;2;0;2;Médico;1,11
+3555307;Turmalina;1;0;1;Médico;0,61
+3555356;Ubarana;20;0;20;Médico;3,76
+3555406;Ubatuba;197;15;212;Médico;2,1
+3555505;Ubirajara;3;0;3;Médico;0,58
+3555604;Uchoa;11;0;11;Médico;1,05
+3555703;União Paulista;2;0;2;Médico;1,25
+3555802;Urânia;4;0;4;Médico;0,45
+3555901;Uru;1;0;1;Médico;0,72
+3556008;Urupês;6;2;8;Médico;0,43
+3556107;Valentim Gentil;5;2;7;Médico;0,35
+3556206;Valinhos;181;90;271;Médico;1,42
+3556305;Valparaíso;9;4;13;Médico;0,37
+3556354;Vargem;7;0;7;Médico;0,66
+3556404;Vargem Grande do Sul;46;6;52;Médico;1,15
+3556453;Vargem Grande Paulista;19;10;29;Médico;0,37
+3556503;Várzea Paulista;53;6;59;Médico;0,46
+3556602;Vera Cruz;4;1;5;Médico;0,4
+3556701;Vinhedo;63;34;97;Médico;0,81
+3556800;Viradouro;9;2;11;Médico;0,52
+3556909;Vista Alegre do Alto;6;0;6;Médico;0,73
+3557006;Votorantim;52;42;94;Médico;0,4
+3557105;Votuporanga;351;76;427;Médico;3,6
+3557204;Chavantes;8;2;10;Médico;0,66
+3557303;Estiva Gerbi;8;0;8;Médico;0,7

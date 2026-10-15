@@ -1,0 +1,8 @@
+scenario,n,ari
+Mean instead of median income,645,0.7747876860593781
+Network connection instead of adverse sanitation,645,0.821489199835083
+Log1p adverse sanitation,645,0.6813507886369706
+No income log transform,645,0.9372586197831816
+Exclude capital,644,1.0
+Population weighted fit and scaling,645,0.1886234879872603
+Winsorize at 1st and 99th percentiles,645,0.9744638823811536

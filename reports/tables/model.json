@@ -1,0 +1,57 @@
+{
+  "features": [
+    "income_median",
+    "literacy_pct",
+    "adverse_sanitation_pct"
+  ],
+  "transform": [
+    "natural log",
+    "identity",
+    "identity"
+  ],
+  "scaler_mean": [
+    7.054673096931064,
+    94.8526046511628,
+    9.170906455294743
+  ],
+  "scaler_scale": [
+    0.14859165661401513,
+    1.8373897158007348,
+    10.006277234943779
+  ],
+  "centers": [
+    [
+      0.7091034571814249,
+      0.8706217600347462,
+      -0.41520256132204314
+    ],
+    [
+      -0.2906913248451011,
+      -0.5609716078087472,
+      -0.17126839381089218
+    ],
+    [
+      -1.3778412850885449,
+      -0.8561112773414501,
+      2.204981212959574
+    ]
+  ],
+  "label_to_profile": {
+    "2": 1,
+    "1": 2,
+    "0": 3
+  },
+  "selected_k": 3,
+  "selection_fallback": false,
+  "selection_rule": "Among k=2..6 within 0.02 of maximum silhouette and >=30 towns per cluster, maximize the 10th-percentile full-pipeline refit ARI; break ties by smaller k. Exploratory heuristic, not preregistered.",
+  "repeats": 80,
+  "seed": 2026,
+  "income_baseline_groups": 3,
+  "income_baseline_ari": 0.24591726035969624,
+  "income_baseline_silhouette": 0.14082609095618193,
+  "pca_variance_ratio": [
+    0.6475648253983537,
+    0.2155449406623943,
+    0.13689023393925198
+  ]
+}

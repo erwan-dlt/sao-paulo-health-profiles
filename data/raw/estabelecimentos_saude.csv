@@ -1,0 +1,4121 @@
+co_mun;tiposeade;estadual;federal;municipal;particular;total_geral
+3500105;Clínica;;;3;18;21
+3500105;Consultório Isolado;;;;131;131
+3500105;Diagnose e Terapia;;;1;17;18
+3500105;Hospital;;;;2;2
+3500105;Outros;;;3;2;5
+3500105;Unidade Básica de Saúde;;;9;;9
+3500105;Unidade de Saúde Mental ;;;1;;1
+3500105;Unidade Móvel;1;;1;1;3
+3500105;Vigilância em Saúde;;;3;;3
+3500204;Clínica;;;1;;1
+3500204;Consultório Isolado;;;;1;1
+3500204;Diagnose e Terapia;;;;1;1
+3500204;Outros;;;1;;1
+3500204;Unidade Básica de Saúde;;;1;;1
+3500303;Clínica;;;1;3;4
+3500303;Consultório Isolado;;;;47;47
+3500303;Diagnose e Terapia;;;2;5;7
+3500303;Hospital;;;1;;1
+3500303;Outros;;;2;4;6
+3500303;Pronto Atendimento;;;1;;1
+3500303;Unidade Básica de Saúde;1;;6;;7
+3500303;Unidade de Saúde Mental ;;;1;;1
+3500303;Unidade Móvel;;;1;;1
+3500303;Vigilância em Saúde;;;2;;2
+3500402;Clínica;;;;1;1
+3500402;Consultório Isolado;;;;1;1
+3500402;Outros;;;1;;1
+3500402;Unidade Básica de Saúde;;;3;;3
+3500501;Clínica;;;;7;7
+3500501;Consultório Isolado;;;;34;34
+3500501;Diagnose e Terapia;;;;4;4
+3500501;Hospital;;;;1;1
+3500501;Outros;;;2;2;4
+3500501;Unidade Básica de Saúde;;;5;;5
+3500501;Unidade de Saúde Mental ;;;1;;1
+3500550;Consultório Isolado;;;;5;5
+3500550;Diagnose e Terapia;;;;1;1
+3500550;Outros;;;1;;1
+3500550;Unidade Básica de Saúde;;;4;;4
+3500600;Consultório Isolado;;;;2;2
+3500600;Outros;;;1;;1
+3500600;Pronto Atendimento;;;1;;1
+3500600;Unidade Básica de Saúde;;;1;;1
+3500709;Clínica;;;2;2;4
+3500709;Consultório Isolado;;;;25;25
+3500709;Diagnose e Terapia;;;;1;1
+3500709;Hospital;;;;1;1
+3500709;Outros;;;1;;1
+3500709;Pronto Atendimento;;;1;;1
+3500709;Unidade Básica de Saúde;;;7;;7
+3500709;Unidade de Saúde Mental ;;;1;;1
+3500709;Unidade Móvel;;;1;;1
+3500758;Clínica;;;;1;1
+3500758;Consultório Isolado;;;;2;2
+3500758;Outros;;;2;;2
+3500758;Unidade Básica de Saúde;;;4;;4
+3500758;Unidade Móvel;;;1;;1
+3500808;Consultório Isolado;;;;2;2
+3500808;Outros;;;2;;2
+3500808;Unidade Básica de Saúde;;;2;;2
+3500808;Vigilância em Saúde;;;2;;2
+3500907;Clínica;;;1;;1
+3500907;Consultório Isolado;;;;1;1
+3500907;Outros;;;2;;2
+3500907;Unidade Básica de Saúde;;;3;;3
+3500907;Unidade Móvel;;;1;;1
+3501004;Clínica;;;3;6;9
+3501004;Consultório Isolado;;;;27;27
+3501004;Diagnose e Terapia;;;1;;1
+3501004;Hospital;;;;1;1
+3501004;Outros;;;2;;2
+3501004;Unidade Básica de Saúde;;;8;;8
+3501004;Unidade Móvel;;;1;;1
+3501004;Vigilância em Saúde;;;1;;1
+3501103;Clínica;;;1;;1
+3501103;Consultório Isolado;;;;2;2
+3501103;Hospital;;;1;;1
+3501103;Outros;;;1;;1
+3501103;Unidade Básica de Saúde;;;3;;3
+3501152;Clínica;;;1;6;7
+3501152;Consultório Isolado;;;1;4;5
+3501152;Diagnose e Terapia;;;;1;1
+3501152;Outros;;;2;;2
+3501152;Pronto Atendimento;;;1;;1
+3501152;Unidade Básica de Saúde;;;2;;2
+3501202;Clínica;;;1;;1
+3501202;Consultório Isolado;;;;1;1
+3501202;Outros;;;1;;1
+3501202;Unidade Básica de Saúde;;;3;;3
+3501301;Clínica;;;2;3;5
+3501301;Consultório Isolado;;;;5;5
+3501301;Diagnose e Terapia;;;;4;4
+3501301;Hospital;;;;1;1
+3501301;Outros;;;3;;3
+3501301;Unidade Básica de Saúde;;;7;;7
+3501301;Unidade de Saúde Mental ;;;1;;1
+3501400;Outros;;;1;;1
+3501400;Unidade Básica de Saúde;2;;1;;3
+3501509;Outros;;;2;;2
+3501509;Unidade Básica de Saúde;;;1;;1
+3501608;Clínica;;;4;46;50
+3501608;Consultório Isolado;;;;968;968
+3501608;Diagnose e Terapia;;;;52;52
+3501608;Hospital;;;1;5;6
+3501608;Outros;;;5;9;14
+3501608;Pronto Atendimento;;;3;;3
+3501608;Unidade Básica de Saúde;1;;21;;22
+3501608;Unidade de Saúde Mental ;;;3;;3
+3501608;Unidade Móvel;1;;;;1
+3501608;Vigilância em Saúde;;;1;;1
+3501707;Clínica;;;2;3;5
+3501707;Consultório Isolado;;;;11;11
+3501707;Diagnose e Terapia;;;;1;1
+3501707;Hospital;2;;;;2
+3501707;Outros;;;6;;6
+3501707;Pronto Atendimento;;;;1;1
+3501707;Unidade Básica de Saúde;;;6;;6
+3501707;Unidade de Saúde Mental ;;;1;;1
+3501707;Unidade Móvel;;;2;;2
+3501707;Vigilância em Saúde;;;2;;2
+3501806;Clínica;;;1;1;2
+3501806;Consultório Isolado;;;;3;3
+3501806;Diagnose e Terapia;;;;1;1
+3501806;Outros;;;1;1;2
+3501806;Unidade Básica de Saúde;;;2;;2
+3501806;Vigilância em Saúde;;;1;;1
+3501905;Clínica;1;;6;18;25
+3501905;Consultório Isolado;;;;223;223
+3501905;Diagnose e Terapia;;;1;37;38
+3501905;Hospital;;;;3;3
+3501905;Outros;;;5;6;11
+3501905;Pronto Atendimento;;;1;1;2
+3501905;Unidade Básica de Saúde;;;16;;16
+3501905;Unidade de Saúde Mental ;;;2;;2
+3501905;Unidade Móvel;;;1;1;2
+3501905;Vigilância em Saúde;;;1;;1
+3502002;Consultório Isolado;;;;3;3
+3502002;Diagnose e Terapia;;;;1;1
+3502002;Outros;;;2;;2
+3502002;Unidade Básica de Saúde;;;2;;2
+3502101;Clínica;1;;6;11;18
+3502101;Consultório Isolado;;;;258;258
+3502101;Diagnose e Terapia;;;1;10;11
+3502101;Hospital;;;;2;2
+3502101;Outros;;;4;7;11
+3502101;Pronto Atendimento;;;1;1;2
+3502101;Unidade Básica de Saúde;1;;6;;7
+3502101;Unidade de Saúde Mental ;;;2;;2
+3502101;Unidade Móvel;;;;22;22
+3502101;Vigilância em Saúde;;;2;;2
+3502200;Clínica;;;1;2;3
+3502200;Consultório Isolado;;;;25;25
+3502200;Diagnose e Terapia;;;1;3;4
+3502200;Hospital;;;;1;1
+3502200;Outros;;;3;1;4
+3502200;Unidade Básica de Saúde;;;6;;6
+3502200;Unidade de Saúde Mental ;;;1;;1
+3502200;Unidade Móvel;;;1;;1
+3502200;Vigilância em Saúde;;;1;;1
+3502309;Consultório Isolado;;;;2;2
+3502309;Outros;;;2;;2
+3502309;Unidade Básica de Saúde;;;4;;4
+3502309;Unidade Móvel;;;1;;1
+3502408;Clínica;;;1;;1
+3502408;Diagnose e Terapia;;;;2;2
+3502408;Outros;;;3;;3
+3502408;Unidade Básica de Saúde;;;3;;3
+3502408;Vigilância em Saúde;;;1;;1
+3502507;Clínica;;;3;3;6
+3502507;Consultório Isolado;;;;18;18
+3502507;Diagnose e Terapia;;;3;4;7
+3502507;Hospital;;;;1;1
+3502507;Outros;;;3;1;4
+3502507;Pronto Atendimento;;;1;;1
+3502507;Unidade Básica de Saúde;;;11;;11
+3502507;Unidade de Saúde Mental ;;;1;;1
+3502507;Unidade Móvel;;;1;;1
+3502606;Diagnose e Terapia;;;;1;1
+3502606;Hospital;;;;1;1
+3502606;Outros;;;2;;2
+3502606;Unidade Básica de Saúde;;;2;;2
+3502606;Unidade Móvel;;;1;;1
+3502705;Clínica;;;5;;5
+3502705;Consultório Isolado;;;;26;26
+3502705;Diagnose e Terapia;;;1;3;4
+3502705;Hospital;;;;1;1
+3502705;Outros;;;3;;3
+3502705;Unidade Básica de Saúde;;;9;;9
+3502705;Unidade de Saúde Mental ;;;1;;1
+3502705;Unidade Móvel;;;1;;1
+3502754;Clínica;;;2;2;4
+3502754;Consultório Isolado;;;;11;11
+3502754;Diagnose e Terapia;;;;2;2
+3502754;Outros;;;2;;2
+3502754;Pronto Atendimento;;;1;;1
+3502754;Unidade Básica de Saúde;;;3;;3
+3502754;Unidade de Saúde Mental ;;;1;;1
+3502754;Unidade Móvel;;;1;1;2
+3502804;Clínica;5;;7;52;64
+3502804;Consultório Isolado;3;;5;489;497
+3502804;Diagnose e Terapia;1;;1;33;35
+3502804;Hospital;;;;4;4
+3502804;Outros;4;;3;24;31
+3502804;Pronto Atendimento;;;1;1;2
+3502804;Unidade Básica de Saúde;1;;20;;21
+3502804;Unidade de Saúde Mental ;;;3;;3
+3502804;Unidade Móvel;1;;3;2;6
+3502804;Vigilância em Saúde;1;;2;;3
+3502903;Clínica;;;2;5;7
+3502903;Consultório Isolado;;;;9;9
+3502903;Diagnose e Terapia;;;;2;2
+3502903;Hospital;;;;8;8
+3502903;Outros;;;3;2;5
+3502903;Pronto Atendimento;;;1;;1
+3502903;Unidade Básica de Saúde;;;8;;8
+3502903;Unidade de Saúde Mental ;;;1;;1
+3503000;Consultório Isolado;;;3;3;6
+3503000;Diagnose e Terapia;;;1;;1
+3503000;Outros;;;2;1;3
+3503000;Unidade Básica de Saúde;;;5;;5
+3503000;Vigilância em Saúde;;;1;;1
+3503109;Consultório Isolado;;;;2;2
+3503109;Hospital;;;1;;1
+3503109;Outros;;;1;;1
+3503109;Unidade Básica de Saúde;;;1;;1
+3503158;Outros;;;1;;1
+3503158;Unidade Básica de Saúde;;;2;;2
+3503208;Clínica;1;;12;83;96
+3503208;Consultório Isolado;1;;3;721;725
+3503208;Diagnose e Terapia;1;;3;24;28
+3503208;Hospital;;;2;7;9
+3503208;Outros;4;;10;14;28
+3503208;Pronto Atendimento;;;3;1;4
+3503208;Unidade Básica de Saúde;4;;37;;41
+3503208;Unidade de Saúde Mental ;;;2;;2
+3503208;Unidade Móvel;1;;12;3;16
+3503208;Vigilância em Saúde;;;3;;3
+3503307;Clínica;;;3;32;35
+3503307;Consultório Isolado;;;;258;258
+3503307;Diagnose e Terapia;;;;14;14
+3503307;Hospital;;;;4;4
+3503307;Outros;;;3;8;11
+3503307;Pronto Atendimento;;;1;;1
+3503307;Unidade Básica de Saúde;;;26;;26
+3503307;Unidade de Saúde Mental ;;;3;;3
+3503307;Unidade Móvel;;;5;;5
+3503307;Vigilância em Saúde;;;2;;2
+3503356;Outros;;;1;;1
+3503356;Unidade Básica de Saúde;;;1;;1
+3503406;Clínica;;;;1;1
+3503406;Hospital;;;;1;1
+3503406;Outros;;;3;2;5
+3503406;Unidade Básica de Saúde;;;5;;5
+3503406;Unidade Móvel;;;1;;1
+3503505;Outros;;;2;;2
+3503505;Unidade Básica de Saúde;;;2;;2
+3503604;Clínica;;;1;1;2
+3503604;Consultório Isolado;;;;5;5
+3503604;Diagnose e Terapia;;;;2;2
+3503604;Outros;;;2;;2
+3503604;Unidade Básica de Saúde;;;3;;3
+3503604;Unidade Móvel;;;1;;1
+3503703;Clínica;;;1;;1
+3503703;Consultório Isolado;;;;6;6
+3503703;Diagnose e Terapia;;;1;1;2
+3503703;Outros;;;1;;1
+3503703;Pronto Atendimento;;;1;;1
+3503703;Unidade Básica de Saúde;;;3;;3
+3503802;Clínica;;;2;8;10
+3503802;Consultório Isolado;;;;62;62
+3503802;Diagnose e Terapia;;;1;7;8
+3503802;Hospital;;;1;;1
+3503802;Outros;;;4;4;8
+3503802;Unidade Básica de Saúde;;;13;4;17
+3503802;Unidade de Saúde Mental ;;;1;;1
+3503802;Unidade Móvel;;;1;;1
+3503901;Clínica;;;3;23;26
+3503901;Consultório Isolado;;;;39;39
+3503901;Diagnose e Terapia;;;;8;8
+3503901;Hospital;;;1;;1
+3503901;Outros;;;2;2;4
+3503901;Pronto Atendimento;;;;3;3
+3503901;Unidade Básica de Saúde;;;8;;8
+3503901;Unidade Móvel;;;1;;1
+3503901;Vigilância em Saúde;;;1;;1
+3503950;Outros;;;1;;1
+3503950;Unidade Básica de Saúde;;;1;;1
+3504008;Clínica;1;;13;27;41
+3504008;Consultório Isolado;;;;425;425
+3504008;Diagnose e Terapia;;;;21;21
+3504008;Hospital;1;;;9;10
+3504008;Outros;3;;10;9;22
+3504008;Pronto Atendimento;;;2;;2
+3504008;Unidade Básica de Saúde;1;;22;;23
+3504008;Unidade de Saúde Mental ;;;3;;3
+3504008;Unidade Móvel;;;2;;2
+3504107;Clínica;1;;5;62;68
+3504107;Consultório Isolado;;;;309;309
+3504107;Diagnose e Terapia;1;;3;46;50
+3504107;Hospital;;;;6;6
+3504107;Outros;;;4;17;21
+3504107;Pronto Atendimento;;;1;;1
+3504107;Unidade Básica de Saúde;;;18;;18
+3504107;Unidade de Saúde Mental ;;;3;;3
+3504107;Unidade Móvel;;;4;;4
+3504107;Vigilância em Saúde;;;2;;2
+3504206;Clínica;;;1;1;2
+3504206;Consultório Isolado;;;;19;19
+3504206;Diagnose e Terapia;;;;3;3
+3504206;Hospital;;;;1;1
+3504206;Outros;;;2;;2
+3504206;Unidade Básica de Saúde;;;5;;5
+3504206;Vigilância em Saúde;;;1;;1
+3504305;Outros;;;1;;1
+3504305;Unidade Básica de Saúde;;;3;;3
+3504404;Clínica;;;1;1;2
+3504404;Consultório Isolado;;;;4;4
+3504404;Diagnose e Terapia;;;;1;1
+3504404;Outros;;;2;2;4
+3504404;Unidade Básica de Saúde;1;;4;;5
+3504503;Clínica;1;;6;9;16
+3504503;Consultório Isolado;;;1;254;255
+3504503;Diagnose e Terapia;;;;19;19
+3504503;Hospital;;;;1;1
+3504503;Outros;1;;2;9;12
+3504503;Pronto Atendimento;;;1;;1
+3504503;Unidade Básica de Saúde;3;;18;;21
+3504503;Unidade de Saúde Mental ;;;1;;1
+3504503;Unidade Móvel;;;2;;2
+3504503;Vigilância em Saúde;;;2;;2
+3504602;Clínica;;;1;2;3
+3504602;Consultório Isolado;;;;8;8
+3504602;Diagnose e Terapia;;;;1;1
+3504602;Outros;;;1;;1
+3504602;Pronto Atendimento;;;1;;1
+3504602;Unidade Básica de Saúde;;;3;;3
+3504701;Outros;;;1;;1
+3504701;Unidade Básica de Saúde;2;;2;;4
+3504800;Consultório Isolado;;;;1;1
+3504800;Diagnose e Terapia;;;;1;1
+3504800;Outros;;;1;;1
+3504800;Unidade Básica de Saúde;;;5;;5
+3504909;Clínica;;;2;1;3
+3504909;Consultório Isolado;;;;2;2
+3504909;Diagnose e Terapia;;;;1;1
+3504909;Outros;;;3;;3
+3504909;Unidade Básica de Saúde;;;6;;6
+3504909;Unidade de Saúde Mental ;;;1;;1
+3504909;Unidade Móvel;;;1;;1
+3504909;Vigilância em Saúde;;;1;;1
+3505005;Outros;;;2;;2
+3505005;Unidade Básica de Saúde;;;2;;2
+3505104;Outros;;;2;;2
+3505104;Unidade Básica de Saúde;;;1;;1
+3505203;Clínica;;;3;4;7
+3505203;Consultório Isolado;;;;66;66
+3505203;Diagnose e Terapia;;;1;23;24
+3505203;Hospital;;;;1;1
+3505203;Outros;;;2;4;6
+3505203;Unidade Básica de Saúde;;;7;;7
+3505203;Unidade de Saúde Mental ;;;1;;1
+3505203;Vigilância em Saúde;;;2;;2
+3505302;Clínica;;;1;6;7
+3505302;Consultório Isolado;;;;78;78
+3505302;Diagnose e Terapia;;;1;11;12
+3505302;Hospital;;;;1;1
+3505302;Outros;;;3;2;5
+3505302;Unidade Básica de Saúde;;;8;;8
+3505302;Unidade de Saúde Mental ;;;1;;1
+3505351;Outros;;;3;;3
+3505351;Pronto Atendimento;;;1;;1
+3505351;Unidade Básica de Saúde;;;3;;3
+3505401;Outros;;;1;;1
+3505401;Pronto Atendimento;;;1;;1
+3505401;Unidade Básica de Saúde;;;5;;5
+3505401;Unidade Móvel;;;1;;1
+3505500;Clínica;2;;6;34;42
+3505500;Consultório Isolado;;;1;242;243
+3505500;Diagnose e Terapia;;;1;11;12
+3505500;Hospital;1;;;5;6
+3505500;Outros;5;;6;5;16
+3505500;Pronto Atendimento;;;1;1;2
+3505500;Unidade Básica de Saúde;;;18;;18
+3505500;Unidade de Saúde Mental ;;;1;;1
+3505500;Unidade Móvel;;;4;1;5
+3505500;Vigilância em Saúde;;;1;;1
+3505609;Clínica;;;5;5;10
+3505609;Consultório Isolado;;;;21;21
+3505609;Diagnose e Terapia;;;2;4;6
+3505609;Outros;;;2;;2
+3505609;Pronto Atendimento;;;;1;1
+3505609;Unidade Básica de Saúde;;;7;1;8
+3505609;Unidade Móvel;;;1;;1
+3505609;Vigilância em Saúde;;;3;;3
+3505708;Clínica;;;8;106;114
+3505708;Consultório Isolado;;;6;514;520
+3505708;Diagnose e Terapia;;;1;21;22
+3505708;Hospital;1;;2;6;9
+3505708;Outros;;;8;18;26
+3505708;Pronto Atendimento;;;6;1;7
+3505708;Unidade Básica de Saúde;;;21;;21
+3505708;Unidade de Saúde Mental ;;;3;;3
+3505708;Unidade Móvel;;;;1;1
+3505708;Vigilância em Saúde;;;2;;2
+3505807;Clínica;;;4;8;12
+3505807;Consultório Isolado;;;;14;14
+3505807;Diagnose e Terapia;;;2;2;4
+3505807;Hospital;;;;1;1
+3505807;Outros;;;6;;6
+3505807;Pronto Atendimento;;;1;;1
+3505807;Unidade Básica de Saúde;;;6;;6
+3505807;Unidade de Saúde Mental ;;;1;;1
+3505807;Vigilância em Saúde;;;1;;1
+3505906;Clínica;;;4;6;10
+3505906;Consultório Isolado;;;1;275;276
+3505906;Diagnose e Terapia;;;1;9;10
+3505906;Hospital;;;;1;1
+3505906;Outros;;;5;6;11
+3505906;Pronto Atendimento;;;1;1;2
+3505906;Unidade Básica de Saúde;;;9;;9
+3505906;Unidade de Saúde Mental ;;;1;;1
+3505906;Unidade Móvel;;;2;;2
+3505906;Vigilância em Saúde;;;1;;1
+3506003;Clínica;2;;13;79;94
+3506003;Consultório Isolado;;;;799;799
+3506003;Diagnose e Terapia;1;;;37;38
+3506003;Hospital;7;;;7;14
+3506003;Outros;4;1;8;26;39
+3506003;Pronto Atendimento;;;5;;5
+3506003;Unidade Básica de Saúde;5;;25;1;31
+3506003;Unidade de Saúde Mental ;;;5;;5
+3506003;Unidade Móvel;;;11;1;12
+3506003;Vigilância em Saúde;;;4;;4
+3506102;Clínica;;;5;60;65
+3506102;Consultório Isolado;;;1;268;269
+3506102;Diagnose e Terapia;;;1;12;13
+3506102;Hospital;1;;1;6;8
+3506102;Outros;;;4;5;9
+3506102;Pronto Atendimento;;;1;;1
+3506102;Unidade Básica de Saúde;;;18;;18
+3506102;Unidade de Saúde Mental ;;;2;;2
+3506102;Unidade Móvel;;;;1;1
+3506201;Outros;;;1;;1
+3506201;Unidade Básica de Saúde;;;1;;1
+3506300;Clínica;;;2;1;3
+3506300;Consultório Isolado;;;;7;7
+3506300;Diagnose e Terapia;;;;3;3
+3506300;Hospital;;;;1;1
+3506300;Outros;;;1;;1
+3506300;Unidade Básica de Saúde;1;;3;;4
+3506300;Unidade de Saúde Mental ;;;1;;1
+3506300;Unidade Móvel;;;1;;1
+3506359;Clínica;;;5;11;16
+3506359;Consultório Isolado;;;;33;33
+3506359;Diagnose e Terapia;;;;8;8
+3506359;Hospital;;;1;;1
+3506359;Outros;;;3;34;37
+3506359;Unidade Básica de Saúde;;;7;;7
+3506359;Unidade de Saúde Mental ;;;1;;1
+3506359;Unidade Móvel;;;3;2;5
+3506359;Vigilância em Saúde;;;2;;2
+3506409;Consultório Isolado;;;1;5;6
+3506409;Diagnose e Terapia;;;;1;1
+3506409;Hospital;;;;1;1
+3506409;Outros;;;2;2;4
+3506409;Unidade Básica de Saúde;;;1;;1
+3506508;Clínica;1;;6;35;42
+3506508;Consultório Isolado;;;7;219;226
+3506508;Diagnose e Terapia;;;;24;24
+3506508;Hospital;;;;2;2
+3506508;Outros;;;1;15;16
+3506508;Pronto Atendimento;;;1;;1
+3506508;Unidade Básica de Saúde;1;;12;;13
+3506607;Clínica;;;1;2;3
+3506607;Consultório Isolado;;;;7;7
+3506607;Diagnose e Terapia;;;;1;1
+3506607;Outros;;;3;;3
+3506607;Pronto Atendimento;;;1;;1
+3506607;Unidade Básica de Saúde;;;6;;6
+3506607;Unidade de Saúde Mental ;;;1;;1
+3506607;Unidade Móvel;;;1;;1
+3506607;Vigilância em Saúde;;;1;;1
+3506706;Clínica;;;1;;1
+3506706;Consultório Isolado;;;;7;7
+3506706;Diagnose e Terapia;;;2;;2
+3506706;Hospital;;;;1;1
+3506706;Outros;;;3;;3
+3506706;Unidade Básica de Saúde;;;4;;4
+3506706;Unidade Móvel;;;1;;1
+3506805;Clínica;;;1;2;3
+3506805;Consultório Isolado;;;;15;15
+3506805;Diagnose e Terapia;;;;2;2
+3506805;Hospital;;;;1;1
+3506805;Outros;;;1;;1
+3506805;Unidade Básica de Saúde;;;4;;4
+3506904;Clínica;;;;1;1
+3506904;Consultório Isolado;;;;2;2
+3506904;Diagnose e Terapia;;;;1;1
+3506904;Pronto Atendimento;;;1;;1
+3506904;Unidade Básica de Saúde;;;7;;7
+3506904;Unidade Móvel;;;1;;1
+3506904;Vigilância em Saúde;;;1;;1
+3507001;Clínica;;;2;19;21
+3507001;Consultório Isolado;;1;;91;92
+3507001;Diagnose e Terapia;;;;13;13
+3507001;Hospital;;;;1;1
+3507001;Outros;;;5;3;8
+3507001;Pronto Atendimento;;;1;;1
+3507001;Unidade Básica de Saúde;;;9;;9
+3507001;Unidade de Saúde Mental ;;;2;;2
+3507001;Unidade Móvel;;;2;;2
+3507100;Clínica;;;;1;1
+3507100;Consultório Isolado;;;;12;12
+3507100;Diagnose e Terapia;;;1;4;5
+3507100;Outros;;;1;1;2
+3507100;Unidade Básica de Saúde;;;4;;4
+3507100;Unidade Móvel;;;1;;1
+3507159;Outros;;;3;;3
+3507159;Unidade Básica de Saúde;;;2;;2
+3507159;Unidade Móvel;;;1;;1
+3507159;Vigilância em Saúde;;;1;;1
+3507209;Outros;;;1;;1
+3507209;Unidade Básica de Saúde;;;1;;1
+3507308;Consultório Isolado;;;;1;1
+3507308;Outros;;;2;;2
+3507308;Pronto Atendimento;;;1;;1
+3507308;Unidade Básica de Saúde;;;2;;2
+3507407;Clínica;;;1;7;8
+3507407;Consultório Isolado;;;;18;18
+3507407;Diagnose e Terapia;;;;3;3
+3507407;Hospital;;;;1;1
+3507407;Outros;;;1;;1
+3507407;Pronto Atendimento;;;1;;1
+3507407;Unidade Básica de Saúde;;;6;;6
+3507407;Unidade de Saúde Mental ;;;1;;1
+3507456;Clínica;;;1;;1
+3507456;Outros;;;1;;1
+3507456;Unidade Básica de Saúde;;;2;;2
+3507506;Clínica;4;;3;34;41
+3507506;Consultório Isolado;1;;1;715;717
+3507506;Diagnose e Terapia;;;;11;11
+3507506;Hospital;1;;1;3;5
+3507506;Outros;3;;8;10;21
+3507506;Unidade Básica de Saúde;1;;20;1;22
+3507506;Unidade de Saúde Mental ;2;;2;;4
+3507506;Unidade Móvel;;;3;;3
+3507506;Vigilância em Saúde;;;1;;1
+3507605;Clínica;;;7;94;101
+3507605;Consultório Isolado;;;1;348;349
+3507605;Diagnose e Terapia;1;;;30;31
+3507605;Hospital;;;;7;7
+3507605;Outros;;;7;15;22
+3507605;Pronto Atendimento;;;2;1;3
+3507605;Unidade Básica de Saúde;;;29;;29
+3507605;Unidade de Saúde Mental ;;;2;;2
+3507605;Unidade Móvel;1;;6;;7
+3507605;Vigilância em Saúde;;;2;;2
+3507704;Diagnose e Terapia;;;;1;1
+3507704;Outros;;;2;;2
+3507704;Unidade Básica de Saúde;;;1;;1
+3507753;Outros;;;2;;2
+3507753;Unidade Básica de Saúde;;;2;;2
+3507753;Vigilância em Saúde;;;1;;1
+3507803;Clínica;;;3;2;5
+3507803;Consultório Isolado;;;;39;39
+3507803;Diagnose e Terapia;;;;6;6
+3507803;Outros;;;1;;1
+3507803;Pronto Atendimento;;;1;;1
+3507803;Unidade Básica de Saúde;;;6;;6
+3507803;Unidade Móvel;;;1;;1
+3507902;Clínica;;;;1;1
+3507902;Consultório Isolado;;;;65;65
+3507902;Diagnose e Terapia;;;;6;6
+3507902;Hospital;;;;1;1
+3507902;Outros;;;2;1;3
+3507902;Unidade Básica de Saúde;;;7;;7
+3507902;Unidade de Saúde Mental ;;;1;;1
+3508009;Clínica;;;2;1;3
+3508009;Consultório Isolado;;;;2;2
+3508009;Diagnose e Terapia;;;;2;2
+3508009;Outros;;;6;1;7
+3508009;Pronto Atendimento;;;1;;1
+3508009;Unidade Básica de Saúde;;;9;;9
+3508009;Unidade de Saúde Mental ;;;1;;1
+3508108;Clínica;;;3;4;7
+3508108;Consultório Isolado;;;;19;19
+3508108;Diagnose e Terapia;;;;1;1
+3508108;Hospital;;;;1;1
+3508108;Outros;;;3;;3
+3508108;Unidade Básica de Saúde;;;2;;2
+3508108;Unidade de Saúde Mental ;;;1;;1
+3508108;Vigilância em Saúde;;;1;;1
+3508207;Consultório Isolado;;;;4;4
+3508207;Diagnose e Terapia;;;;2;2
+3508207;Outros;;;1;;1
+3508207;Unidade Básica de Saúde;;;2;;2
+3508306;Clínica;;;1;;1
+3508306;Outros;;;1;;1
+3508306;Unidade Básica de Saúde;;;2;;2
+3508405;Clínica;;;5;10;15
+3508405;Consultório Isolado;;;;8;8
+3508405;Diagnose e Terapia;;;;6;6
+3508405;Hospital;;;;2;2
+3508405;Outros;;;4;1;5
+3508405;Pronto Atendimento;;;1;;1
+3508405;Unidade Básica de Saúde;;;8;;8
+3508405;Unidade de Saúde Mental ;;;1;;1
+3508504;Clínica;;;5;20;25
+3508504;Consultório Isolado;;;;287;287
+3508504;Diagnose e Terapia;;;;7;7
+3508504;Hospital;;;;4;4
+3508504;Outros;;;6;5;11
+3508504;Pronto Atendimento;;;1;;1
+3508504;Unidade Básica de Saúde;;;21;;21
+3508504;Unidade de Saúde Mental ;;;3;;3
+3508504;Unidade Móvel;;;3;;3
+3508504;Vigilância em Saúde;;;3;;3
+3508603;Clínica;;;3;10;13
+3508603;Consultório Isolado;;;;40;40
+3508603;Diagnose e Terapia;;;;3;3
+3508603;Hospital;;;;1;1
+3508603;Outros;;;5;7;12
+3508603;Unidade Básica de Saúde;;;11;;11
+3508603;Unidade de Saúde Mental ;;;1;;1
+3508702;Clínica;;;2;5;7
+3508702;Consultório Isolado;;;;23;23
+3508702;Diagnose e Terapia;;;1;7;8
+3508702;Hospital;;;;1;1
+3508702;Outros;;;2;1;3
+3508702;Unidade Básica de Saúde;;;7;;7
+3508801;Clínica;;;;3;3
+3508801;Consultório Isolado;;;;30;30
+3508801;Diagnose e Terapia;;;;4;4
+3508801;Hospital;;;;1;1
+3508801;Outros;;;2;;2
+3508801;Unidade Básica de Saúde;;;7;;7
+3508801;Unidade de Saúde Mental ;;;1;;1
+3508900;Clínica;;;1;;1
+3508900;Outros;;;2;;2
+3508900;Unidade Básica de Saúde;;;2;;2
+3508900;Vigilância em Saúde;;;1;;1
+3509007;Clínica;;;4;27;31
+3509007;Consultório Isolado;;;;42;42
+3509007;Diagnose e Terapia;;;;6;6
+3509007;Hospital;1;;;2;3
+3509007;Outros;;;4;5;9
+3509007;Pronto Atendimento;;;1;1;2
+3509007;Unidade Básica de Saúde;;;16;1;17
+3509007;Unidade de Saúde Mental ;;;2;;2
+3509007;Vigilância em Saúde;;;3;;3
+3509106;Outros;;;1;;1
+3509106;Unidade Básica de Saúde;2;;3;;5
+3509106;Vigilância em Saúde;;;1;;1
+3509205;Clínica;;;2;26;28
+3509205;Consultório Isolado;;;;61;61
+3509205;Diagnose e Terapia;;;;8;8
+3509205;Hospital;;;1;1;2
+3509205;Outros;;;4;2;6
+3509205;Pronto Atendimento;;;1;;1
+3509205;Unidade Básica de Saúde;;;11;;11
+3509205;Unidade de Saúde Mental ;;;2;;2
+3509205;Vigilância em Saúde;;;2;;2
+3509254;Clínica;;;3;6;9
+3509254;Consultório Isolado;;;;14;14
+3509254;Diagnose e Terapia;;;;4;4
+3509254;Outros;;;6;;6
+3509254;Pronto Atendimento;;;1;;1
+3509254;Unidade Básica de Saúde;;;11;;11
+3509254;Unidade de Saúde Mental ;;;1;;1
+3509254;Unidade Móvel;;;1;;1
+3509254;Vigilância em Saúde;;;1;;1
+3509304;Clínica;;;;1;1
+3509304;Consultório Isolado;;;;2;2
+3509304;Diagnose e Terapia;;;;1;1
+3509304;Hospital;;;;1;1
+3509304;Outros;;;3;;3
+3509304;Unidade Básica de Saúde;;;3;;3
+3509304;Unidade Móvel;;;1;;1
+3509403;Clínica;;;4;12;16
+3509403;Consultório Isolado;;;;47;47
+3509403;Diagnose e Terapia;;;1;2;3
+3509403;Hospital;;;;1;1
+3509403;Outros;;;3;;3
+3509403;Pronto Atendimento;;;1;;1
+3509403;Unidade Básica de Saúde;;;8;;8
+3509403;Unidade Móvel;;;2;1;3
+3509403;Vigilância em Saúde;;;1;;1
+3509452;Outros;;;2;1;3
+3509452;Unidade Básica de Saúde;;;2;;2
+3509502;Clínica;1;;22;331;354
+3509502;Consultório Isolado;2;;;2.445;2.447
+3509502;Diagnose e Terapia;1;;2;173;176
+3509502;Hospital;1;;2;34;37
+3509502;Outros;5;;13;111;129
+3509502;Pronto Atendimento;;;4;1;5
+3509502;Unidade Básica de Saúde;;;71;;71
+3509502;Unidade de Saúde Mental ;;;14;;14
+3509502;Unidade Móvel;;;17;4;21
+3509502;Vigilância em Saúde;;;8;;8
+3509601;Clínica;;;4;16;20
+3509601;Consultório Isolado;;;;16;16
+3509601;Diagnose e Terapia;;;;5;5
+3509601;Hospital;;;1;;1
+3509601;Outros;;;3;2;5
+3509601;Unidade Básica de Saúde;;;9;;9
+3509601;Unidade de Saúde Mental ;;;1;;1
+3509601;Vigilância em Saúde;;;1;;1
+3509700;Clínica;;;3;8;11
+3509700;Consultório Isolado;;;;57;57
+3509700;Diagnose e Terapia;;;;6;6
+3509700;Hospital;;;1;1;2
+3509700;Outros;;;2;2;4
+3509700;Unidade Básica de Saúde;;;15;;15
+3509700;Unidade de Saúde Mental ;;;1;;1
+3509700;Unidade Móvel;;;3;1;4
+3509700;Vigilância em Saúde;;;1;;1
+3509809;Clínica;;;1;;1
+3509809;Outros;;;1;;1
+3509809;Unidade Básica de Saúde;;;3;;3
+3509908;Clínica;;;;1;1
+3509908;Consultório Isolado;;;;4;4
+3509908;Outros;;;1;;1
+3509908;Unidade Básica de Saúde;;;6;;6
+3509957;Outros;;;1;;1
+3509957;Unidade Básica de Saúde;;;2;;2
+3510005;Clínica;;;2;4;6
+3510005;Consultório Isolado;;;;57;57
+3510005;Diagnose e Terapia;;;;16;16
+3510005;Hospital;;;;1;1
+3510005;Outros;;;4;1;5
+3510005;Unidade Básica de Saúde;;;6;;6
+3510005;Unidade de Saúde Mental ;;;1;;1
+3510104;Outros;;;1;;1
+3510104;Unidade Básica de Saúde;;;1;;1
+3510153;Diagnose e Terapia;;;1;;1
+3510153;Outros;;;1;;1
+3510153;Unidade Básica de Saúde;;;3;;3
+3510203;Clínica;;;6;6;12
+3510203;Consultório Isolado;;;;27;27
+3510203;Diagnose e Terapia;;;1;4;5
+3510203;Hospital;;;;1;1
+3510203;Outros;;;6;4;10
+3510203;Unidade Básica de Saúde;;;10;;10
+3510203;Unidade de Saúde Mental ;;;1;;1
+3510203;Unidade Móvel;;;1;;1
+3510302;Clínica;;;2;2;4
+3510302;Consultório Isolado;;;;5;5
+3510302;Diagnose e Terapia;;;;1;1
+3510302;Outros;;;2;;2
+3510302;Pronto Atendimento;;;1;;1
+3510302;Unidade Básica de Saúde;2;;4;;6
+3510302;Unidade de Saúde Mental ;;;1;;1
+3510401;Clínica;;;3;11;14
+3510401;Consultório Isolado;;;;96;96
+3510401;Diagnose e Terapia;;;3;25;28
+3510401;Hospital;;;;2;2
+3510401;Outros;;;1;4;5
+3510401;Pronto Atendimento;;;;1;1
+3510401;Unidade Básica de Saúde;;;8;;8
+3510401;Unidade de Saúde Mental ;;;2;;2
+3510500;Clínica;;;9;48;57
+3510500;Consultório Isolado;;;6;116;122
+3510500;Diagnose e Terapia;;;2;25;27
+3510500;Hospital;2;;;4;6
+3510500;Outros;1;;6;18;25
+3510500;Pronto Atendimento;;;3;;3
+3510500;Unidade Básica de Saúde;2;;13;1;16
+3510500;Unidade de Saúde Mental ;;;2;;2
+3510500;Unidade Móvel;;;4;3;7
+3510500;Vigilância em Saúde;1;;1;;2
+3510609;Clínica;1;;4;33;38
+3510609;Consultório Isolado;;;;73;73
+3510609;Diagnose e Terapia;;;;13;13
+3510609;Hospital;1;;;1;2
+3510609;Outros;;;5;3;8
+3510609;Pronto Atendimento;;;2;;2
+3510609;Unidade Básica de Saúde;;;17;;17
+3510609;Unidade de Saúde Mental ;;;3;;3
+3510609;Unidade Móvel;;;9;;9
+3510609;Vigilância em Saúde;;;2;;2
+3510708;Consultório Isolado;;;;10;10
+3510708;Diagnose e Terapia;;;1;2;3
+3510708;Hospital;;;;1;1
+3510708;Outros;;;2;;2
+3510708;Unidade Básica de Saúde;;;6;;6
+3510708;Unidade Móvel;;;1;;1
+3510807;Clínica;2;;1;7;10
+3510807;Consultório Isolado;;;;63;63
+3510807;Diagnose e Terapia;;;;7;7
+3510807;Hospital;1;;;1;2
+3510807;Outros;;;2;3;5
+3510807;Pronto Atendimento;;;1;;1
+3510807;Unidade Básica de Saúde;1;;7;;8
+3510807;Unidade de Saúde Mental ;1;;1;;2
+3510807;Vigilância em Saúde;;;1;;1
+3510906;Clínica;;;1;;1
+3510906;Outros;;;2;;2
+3510906;Unidade Básica de Saúde;;;2;;2
+3511003;Clínica;;;;4;4
+3511003;Consultório Isolado;;;;21;21
+3511003;Diagnose e Terapia;;;1;2;3
+3511003;Hospital;;;;1;1
+3511003;Unidade Básica de Saúde;;;5;;5
+3511003;Vigilância em Saúde;;;1;;1
+3511102;Clínica;1;;6;265;272
+3511102;Consultório Isolado;;;;289;289
+3511102;Diagnose e Terapia;;;;18;18
+3511102;Hospital;;;;12;12
+3511102;Outros;;;6;11;17
+3511102;Pronto Atendimento;;;1;;1
+3511102;Unidade Básica de Saúde;;;23;;23
+3511102;Unidade de Saúde Mental ;;;3;;3
+3511102;Unidade Móvel;;;4;;4
+3511102;Vigilância em Saúde;;;1;;1
+3511201;Clínica;;;1;;1
+3511201;Consultório Isolado;;;;7;7
+3511201;Diagnose e Terapia;;;;1;1
+3511201;Outros;;;1;;1
+3511201;Unidade Básica de Saúde;;;2;;2
+3511201;Unidade Móvel;;;1;;1
+3511300;Clínica;;;1;3;4
+3511300;Consultório Isolado;;;;7;7
+3511300;Diagnose e Terapia;;;;1;1
+3511300;Outros;;;1;;1
+3511300;Unidade Básica de Saúde;;;3;2;5
+3511300;Unidade Móvel;;;1;;1
+3511300;Vigilância em Saúde;;;1;;1
+3511409;Clínica;;;;2;2
+3511409;Consultório Isolado;;;;16;16
+3511409;Diagnose e Terapia;;;;5;5
+3511409;Hospital;;;;1;1
+3511409;Outros;;;1;;1
+3511409;Unidade Básica de Saúde;2;;7;4;13
+3511409;Unidade Móvel;;;1;;1
+3511508;Clínica;;;5;17;22
+3511508;Consultório Isolado;;;;114;114
+3511508;Diagnose e Terapia;;;1;6;7
+3511508;Hospital;;;;1;1
+3511508;Outros;;;3;2;5
+3511508;Unidade Básica de Saúde;;;9;;9
+3511508;Unidade de Saúde Mental ;;;1;;1
+3511607;Clínica;;;3;1;4
+3511607;Consultório Isolado;;;;9;9
+3511607;Diagnose e Terapia;;;;2;2
+3511607;Hospital;;;;1;1
+3511607;Outros;;;2;;2
+3511607;Unidade Básica de Saúde;;;4;;4
+3511607;Unidade de Saúde Mental ;;;1;;1
+3511706;Clínica;;;1;3;4
+3511706;Consultório Isolado;;;;8;8
+3511706;Diagnose e Terapia;;;;2;2
+3511706;Hospital;;;;2;2
+3511706;Outros;;;1;;1
+3511706;Unidade Básica de Saúde;;;5;;5
+3511706;Unidade de Saúde Mental ;;;1;;1
+3511904;Consultório Isolado;;;1;4;5
+3511904;Diagnose e Terapia;;;;1;1
+3511904;Hospital;;;;1;1
+3511904;Outros;;;2;1;3
+3511904;Unidade Básica de Saúde;;;1;;1
+3511904;Vigilância em Saúde;;;1;;1
+3512001;Clínica;;;1;1;2
+3512001;Consultório Isolado;;;;34;34
+3512001;Diagnose e Terapia;;;;3;3
+3512001;Hospital;;;;1;1
+3512001;Outros;;;2;1;3
+3512001;Pronto Atendimento;;;1;;1
+3512001;Unidade Básica de Saúde;;;6;;6
+3512001;Unidade Móvel;;;1;;1
+3512100;Clínica;;;;1;1
+3512100;Consultório Isolado;;;;3;3
+3512100;Diagnose e Terapia;;;1;1;2
+3512100;Outros;;;2;;2
+3512100;Unidade Básica de Saúde;;;4;;4
+3512100;Unidade Móvel;;;1;;1
+3512209;Clínica;;;1;2;3
+3512209;Consultório Isolado;;;;19;19
+3512209;Diagnose e Terapia;;;;4;4
+3512209;Hospital;;;;1;1
+3512209;Outros;;;2;;2
+3512209;Unidade Básica de Saúde;;;7;1;8
+3512209;Unidade de Saúde Mental ;;;1;;1
+3512209;Unidade Móvel;;;2;;2
+3512209;Vigilância em Saúde;;;1;;1
+3512308;Clínica;;;1;1;2
+3512308;Consultório Isolado;;;;23;23
+3512308;Diagnose e Terapia;;;1;6;7
+3512308;Hospital;;;1;;1
+3512308;Outros;;;3;;3
+3512308;Unidade Básica de Saúde;;;7;;7
+3512407;Clínica;;;3;7;10
+3512407;Consultório Isolado;;;;30;30
+3512407;Diagnose e Terapia;;;1;3;4
+3512407;Outros;;;3;;3
+3512407;Pronto Atendimento;;;1;;1
+3512407;Unidade Básica de Saúde;;;7;;7
+3512407;Unidade de Saúde Mental ;;;1;;1
+3512407;Unidade Móvel;;;1;;1
+3512506;Outros;;;1;;1
+3512506;Unidade Básica de Saúde;;;1;;1
+3512605;Outros;;;3;;3
+3512605;Unidade Básica de Saúde;;;3;;3
+3512704;Consultório Isolado;;;;1;1
+3512704;Outros;;;1;;1
+3512704;Unidade Básica de Saúde;;;2;;2
+3512704;Unidade Móvel;;;1;;1
+3512803;Clínica;;;4;14;18
+3512803;Consultório Isolado;;;;38;38
+3512803;Diagnose e Terapia;;;;6;6
+3512803;Hospital;;;;1;1
+3512803;Outros;;;4;3;7
+3512803;Unidade Básica de Saúde;;;9;;9
+3512803;Unidade de Saúde Mental ;;;2;;2
+3512803;Vigilância em Saúde;;;2;;2
+3512902;Clínica;;;1;;1
+3512902;Consultório Isolado;;;;1;1
+3512902;Diagnose e Terapia;;;;2;2
+3512902;Outros;;;2;;2
+3512902;Unidade Básica de Saúde;;;3;1;4
+3513009;Clínica;;;8;36;44
+3513009;Consultório Isolado;;;;187;187
+3513009;Diagnose e Terapia;;;;18;18
+3513009;Hospital;1;;;4;5
+3513009;Outros;;;4;8;12
+3513009;Pronto Atendimento;;;4;;4
+3513009;Unidade Básica de Saúde;;;26;5;31
+3513009;Unidade de Saúde Mental ;;;3;;3
+3513009;Unidade Móvel;;;5;;5
+3513009;Vigilância em Saúde;;;4;;4
+3513108;Clínica;;;6;2;8
+3513108;Consultório Isolado;;;1;61;62
+3513108;Diagnose e Terapia;;;;4;4
+3513108;Hospital;;;;1;1
+3513108;Outros;;;2;12;14
+3513108;Pronto Atendimento;;;1;;1
+3513108;Unidade Básica de Saúde;;;7;;7
+3513108;Unidade Móvel;;;1;;1
+3513108;Vigilância em Saúde;;;4;;4
+3513207;Clínica;;;1;;1
+3513207;Consultório Isolado;;;1;5;6
+3513207;Diagnose e Terapia;;;1;;1
+3513207;Outros;;;1;;1
+3513207;Unidade Básica de Saúde;;;4;;4
+3513306;Outros;;;1;;1
+3513306;Unidade Básica de Saúde;;;2;;2
+3513405;Clínica;;;9;67;76
+3513405;Consultório Isolado;;;1;201;202
+3513405;Diagnose e Terapia;;;1;24;25
+3513405;Hospital;;;;3;3
+3513405;Outros;;;5;10;15
+3513405;Unidade Básica de Saúde;;;14;;14
+3513405;Unidade de Saúde Mental ;;;1;;1
+3513405;Unidade Móvel;;;2;2;4
+3513405;Vigilância em Saúde;;;1;;1
+3513504;Clínica;;;7;13;20
+3513504;Consultório Isolado;;;;110;110
+3513504;Diagnose e Terapia;;;1;8;9
+3513504;Hospital;;;1;;1
+3513504;Outros;;;3;1;4
+3513504;Pronto Atendimento;;;3;1;4
+3513504;Unidade Básica de Saúde;;;18;;18
+3513504;Unidade de Saúde Mental ;;;3;;3
+3513504;Unidade Móvel;;;3;;3
+3513504;Vigilância em Saúde;;;1;;1
+3513603;Clínica;;;1;2;3
+3513603;Consultório Isolado;;;;7;7
+3513603;Diagnose e Terapia;;;1;2;3
+3513603;Hospital;;;;1;1
+3513603;Outros;;;2;1;3
+3513603;Unidade Básica de Saúde;;;7;;7
+3513603;Unidade de Saúde Mental ;;;1;;1
+3513603;Unidade Móvel;;;1;;1
+3513702;Clínica;;;3;5;8
+3513702;Consultório Isolado;;;;106;106
+3513702;Diagnose e Terapia;;;;4;4
+3513702;Hospital;;;;1;1
+3513702;Outros;;;2;4;6
+3513702;Pronto Atendimento;;;1;1;2
+3513702;Unidade Básica de Saúde;;;11;;11
+3513702;Unidade de Saúde Mental ;;;1;;1
+3513702;Vigilância em Saúde;;;1;;1
+3513801;Clínica;1;;2;51;54
+3513801;Consultório Isolado;;;;101;101
+3513801;Diagnose e Terapia;;;;13;13
+3513801;Hospital;1;;2;2;5
+3513801;Outros;1;;5;7;13
+3513801;Pronto Atendimento;;;3;2;5
+3513801;Unidade Básica de Saúde;1;;21;;22
+3513801;Unidade de Saúde Mental ;;;5;;5
+3513801;Unidade Móvel;;;12;;12
+3513801;Vigilância em Saúde;;;2;;2
+3513850;Outros;;;2;;2
+3513850;Unidade Básica de Saúde;;;1;;1
+3513900;Clínica;;;;8;8
+3513900;Consultório Isolado;;;;3;3
+3513900;Hospital;;;;1;1
+3513900;Outros;;;1;1;2
+3513900;Unidade Básica de Saúde;;;7;;7
+3513900;Unidade Móvel;;;1;1;2
+3514007;Clínica;;;;3;3
+3514007;Consultório Isolado;;;;3;3
+3514007;Diagnose e Terapia;;;;2;2
+3514007;Outros;;;2;3;5
+3514007;Unidade Básica de Saúde;;;2;;2
+3514106;Clínica;;;1;5;6
+3514106;Consultório Isolado;;;;30;30
+3514106;Diagnose e Terapia;;;;6;6
+3514106;Hospital;;;;1;1
+3514106;Outros;;;3;;3
+3514106;Unidade Básica de Saúde;;;5;;5
+3514106;Unidade de Saúde Mental ;;;1;;1
+3514205;Outros;;;1;;1
+3514205;Unidade Básica de Saúde;;;2;;2
+3514304;Clínica;;;;3;3
+3514304;Consultório Isolado;;;;7;7
+3514304;Diagnose e Terapia;;;;1;1
+3514304;Hospital;;;1;;1
+3514304;Outros;;;1;;1
+3514304;Pronto Atendimento;;;1;;1
+3514304;Unidade Básica de Saúde;;;4;;4
+3514403;Clínica;1;;1;20;22
+3514403;Consultório Isolado;;;;216;216
+3514403;Diagnose e Terapia;;;2;11;13
+3514403;Hospital;;;;1;1
+3514403;Outros;;;1;6;7
+3514403;Pronto Atendimento;;;1;1;2
+3514403;Unidade Básica de Saúde;1;;12;;13
+3514403;Unidade de Saúde Mental ;;;2;;2
+3514403;Vigilância em Saúde;;;1;;1
+3514502;Clínica;;;;1;1
+3514502;Consultório Isolado;;;;36;36
+3514502;Diagnose e Terapia;;;;5;5
+3514502;Hospital;;;;1;1
+3514502;Outros;;;1;;1
+3514502;Unidade Básica de Saúde;;;4;;4
+3514502;Unidade de Saúde Mental ;;;1;;1
+3514502;Unidade Móvel;;;1;;1
+3514601;Consultório Isolado;;;;1;1
+3514601;Outros;;;2;;2
+3514601;Unidade Básica de Saúde;;;2;;2
+3514601;Unidade Móvel;;;1;;1
+3514700;Consultório Isolado;;;;1;1
+3514700;Diagnose e Terapia;;;;1;1
+3514700;Outros;;;2;;2
+3514700;Pronto Atendimento;;;1;;1
+3514700;Unidade Básica de Saúde;;;2;;2
+3514809;Clínica;;;1;;1
+3514809;Consultório Isolado;;;;1;1
+3514809;Diagnose e Terapia;;;;1;1
+3514809;Outros;;;2;;2
+3514809;Pronto Atendimento;;;1;;1
+3514809;Unidade Básica de Saúde;;;9;;9
+3514809;Unidade de Saúde Mental ;;;1;;1
+3514809;Vigilância em Saúde;;;1;;1
+3514908;Clínica;;;1;2;3
+3514908;Consultório Isolado;;;;5;5
+3514908;Diagnose e Terapia;;;;2;2
+3514908;Outros;;;2;;2
+3514908;Pronto Atendimento;;;1;;1
+3514908;Unidade Básica de Saúde;;;5;;5
+3514924;Consultório Isolado;;;;1;1
+3514924;Outros;;;1;;1
+3514924;Unidade Básica de Saúde;;;1;;1
+3514924;Unidade Móvel;;;1;;1
+3514957;Consultório Isolado;;;;1;1
+3514957;Diagnose e Terapia;;;;2;2
+3514957;Outros;;;1;;1
+3514957;Unidade Básica de Saúde;;;1;;1
+3515004;Clínica;;;7;7;14
+3515004;Consultório Isolado;;;1;138;139
+3515004;Diagnose e Terapia;;;;2;2
+3515004;Hospital;;;2;1;3
+3515004;Outros;;;7;;7
+3515004;Pronto Atendimento;;;1;;1
+3515004;Unidade Básica de Saúde;;;19;;19
+3515004;Unidade de Saúde Mental ;;;3;;3
+3515004;Unidade Móvel;;;4;;4
+3515004;Vigilância em Saúde;;;3;;3
+3515103;Clínica;;;4;8;12
+3515103;Consultório Isolado;;;;10;10
+3515103;Diagnose e Terapia;;;;2;2
+3515103;Outros;;;3;4;7
+3515103;Pronto Atendimento;;;1;;1
+3515103;Unidade Básica de Saúde;;;13;;13
+3515103;Unidade de Saúde Mental ;;;1;;1
+3515103;Unidade Móvel;;;3;;3
+3515103;Vigilância em Saúde;;;1;;1
+3515129;Consultório Isolado;;;;1;1
+3515129;Outros;;;1;1;2
+3515129;Unidade Básica de Saúde;;;1;;1
+3515129;Vigilância em Saúde;;;1;;1
+3515152;Clínica;;;1;4;5
+3515152;Consultório Isolado;;;;32;32
+3515152;Diagnose e Terapia;;;1;1;2
+3515152;Outros;;;4;;4
+3515152;Pronto Atendimento;;;1;;1
+3515152;Unidade Básica de Saúde;;;5;;5
+3515152;Unidade de Saúde Mental ;;;1;;1
+3515186;Clínica;;;1;26;27
+3515186;Consultório Isolado;;;;134;134
+3515186;Diagnose e Terapia;;;2;4;6
+3515186;Hospital;;;;3;3
+3515186;Outros;;;3;3;6
+3515186;Unidade Básica de Saúde;;;7;;7
+3515186;Unidade de Saúde Mental ;;;2;;2
+3515186;Unidade Móvel;;;1;;1
+3515194;Diagnose e Terapia;;;;1;1
+3515194;Outros;;;1;;1
+3515194;Unidade Básica de Saúde;;;3;;3
+3515202;Clínica;;;;4;4
+3515202;Consultório Isolado;;;;15;15
+3515202;Diagnose e Terapia;;;;1;1
+3515202;Hospital;;;;1;1
+3515202;Outros;;;2;;2
+3515202;Unidade Básica de Saúde;;;3;;3
+3515202;Unidade Móvel;;;1;;1
+3515301;Outros;;;1;;1
+3515301;Unidade Básica de Saúde;;;1;;1
+3515350;Clínica;;;1;1;2
+3515350;Consultório Isolado;;;;6;6
+3515350;Diagnose e Terapia;;;;1;1
+3515350;Outros;;;3;;3
+3515350;Unidade Básica de Saúde;;;5;;5
+3515350;Vigilância em Saúde;;;1;;1
+3515400;Clínica;;;;3;3
+3515400;Consultório Isolado;;;;22;22
+3515400;Diagnose e Terapia;;;;4;4
+3515400;Hospital;;;;1;1
+3515400;Outros;;;2;7;9
+3515400;Unidade Básica de Saúde;;;4;;4
+3515400;Unidade Móvel;;;1;;1
+3515400;Vigilância em Saúde;;;1;;1
+3515509;Clínica;2;;5;166;173
+3515509;Consultório Isolado;;;;276;276
+3515509;Diagnose e Terapia;;;1;28;29
+3515509;Hospital;;;;3;3
+3515509;Outros;;;8;24;32
+3515509;Pronto Atendimento;;;1;;1
+3515509;Unidade Básica de Saúde;;;18;;18
+3515509;Unidade de Saúde Mental ;;;2;;2
+3515509;Unidade Móvel;;;4;;4
+3515509;Vigilância em Saúde;;;1;;1
+3515608;Clínica;;;1;;1
+3515608;Consultório Isolado;;;;3;3
+3515608;Diagnose e Terapia;;;;1;1
+3515608;Outros;;;1;;1
+3515608;Unidade Básica de Saúde;;;3;;3
+3515657;Outros;;;2;;2
+3515657;Unidade Básica de Saúde;;;1;;1
+3515707;Clínica;;;8;5;13
+3515707;Consultório Isolado;;;;26;26
+3515707;Diagnose e Terapia;;;;7;7
+3515707;Hospital;1;;;;1
+3515707;Outros;;;5;1;6
+3515707;Unidade Básica de Saúde;;;14;;14
+3515707;Unidade de Saúde Mental ;;;2;;2
+3515707;Unidade Móvel;;;4;;4
+3515707;Vigilância em Saúde;;;3;;3
+3515806;Clínica;;;1;;1
+3515806;Outros;;;1;;1
+3515806;Unidade Básica de Saúde;;;1;;1
+3515905;Consultório Isolado;;;;1;1
+3515905;Outros;;;1;;1
+3515905;Unidade Básica de Saúde;;;1;;1
+3516002;Consultório Isolado;;;;6;6
+3516002;Diagnose e Terapia;;;1;3;4
+3516002;Hospital;;;;1;1
+3516002;Outros;;;2;2;4
+3516002;Unidade Básica de Saúde;1;;5;;6
+3516002;Unidade de Saúde Mental ;;;1;;1
+3516101;Clínica;;;1;;1
+3516101;Diagnose e Terapia;;;1;;1
+3516101;Outros;;;3;;3
+3516101;Unidade Básica de Saúde;1;;2;;3
+3516200;Clínica;1;;7;68;76
+3516200;Consultório Isolado;1;;2;347;350
+3516200;Diagnose e Terapia;;;2;23;25
+3516200;Hospital;;;;4;4
+3516200;Outros;4;;6;15;25
+3516200;Pronto Atendimento;;;4;;4
+3516200;Unidade Básica de Saúde;1;;23;;24
+3516200;Unidade de Saúde Mental ;;;2;;2
+3516200;Unidade Móvel;1;;5;1;7
+3516200;Vigilância em Saúde;;;3;;3
+3516309;Clínica;;;2;6;8
+3516309;Consultório Isolado;;;;46;46
+3516309;Diagnose e Terapia;;;1;4;5
+3516309;Hospital;1;;;1;2
+3516309;Outros;;;3;4;7
+3516309;Pronto Atendimento;;;1;;1
+3516309;Unidade Básica de Saúde;;;13;;13
+3516309;Unidade de Saúde Mental ;;;3;;3
+3516309;Unidade Móvel;;;1;;1
+3516309;Vigilância em Saúde;;;1;;1
+3516408;Clínica;1;;6;9;16
+3516408;Consultório Isolado;1;;3;53;57
+3516408;Diagnose e Terapia;;;1;10;11
+3516408;Hospital;2;;;1;3
+3516408;Outros;2;;7;1;10
+3516408;Pronto Atendimento;;;1;;1
+3516408;Unidade Básica de Saúde;7;;16;;23
+3516408;Unidade de Saúde Mental ;;;3;;3
+3516408;Vigilância em Saúde;1;;1;;2
+3516507;Clínica;;;1;;1
+3516507;Outros;;;1;1;2
+3516507;Unidade Básica de Saúde;;;1;;1
+3516606;Consultório Isolado;;;;5;5
+3516606;Hospital;;;;1;1
+3516606;Outros;;;2;;2
+3516606;Unidade Básica de Saúde;2;;2;;4
+3516705;Clínica;;;4;4;8
+3516705;Consultório Isolado;;;;45;45
+3516705;Diagnose e Terapia;;;;8;8
+3516705;Hospital;;;;3;3
+3516705;Outros;;;3;2;5
+3516705;Pronto Atendimento;;;1;;1
+3516705;Unidade Básica de Saúde;;;13;;13
+3516705;Unidade de Saúde Mental ;;;2;;2
+3516705;Unidade Móvel;;;1;;1
+3516705;Vigilância em Saúde;;;1;;1
+3516804;Outros;;;1;;1
+3516804;Unidade Básica de Saúde;;;1;;1
+3516853;Consultório Isolado;;;;1;1
+3516853;Outros;;;1;;1
+3516853;Pronto Atendimento;;;1;;1
+3516853;Unidade Básica de Saúde;;;3;;3
+3516903;Clínica;;;1;2;3
+3516903;Consultório Isolado;;;;8;8
+3516903;Diagnose e Terapia;;;1;3;4
+3516903;Hospital;;;;1;1
+3516903;Outros;;;2;;2
+3516903;Pronto Atendimento;;;1;;1
+3516903;Unidade Básica de Saúde;;;5;;5
+3517000;Consultório Isolado;;;;11;11
+3517000;Hospital;;;;1;1
+3517000;Outros;;;1;;1
+3517000;Unidade Básica de Saúde;1;;5;;6
+3517109;Outros;;;1;;1
+3517109;Unidade Básica de Saúde;;;2;;2
+3517208;Clínica;;;1;;1
+3517208;Consultório Isolado;;;;7;7
+3517208;Diagnose e Terapia;;;;1;1
+3517208;Outros;;;1;;1
+3517208;Unidade Básica de Saúde;;;5;;5
+3517307;Outros;;;2;;2
+3517307;Pronto Atendimento;;;1;;1
+3517307;Unidade Básica de Saúde;;;3;;3
+3517406;Clínica;;;2;10;12
+3517406;Consultório Isolado;;;;68;68
+3517406;Diagnose e Terapia;;;1;5;6
+3517406;Hospital;;;;1;1
+3517406;Outros;;;3;2;5
+3517406;Unidade Básica de Saúde;;;7;;7
+3517406;Unidade de Saúde Mental ;;;1;;1
+3517406;Unidade Móvel;;;1;;1
+3517505;Clínica;;;;2;2
+3517505;Consultório Isolado;;;;7;7
+3517505;Diagnose e Terapia;;;;1;1
+3517505;Outros;;;2;;2
+3517505;Pronto Atendimento;;;1;;1
+3517505;Unidade Básica de Saúde;;;9;;9
+3517505;Unidade de Saúde Mental ;;;1;;1
+3517604;Clínica;;;1;1;2
+3517604;Consultório Isolado;;;;1;1
+3517604;Diagnose e Terapia;;;1;2;3
+3517604;Hospital;;;1;;1
+3517604;Outros;;;4;;4
+3517604;Unidade Básica de Saúde;;;7;;7
+3517604;Unidade de Saúde Mental ;;;1;;1
+3517604;Unidade Móvel;;;1;;1
+3517703;Clínica;;;2;2;4
+3517703;Consultório Isolado;;;;41;41
+3517703;Diagnose e Terapia;;;;3;3
+3517703;Hospital;;;;1;1
+3517703;Outros;;;4;;4
+3517703;Pronto Atendimento;;;1;;1
+3517703;Unidade Básica de Saúde;;;7;;7
+3517703;Unidade de Saúde Mental ;;;1;;1
+3517703;Vigilância em Saúde;;;1;;1
+3517802;Clínica;;;;1;1
+3517802;Consultório Isolado;;;;6;6
+3517802;Hospital;;;;1;1
+3517802;Outros;;;2;;2
+3517802;Unidade Básica de Saúde;;;2;;2
+3517802;Vigilância em Saúde;;;1;;1
+3517901;Clínica;;;1;;1
+3517901;Consultório Isolado;;;;7;7
+3517901;Diagnose e Terapia;;;1;2;3
+3517901;Outros;;;1;2;3
+3517901;Pronto Atendimento;;;1;;1
+3517901;Unidade Básica de Saúde;;;3;;3
+3517901;Unidade Móvel;;;1;;1
+3518008;Consultório Isolado;;;;1;1
+3518008;Diagnose e Terapia;;;;1;1
+3518008;Outros;;;1;;1
+3518008;Unidade Básica de Saúde;;;1;;1
+3518008;Vigilância em Saúde;;;1;;1
+3518107;Outros;;;2;;2
+3518107;Pronto Atendimento;;;1;;1
+3518107;Unidade Básica de Saúde;;;3;;3
+3518206;Clínica;;;;4;4
+3518206;Consultório Isolado;;;10;48;58
+3518206;Diagnose e Terapia;;;;9;9
+3518206;Hospital;;;;1;1
+3518206;Outros;;;2;2;4
+3518206;Unidade Básica de Saúde;;;4;;4
+3518206;Unidade de Saúde Mental ;;;1;;1
+3518206;Vigilância em Saúde;;;1;;1
+3518305;Clínica;;;1;4;5
+3518305;Consultório Isolado;;;;7;7
+3518305;Diagnose e Terapia;;;;2;2
+3518305;Hospital;;;;1;1
+3518305;Outros;;;2;1;3
+3518305;Unidade Básica de Saúde;;;3;;3
+3518305;Unidade de Saúde Mental ;;;1;;1
+3518305;Unidade Móvel;;;1;;1
+3518305;Vigilância em Saúde;;;1;;1
+3518404;Clínica;;;4;37;41
+3518404;Consultório Isolado;1;;1;306;308
+3518404;Diagnose e Terapia;;;1;21;22
+3518404;Hospital;;1;;5;6
+3518404;Outros;1;;4;22;27
+3518404;Pronto Atendimento;;;1;;1
+3518404;Unidade Básica de Saúde;;;18;;18
+3518404;Unidade de Saúde Mental ;;;2;;2
+3518404;Unidade Móvel;;;4;1;5
+3518404;Vigilância em Saúde;1;;;;1
+3518503;Consultório Isolado;;;;1;1
+3518503;Diagnose e Terapia;;;;7;7
+3518503;Outros;;;3;;3
+3518503;Pronto Atendimento;;;1;;1
+3518503;Unidade Básica de Saúde;2;;5;;7
+3518503;Unidade de Saúde Mental ;;;1;;1
+3518503;Unidade Móvel;;;1;;1
+3518602;Clínica;;;4;10;14
+3518602;Consultório Isolado;;;;33;33
+3518602;Diagnose e Terapia;;;1;2;3
+3518602;Hospital;;;;1;1
+3518602;Outros;;;2;;2
+3518602;Unidade Básica de Saúde;1;;6;;7
+3518602;Unidade de Saúde Mental ;;;1;;1
+3518602;Unidade Móvel;;;1;;1
+3518701;Clínica;;;11;72;83
+3518701;Consultório Isolado;;;;235;235
+3518701;Diagnose e Terapia;;;1;47;48
+3518701;Hospital;1;;1;5;7
+3518701;Outros;;;7;23;30
+3518701;Pronto Atendimento;;;5;2;7
+3518701;Unidade Básica de Saúde;;;23;1;24
+3518701;Unidade de Saúde Mental ;;;4;;4
+3518701;Unidade Móvel;;;13;1;14
+3518701;Vigilância em Saúde;;;2;;2
+3518800;Clínica;3;;18;305;326
+3518800;Consultório Isolado;;;;412;412
+3518800;Diagnose e Terapia;;;2;67;69
+3518800;Hospital;2;;3;13;18
+3518800;Outros;1;;11;44;56
+3518800;Pronto Atendimento;;;9;1;10
+3518800;Unidade Básica de Saúde;4;;69;2;75
+3518800;Unidade de Saúde Mental ;;;8;;8
+3518800;Unidade Móvel;;;23;2;25
+3518800;Vigilância em Saúde;;;3;;3
+3518859;Clínica;;;1;;1
+3518859;Consultório Isolado;;;;1;1
+3518859;Outros;;;3;;3
+3518859;Pronto Atendimento;;;1;;1
+3518859;Unidade Básica de Saúde;;;4;;4
+3518859;Unidade Móvel;;;1;;1
+3518909;Outros;;;1;;1
+3518909;Unidade Básica de Saúde;;;2;;2
+3519006;Clínica;;;1;;1
+3519006;Consultório Isolado;;;;5;5
+3519006;Diagnose e Terapia;;;;1;1
+3519006;Hospital;;;;1;1
+3519006;Outros;;;2;;2
+3519006;Pronto Atendimento;;;1;;1
+3519006;Unidade Básica de Saúde;;;4;;4
+3519006;Unidade de Saúde Mental ;;;1;;1
+3519006;Vigilância em Saúde;;;1;;1
+3519055;Clínica;;;1;3;4
+3519055;Consultório Isolado;;;;27;27
+3519055;Diagnose e Terapia;;;;1;1
+3519055;Outros;;;2;1;3
+3519055;Unidade Básica de Saúde;;;4;;4
+3519055;Unidade de Saúde Mental ;;;1;;1
+3519071;Clínica;;;7;50;57
+3519071;Consultório Isolado;;;;109;109
+3519071;Diagnose e Terapia;;;;23;23
+3519071;Hospital;;;1;1;2
+3519071;Outros;;;4;5;9
+3519071;Pronto Atendimento;;;3;;3
+3519071;Unidade Básica de Saúde;4;;17;;21
+3519071;Unidade de Saúde Mental ;;;3;;3
+3519071;Unidade Móvel;;;11;;11
+3519071;Vigilância em Saúde;;;1;;1
+3519105;Clínica;;;;2;2
+3519105;Consultório Isolado;;;;9;9
+3519105;Hospital;;;;1;1
+3519105;Outros;;;2;1;3
+3519105;Unidade Básica de Saúde;;;4;;4
+3519105;Unidade de Saúde Mental ;;;1;;1
+3519105;Unidade Móvel;;;1;;1
+3519204;Diagnose e Terapia;;;;1;1
+3519204;Outros;;;2;1;3
+3519204;Pronto Atendimento;;;1;;1
+3519204;Unidade Básica de Saúde;;;2;;2
+3519253;Diagnose e Terapia;;;;1;1
+3519253;Outros;;;2;;2
+3519253;Unidade Básica de Saúde;2;;4;;6
+3519303;Clínica;;;1;3;4
+3519303;Consultório Isolado;;;;36;36
+3519303;Diagnose e Terapia;;;;5;5
+3519303;Hospital;;;1;;1
+3519303;Outros;;;2;;2
+3519303;Unidade Básica de Saúde;;;9;1;10
+3519303;Vigilância em Saúde;;;1;;1
+3519402;Clínica;;;1;;1
+3519402;Consultório Isolado;;;;10;10
+3519402;Diagnose e Terapia;;;;6;6
+3519402;Hospital;;;;1;1
+3519402;Outros;;;1;;1
+3519402;Unidade Básica de Saúde;;;3;;3
+3519402;Unidade Móvel;;;1;;1
+3519501;Diagnose e Terapia;;;;1;1
+3519501;Outros;;;2;;2
+3519501;Unidade Básica de Saúde;;;4;;4
+3519600;Clínica;;;3;15;18
+3519600;Consultório Isolado;;;;129;129
+3519600;Diagnose e Terapia;;;;12;12
+3519600;Hospital;;;;2;2
+3519600;Outros;;;2;5;7
+3519600;Pronto Atendimento;;;2;;2
+3519600;Unidade Básica de Saúde;;;13;;13
+3519600;Unidade de Saúde Mental ;;;1;;1
+3519600;Unidade Móvel;;;1;;1
+3519600;Vigilância em Saúde;;;3;;3
+3519709;Clínica;;;3;8;11
+3519709;Consultório Isolado;;;;19;19
+3519709;Diagnose e Terapia;;;;2;2
+3519709;Hospital;;;1;2;3
+3519709;Outros;;;1;4;5
+3519709;Unidade Básica de Saúde;;;16;;16
+3519709;Unidade de Saúde Mental ;;;2;;2
+3519709;Unidade Móvel;;;1;;1
+3519709;Vigilância em Saúde;;;1;;1
+3519808;Clínica;;;;5;5
+3519808;Consultório Isolado;;;;6;6
+3519808;Diagnose e Terapia;;;1;2;3
+3519808;Outros;;;2;;2
+3519808;Unidade Básica de Saúde;1;;5;;6
+3519808;Unidade Móvel;;;1;;1
+3519907;Clínica;;;1;1;2
+3519907;Consultório Isolado;;;;6;6
+3519907;Diagnose e Terapia;;;;2;2
+3519907;Hospital;;;1;;1
+3519907;Outros;;;2;7;9
+3519907;Unidade Básica de Saúde;;;4;;4
+3519907;Vigilância em Saúde;;;1;;1
+3520004;Clínica;;;2;1;3
+3520004;Consultório Isolado;;;;9;9
+3520004;Outros;;;1;;1
+3520004;Pronto Atendimento;;;1;;1
+3520004;Unidade Básica de Saúde;;;4;;4
+3520004;Unidade de Saúde Mental ;;;1;;1
+3520103;Clínica;;;3;5;8
+3520103;Consultório Isolado;;;;51;51
+3520103;Diagnose e Terapia;;;;4;4
+3520103;Hospital;;;;1;1
+3520103;Outros;;;5;;5
+3520103;Unidade Básica de Saúde;;;8;;8
+3520103;Unidade de Saúde Mental ;;;1;;1
+3520202;Clínica;;;;1;1
+3520202;Consultório Isolado;;;;1;1
+3520202;Diagnose e Terapia;;;1;2;3
+3520202;Outros;;;3;;3
+3520202;Unidade Básica de Saúde;;;4;;4
+3520202;Unidade Móvel;;;1;;1
+3520301;Clínica;;;2;5;7
+3520301;Consultório Isolado;;;;8;8
+3520301;Diagnose e Terapia;;;;3;3
+3520301;Outros;;;1;1;2
+3520301;Pronto Atendimento;;;1;;1
+3520301;Unidade Básica de Saúde;;;9;;9
+3520301;Unidade de Saúde Mental ;;;1;;1
+3520301;Vigilância em Saúde;;;1;;1
+3520400;Clínica;;;4;4;8
+3520400;Consultório Isolado;;;;8;8
+3520400;Diagnose e Terapia;;;;4;4
+3520400;Hospital;;;1;;1
+3520400;Outros;;;8;3;11
+3520400;Unidade Básica de Saúde;;;12;1;13
+3520400;Unidade de Saúde Mental ;;;1;;1
+3520400;Unidade Móvel;;;2;;2
+3520400;Vigilância em Saúde;;;2;;2
+3520426;Clínica;;;;1;1
+3520426;Consultório Isolado;;;;1;1
+3520426;Diagnose e Terapia;;;;1;1
+3520426;Outros;;;2;;2
+3520426;Pronto Atendimento;;;1;;1
+3520426;Unidade Básica de Saúde;;;7;;7
+3520442;Clínica;;;4;16;20
+3520442;Consultório Isolado;;;;94;94
+3520442;Diagnose e Terapia;;;;8;8
+3520442;Hospital;;;;1;1
+3520442;Outros;;;3;;3
+3520442;Unidade Básica de Saúde;;;7;1;8
+3520442;Unidade de Saúde Mental ;;;1;;1
+3520509;Clínica;;;7;69;76
+3520509;Consultório Isolado;;;1;272;273
+3520509;Diagnose e Terapia;;;1;31;32
+3520509;Hospital;;;1;5;6
+3520509;Outros;;;5;29;34
+3520509;Pronto Atendimento;;;1;1;2
+3520509;Unidade Básica de Saúde;;;17;;17
+3520509;Unidade de Saúde Mental ;;;3;;3
+3520509;Unidade Móvel;1;;;3;4
+3520509;Vigilância em Saúde;;;1;;1
+3520608;Clínica;;;1;;1
+3520608;Consultório Isolado;;;;3;3
+3520608;Outros;;;1;;1
+3520608;Unidade Básica de Saúde;;;3;;3
+3520608;Vigilância em Saúde;;;1;;1
+3520707;Clínica;;;;1;1
+3520707;Consultório Isolado;;;;2;2
+3520707;Hospital;;;;1;1
+3520707;Outros;;;1;;1
+3520707;Unidade Básica de Saúde;;;2;;2
+3520806;Outros;;;1;;1
+3520806;Unidade Básica de Saúde;;;1;;1
+3520905;Clínica;;;;1;1
+3520905;Consultório Isolado;;;;7;7
+3520905;Diagnose e Terapia;;;;3;3
+3520905;Hospital;;;;1;1
+3520905;Outros;;;1;3;4
+3520905;Unidade Básica de Saúde;;;3;;3
+3520905;Unidade de Saúde Mental ;;;1;;1
+3520905;Unidade Móvel;;;1;;1
+3521002;Clínica;;;1;1;2
+3521002;Consultório Isolado;;;;14;14
+3521002;Diagnose e Terapia;;;;2;2
+3521002;Outros;;;4;;4
+3521002;Pronto Atendimento;;;2;;2
+3521002;Unidade Básica de Saúde;1;;5;;6
+3521002;Unidade de Saúde Mental ;;;1;;1
+3521002;Unidade Móvel;;;1;;1
+3521101;Clínica;;;1;;1
+3521101;Outros;;;2;;2
+3521101;Unidade Básica de Saúde;;;3;;3
+3521101;Unidade Móvel;;;1;;1
+3521101;Vigilância em Saúde;;;1;;1
+3521150;Clínica;;;1;;1
+3521150;Outros;;;1;;1
+3521150;Unidade Básica de Saúde;;;1;;1
+3521200;Outros;;;1;;1
+3521200;Pronto Atendimento;;;1;;1
+3521200;Unidade Básica de Saúde;;;2;;2
+3521200;Unidade Móvel;;;1;;1
+3521309;Clínica;;;1;;1
+3521309;Consultório Isolado;;;;51;51
+3521309;Diagnose e Terapia;;;;3;3
+3521309;Hospital;;;;1;1
+3521309;Outros;;;1;;1
+3521309;Pronto Atendimento;;;1;;1
+3521309;Unidade Básica de Saúde;;;7;;7
+3521309;Unidade de Saúde Mental ;;;1;;1
+3521408;Clínica;;;2;3;5
+3521408;Consultório Isolado;;;;12;12
+3521408;Diagnose e Terapia;;;;6;6
+3521408;Outros;;;2;;2
+3521408;Pronto Atendimento;;;1;;1
+3521408;Unidade Básica de Saúde;;;4;;4
+3521408;Unidade de Saúde Mental ;;;1;;1
+3521507;Consultório Isolado;;;;4;4
+3521507;Diagnose e Terapia;;;;2;2
+3521507;Outros;;;1;;1
+3521507;Unidade Básica de Saúde;;;3;;3
+3521507;Unidade Móvel;;;1;;1
+3521606;Consultório Isolado;;;;1;1
+3521606;Outros;;;1;;1
+3521606;Pronto Atendimento;;;1;;1
+3521606;Unidade Básica de Saúde;2;;3;;5
+3521606;Vigilância em Saúde;;;1;;1
+3521705;Clínica;;;2;2;4
+3521705;Consultório Isolado;;;;2;2
+3521705;Diagnose e Terapia;;;;2;2
+3521705;Hospital;;;1;;1
+3521705;Outros;;;5;;5
+3521705;Unidade Básica de Saúde;;;9;;9
+3521705;Unidade de Saúde Mental ;;;1;;1
+3521804;Clínica;;;2;2;4
+3521804;Consultório Isolado;;;;3;3
+3521804;Diagnose e Terapia;;;;6;6
+3521804;Hospital;;;;1;1
+3521804;Outros;;;5;;5
+3521804;Unidade Básica de Saúde;1;;5;;6
+3521804;Unidade de Saúde Mental ;;;1;;1
+3521804;Unidade Móvel;;;1;;1
+3521804;Vigilância em Saúde;;;1;;1
+3521903;Clínica;;;1;3;4
+3521903;Consultório Isolado;;;;15;15
+3521903;Diagnose e Terapia;;;;4;4
+3521903;Hospital;;;;1;1
+3521903;Outros;;;3;;3
+3521903;Pronto Atendimento;;;1;;1
+3521903;Unidade Básica de Saúde;;;5;;5
+3521903;Unidade de Saúde Mental ;;;1;;1
+3522000;Outros;;;1;;1
+3522000;Unidade Básica de Saúde;;;1;;1
+3522109;Clínica;;;7;17;24
+3522109;Consultório Isolado;;;;34;34
+3522109;Diagnose e Terapia;;;1;5;6
+3522109;Hospital;1;;;2;3
+3522109;Outros;;;7;7;14
+3522109;Pronto Atendimento;;;1;;1
+3522109;Unidade Básica de Saúde;;;11;;11
+3522109;Unidade de Saúde Mental ;;;3;;3
+3522109;Unidade Móvel;;;7;;7
+3522158;Outros;;;2;;2
+3522158;Unidade Básica de Saúde;;;1;;1
+3522158;Unidade Móvel;;;1;;1
+3522208;Clínica;;;2;21;23
+3522208;Consultório Isolado;;;;36;36
+3522208;Diagnose e Terapia;;;1;3;4
+3522208;Hospital;1;;1;3;5
+3522208;Outros;;;1;8;9
+3522208;Pronto Atendimento;;;2;;2
+3522208;Unidade Básica de Saúde;1;;14;;15
+3522208;Unidade de Saúde Mental ;;;1;;1
+3522208;Unidade Móvel;;;2;;2
+3522208;Vigilância em Saúde;;;1;;1
+3522307;Clínica;1;;11;27;39
+3522307;Consultório Isolado;1;;;359;360
+3522307;Diagnose e Terapia;;;1;18;19
+3522307;Hospital;;;;2;2
+3522307;Outros;;;7;18;25
+3522307;Unidade Básica de Saúde;3;;19;1;23
+3522307;Unidade de Saúde Mental ;;;3;;3
+3522307;Unidade Móvel;;;9;1;10
+3522307;Vigilância em Saúde;1;;;;1
+3522406;Clínica;1;;5;33;39
+3522406;Consultório Isolado;;;;257;257
+3522406;Diagnose e Terapia;;;;8;8
+3522406;Hospital;;;1;2;3
+3522406;Outros;1;;7;10;18
+3522406;Pronto Atendimento;;;1;;1
+3522406;Unidade Básica de Saúde;;;24;1;25
+3522406;Unidade de Saúde Mental ;;;2;;2
+3522406;Unidade Móvel;;;2;;2
+3522406;Vigilância em Saúde;1;;;;1
+3522505;Clínica;1;;6;24;31
+3522505;Consultório Isolado;;;;58;58
+3522505;Diagnose e Terapia;;;;8;8
+3522505;Hospital;1;;;2;3
+3522505;Outros;;;5;2;7
+3522505;Pronto Atendimento;;;4;2;6
+3522505;Unidade Básica de Saúde;;;15;;15
+3522505;Unidade de Saúde Mental ;;;3;;3
+3522505;Unidade Móvel;;;8;;8
+3522505;Vigilância em Saúde;;;3;;3
+3522604;Clínica;;;6;12;18
+3522604;Consultório Isolado;;;;125;125
+3522604;Diagnose e Terapia;;;;10;10
+3522604;Hospital;;;1;3;4
+3522604;Outros;;;3;1;4
+3522604;Unidade Básica de Saúde;;;13;1;14
+3522604;Unidade de Saúde Mental ;;;2;;2
+3522604;Unidade Móvel;;;2;;2
+3522653;Clínica;;;1;;1
+3522653;Outros;;;3;;3
+3522653;Unidade Básica de Saúde;;;2;;2
+3522653;Unidade Móvel;;;1;;1
+3522703;Clínica;;;3;9;12
+3522703;Consultório Isolado;;;;81;81
+3522703;Diagnose e Terapia;;;;6;6
+3522703;Hospital;;;;1;1
+3522703;Outros;;;1;1;2
+3522703;Unidade Básica de Saúde;;;8;;8
+3522703;Unidade de Saúde Mental ;;;1;;1
+3522703;Unidade Móvel;;;1;;1
+3522802;Clínica;;;2;2;4
+3522802;Consultório Isolado;;;;6;6
+3522802;Diagnose e Terapia;;;;2;2
+3522802;Hospital;;;;1;1
+3522802;Outros;;1;4;;5
+3522802;Unidade Básica de Saúde;;;4;;4
+3522802;Unidade Móvel;;;1;;1
+3522901;Clínica;;;1;1;2
+3522901;Consultório Isolado;;;;2;2
+3522901;Diagnose e Terapia;;;;3;3
+3522901;Hospital;;;1;;1
+3522901;Outros;;;1;;1
+3522901;Pronto Atendimento;;;1;;1
+3522901;Unidade Básica de Saúde;;;4;;4
+3522901;Unidade de Saúde Mental ;;;1;;1
+3522901;Unidade Móvel;;;1;;1
+3523008;Diagnose e Terapia;;;;1;1
+3523008;Outros;;;2;;2
+3523008;Unidade Básica de Saúde;;;2;;2
+3523008;Vigilância em Saúde;;;1;;1
+3523107;Clínica;;;4;18;22
+3523107;Consultório Isolado;;;1;49;50
+3523107;Diagnose e Terapia;;;;8;8
+3523107;Hospital;1;;;;1
+3523107;Outros;;;5;2;7
+3523107;Pronto Atendimento;;;3;2;5
+3523107;Unidade Básica de Saúde;;;19;;19
+3523107;Unidade de Saúde Mental ;;;2;;2
+3523107;Unidade Móvel;;;7;;7
+3523107;Vigilância em Saúde;;;2;;2
+3523206;Clínica;;;4;5;9
+3523206;Consultório Isolado;;;1;54;55
+3523206;Diagnose e Terapia;;;;6;6
+3523206;Hospital;;;;1;1
+3523206;Outros;;;5;2;7
+3523206;Unidade Básica de Saúde;;;12;;12
+3523206;Unidade de Saúde Mental ;;;1;;1
+3523206;Unidade Móvel;;;1;;1
+3523305;Consultório Isolado;;;;1;1
+3523305;Diagnose e Terapia;;;;1;1
+3523305;Outros;;;2;1;3
+3523305;Pronto Atendimento;;;1;;1
+3523305;Unidade Básica de Saúde;;;7;;7
+3523404;Clínica;;;7;42;49
+3523404;Consultório Isolado;;;;137;137
+3523404;Diagnose e Terapia;;;;19;19
+3523404;Hospital;;;;3;3
+3523404;Outros;;;3;5;8
+3523404;Pronto Atendimento;;;1;1;2
+3523404;Unidade Básica de Saúde;;;25;;25
+3523404;Unidade de Saúde Mental ;;;2;;2
+3523404;Unidade Móvel;;;2;;2
+3523404;Vigilância em Saúde;;;2;;2
+3523503;Consultório Isolado;;;;16;16
+3523503;Diagnose e Terapia;;;;2;2
+3523503;Hospital;;;;1;1
+3523503;Outros;;;2;;2
+3523503;Unidade Básica de Saúde;1;;3;;4
+3523602;Clínica;;;1;;1
+3523602;Consultório Isolado;;;;17;17
+3523602;Diagnose e Terapia;;;;2;2
+3523602;Hospital;;;1;;1
+3523602;Outros;;;1;1;2
+3523602;Unidade Básica de Saúde;2;;4;;6
+3523602;Unidade Móvel;;;1;;1
+3523602;Vigilância em Saúde;;;1;;1
+3523701;Clínica;;;2;;2
+3523701;Outros;;;1;;1
+3523701;Unidade Básica de Saúde;;;3;;3
+3523701;Vigilância em Saúde;;;1;;1
+3523800;Clínica;;;;1;1
+3523800;Consultório Isolado;;;;2;2
+3523800;Diagnose e Terapia;;;;1;1
+3523800;Outros;;;1;;1
+3523800;Unidade Básica de Saúde;;;2;;2
+3523909;Clínica;1;;16;108;125
+3523909;Consultório Isolado;;;;214;214
+3523909;Diagnose e Terapia;;;2;28;30
+3523909;Hospital;1;;2;2;5
+3523909;Outros;;;7;14;21
+3523909;Pronto Atendimento;;;3;;3
+3523909;Unidade Básica de Saúde;;;17;;17
+3523909;Unidade de Saúde Mental ;;;2;;2
+3523909;Unidade Móvel;;;2;;2
+3523909;Vigilância em Saúde;;;1;;1
+3524006;Clínica;;;6;15;21
+3524006;Consultório Isolado;;;4;37;41
+3524006;Diagnose e Terapia;;;;5;5
+3524006;Hospital;;;1;1;2
+3524006;Outros;;;3;3;6
+3524006;Unidade Básica de Saúde;;;12;1;13
+3524006;Unidade de Saúde Mental ;;;1;;1
+3524006;Unidade Móvel;;;;1;1
+3524105;Clínica;1;;2;8;11
+3524105;Consultório Isolado;;;;203;203
+3524105;Diagnose e Terapia;;;1;10;11
+3524105;Hospital;;;;2;2
+3524105;Outros;;;2;3;5
+3524105;Unidade Básica de Saúde;;;12;;12
+3524105;Unidade de Saúde Mental ;;;1;;1
+3524105;Unidade Móvel;;;1;1;2
+3524105;Vigilância em Saúde;;;1;;1
+3524204;Clínica;;;1;;1
+3524204;Consultório Isolado;;;1;4;5
+3524204;Diagnose e Terapia;;;;1;1
+3524204;Hospital;;;1;;1
+3524204;Outros;;;2;;2
+3524204;Unidade Básica de Saúde;;;3;;3
+3524204;Unidade Móvel;;;1;;1
+3524303;Clínica;;;5;28;33
+3524303;Consultório Isolado;;;;179;179
+3524303;Diagnose e Terapia;1;;1;7;9
+3524303;Hospital;;;;2;2
+3524303;Outros;;;4;10;14
+3524303;Pronto Atendimento;;;1;2;3
+3524303;Unidade Básica de Saúde;;;12;;12
+3524303;Unidade de Saúde Mental ;;;1;;1
+3524303;Unidade Móvel;;;4;;4
+3524303;Vigilância em Saúde;;;1;;1
+3524402;Clínica;;;3;55;58
+3524402;Consultório Isolado;1;;;393;394
+3524402;Diagnose e Terapia;;;2;37;39
+3524402;Hospital;;;;6;6
+3524402;Outros;;;5;17;22
+3524402;Pronto Atendimento;;;2;2;4
+3524402;Unidade Básica de Saúde;;;19;;19
+3524402;Unidade de Saúde Mental ;;;3;;3
+3524402;Unidade Móvel;;;4;;4
+3524402;Vigilância em Saúde;;;1;;1
+3524501;Clínica;;;;2;2
+3524501;Hospital;;;;1;1
+3524501;Outros;;;1;;1
+3524501;Unidade Básica de Saúde;;;3;;3
+3524600;Clínica;;;1;;1
+3524600;Consultório Isolado;;;;9;9
+3524600;Diagnose e Terapia;;;1;2;3
+3524600;Outros;;;2;;2
+3524600;Pronto Atendimento;;;1;;1
+3524600;Unidade Básica de Saúde;;;7;;7
+3524600;Vigilância em Saúde;;;1;;1
+3524709;Clínica;;;6;32;38
+3524709;Consultório Isolado;;;;60;60
+3524709;Diagnose e Terapia;;;1;11;12
+3524709;Hospital;;;1;1;2
+3524709;Outros;;;6;4;10
+3524709;Pronto Atendimento;;;1;;1
+3524709;Unidade Básica de Saúde;;;12;;12
+3524709;Unidade de Saúde Mental ;;;1;;1
+3524709;Unidade Móvel;;;3;1;4
+3524709;Vigilância em Saúde;;;1;;1
+3524808;Clínica;1;;6;27;34
+3524808;Consultório Isolado;;;;160;160
+3524808;Diagnose e Terapia;;;1;16;17
+3524808;Hospital;;;;2;2
+3524808;Outros;1;;5;4;10
+3524808;Pronto Atendimento;;;1;;1
+3524808;Unidade Básica de Saúde;;;12;;12
+3524808;Unidade de Saúde Mental ;;;1;;1
+3524808;Unidade Móvel;;;3;;3
+3524808;Vigilância em Saúde;1;;1;;2
+3524907;Clínica;;;1;1;2
+3524907;Consultório Isolado;;;;2;2
+3524907;Outros;;;1;;1
+3524907;Unidade Básica de Saúde;;;3;;3
+3524907;Unidade Móvel;;;1;;1
+3525003;Clínica;;;5;19;24
+3525003;Consultório Isolado;;;;26;26
+3525003;Diagnose e Terapia;;;;1;1
+3525003;Hospital;;;;1;1
+3525003;Outros;;;5;2;7
+3525003;Pronto Atendimento;;;1;;1
+3525003;Unidade Básica de Saúde;;;10;;10
+3525003;Unidade de Saúde Mental ;;;1;;1
+3525003;Unidade Móvel;;;4;;4
+3525003;Vigilância em Saúde;;;3;;3
+3525102;Clínica;;;4;9;13
+3525102;Consultório Isolado;;;;41;41
+3525102;Diagnose e Terapia;;;;3;3
+3525102;Outros;;;4;1;5
+3525102;Pronto Atendimento;;;1;;1
+3525102;Unidade Básica de Saúde;1;;11;;12
+3525102;Unidade Móvel;;;1;;1
+3525102;Vigilância em Saúde;;;1;;1
+3525201;Clínica;;;2;3;5
+3525201;Consultório Isolado;;;;12;12
+3525201;Diagnose e Terapia;;;;4;4
+3525201;Hospital;;;;1;1
+3525201;Outros;;;3;;3
+3525201;Unidade Básica de Saúde;;;6;;6
+3525201;Unidade de Saúde Mental ;;;1;;1
+3525201;Unidade Móvel;;;;1;1
+3525201;Vigilância em Saúde;;;1;;1
+3525300;Clínica;;;10;116;126
+3525300;Consultório Isolado;;;;332;332
+3525300;Diagnose e Terapia;;;1;17;18
+3525300;Hospital;;;;4;4
+3525300;Outros;;;6;9;15
+3525300;Pronto Atendimento;;;2;;2
+3525300;Unidade Básica de Saúde;;;18;;18
+3525300;Unidade de Saúde Mental ;;;2;;2
+3525300;Unidade Móvel;;;4;;4
+3525300;Vigilância em Saúde;;;1;;1
+3525409;Outros;;;1;;1
+3525409;Unidade Básica de Saúde;;;2;;2
+3525508;Consultório Isolado;;;;14;14
+3525508;Diagnose e Terapia;;;;2;2
+3525508;Hospital;;;;1;1
+3525508;Outros;;;2;5;7
+3525508;Unidade Básica de Saúde;;;2;;2
+3525508;Unidade Móvel;;;1;;1
+3525508;Vigilância em Saúde;;;1;;1
+3525607;Consultório Isolado;;;;1;1
+3525607;Outros;;;1;;1
+3525607;Unidade Básica de Saúde;;;3;;3
+3525607;Vigilância em Saúde;;;1;;1
+3525706;Clínica;;;2;4;6
+3525706;Consultório Isolado;;;;63;63
+3525706;Diagnose e Terapia;;;1;4;5
+3525706;Hospital;;;;1;1
+3525706;Outros;;;2;2;4
+3525706;Unidade Básica de Saúde;;;8;;8
+3525706;Unidade Móvel;;;1;;1
+3525805;Clínica;;;;1;1
+3525805;Outros;;;1;;1
+3525805;Unidade Básica de Saúde;;;2;;2
+3525854;Consultório Isolado;;;;2;2
+3525854;Outros;;;2;;2
+3525854;Unidade Básica de Saúde;;;1;;1
+3525904;Clínica;1;;14;291;306
+3525904;Consultório Isolado;;;;1.623;1.623
+3525904;Diagnose e Terapia;1;;1;73;75
+3525904;Hospital;1;;1;11;13
+3525904;Outros;;;9;47;56
+3525904;Pronto Atendimento;;;5;2;7
+3525904;Unidade Básica de Saúde;1;;35;;36
+3525904;Unidade de Saúde Mental ;;;4;;4
+3525904;Unidade Móvel;;;6;1;7
+3525904;Vigilância em Saúde;;;4;;4
+3526001;Clínica;;;1;;1
+3526001;Consultório Isolado;;;;15;15
+3526001;Diagnose e Terapia;;;2;2;4
+3526001;Hospital;;;;2;2
+3526001;Outros;;;3;1;4
+3526001;Pronto Atendimento;;;1;;1
+3526001;Unidade Básica de Saúde;1;;9;1;11
+3526001;Unidade de Saúde Mental ;;;1;;1
+3526100;Consultório Isolado;;;;2;2
+3526100;Diagnose e Terapia;;;1;1;2
+3526100;Outros;;;3;;3
+3526100;Pronto Atendimento;;;1;;1
+3526100;Unidade Básica de Saúde;;;7;;7
+3526100;Vigilância em Saúde;;;1;;1
+3526209;Clínica;;;1;;1
+3526209;Consultório Isolado;;;;3;3
+3526209;Diagnose e Terapia;;;;2;2
+3526209;Outros;;;1;;1
+3526209;Unidade Básica de Saúde;;;10;;10
+3526209;Unidade de Saúde Mental ;;;1;;1
+3526209;Unidade Móvel;;;2;;2
+3526308;Clínica;;;;1;1
+3526308;Consultório Isolado;;;;1;1
+3526308;Outros;;;2;;2
+3526308;Unidade Básica de Saúde;;;4;;4
+3526308;Unidade Móvel;;;1;;1
+3526407;Clínica;;;2;3;5
+3526407;Consultório Isolado;;;;75;75
+3526407;Diagnose e Terapia;;;2;6;8
+3526407;Hospital;;;;1;1
+3526407;Outros;;;2;1;3
+3526407;Unidade Básica de Saúde;;;8;;8
+3526407;Unidade de Saúde Mental ;;;1;;1
+3526506;Outros;;;2;;2
+3526506;Unidade Básica de Saúde;4;;2;;6
+3526506;Vigilância em Saúde;;;1;;1
+3526605;Clínica;;;1;;1
+3526605;Consultório Isolado;;;;1;1
+3526605;Diagnose e Terapia;;;1;;1
+3526605;Outros;;;1;1;2
+3526605;Unidade Básica de Saúde;;;4;;4
+3526704;Clínica;;;7;22;29
+3526704;Consultório Isolado;;;2;171;173
+3526704;Diagnose e Terapia;;;;18;18
+3526704;Hospital;;;;2;2
+3526704;Outros;;;2;3;5
+3526704;Pronto Atendimento;;;1;1;2
+3526704;Unidade Básica de Saúde;;;18;;18
+3526704;Unidade de Saúde Mental ;;;3;;3
+3526704;Unidade Móvel;;;;1;1
+3526704;Vigilância em Saúde;;;3;;3
+3526803;Clínica;;;3;18;21
+3526803;Consultório Isolado;;;1;250;251
+3526803;Diagnose e Terapia;;;;29;29
+3526803;Hospital;;;;2;2
+3526803;Outros;;;3;7;10
+3526803;Pronto Atendimento;;;1;;1
+3526803;Unidade Básica de Saúde;;;12;;12
+3526803;Unidade de Saúde Mental ;;;1;;1
+3526803;Unidade Móvel;;;2;1;3
+3526902;Clínica;2;;6;54;62
+3526902;Consultório Isolado;;;;849;849
+3526902;Diagnose e Terapia;;;3;117;120
+3526902;Hospital;;;;4;4
+3526902;Outros;;;4;44;48
+3526902;Pronto Atendimento;;;1;;1
+3526902;Unidade Básica de Saúde;4;;34;;38
+3526902;Unidade de Saúde Mental ;;;3;;3
+3526902;Unidade Móvel;;;4;;4
+3526902;Vigilância em Saúde;;;3;;3
+3527009;Clínica;;;2;;2
+3527009;Consultório Isolado;;;;8;8
+3527009;Diagnose e Terapia;;;;3;3
+3527009;Outros;;;1;;1
+3527009;Unidade Básica de Saúde;;;4;;4
+3527009;Unidade Móvel;;;;1;1
+3527009;Vigilância em Saúde;;;1;;1
+3527108;Clínica;;;6;29;35
+3527108;Consultório Isolado;;;;510;510
+3527108;Diagnose e Terapia;;;2;34;36
+3527108;Hospital;1;;;3;4
+3527108;Outros;;;6;6;12
+3527108;Unidade Básica de Saúde;1;;15;;16
+3527108;Unidade de Saúde Mental ;;;3;;3
+3527108;Unidade Móvel;;;;1;1
+3527207;Clínica;1;;5;24;30
+3527207;Consultório Isolado;1;;;253;254
+3527207;Diagnose e Terapia;;;2;16;18
+3527207;Hospital;;;;3;3
+3527207;Outros;;;3;25;28
+3527207;Unidade Básica de Saúde;;;18;;18
+3527207;Unidade de Saúde Mental ;;;1;;1
+3527207;Unidade Móvel;;;1;1;2
+3527256;Outros;;;2;;2
+3527256;Unidade Básica de Saúde;;;2;;2
+3527306;Clínica;;;3;11;14
+3527306;Consultório Isolado;;;;23;23
+3527306;Diagnose e Terapia;;;1;5;6
+3527306;Hospital;;;1;1;2
+3527306;Outros;;;1;1;2
+3527306;Unidade Básica de Saúde;;;6;;6
+3527306;Unidade de Saúde Mental ;;;1;;1
+3527306;Vigilância em Saúde;;;1;;1
+3527405;Clínica;;;;1;1
+3527405;Consultório Isolado;;;;27;27
+3527405;Diagnose e Terapia;;;;4;4
+3527405;Hospital;;;;1;1
+3527405;Outros;;;4;;4
+3527405;Unidade Básica de Saúde;1;;5;;6
+3527405;Unidade de Saúde Mental ;;;1;;1
+3527504;Outros;;;2;;2
+3527504;Unidade Básica de Saúde;;;1;;1
+3527603;Clínica;;;1;1;2
+3527603;Consultório Isolado;;;;11;11
+3527603;Diagnose e Terapia;;;1;1;2
+3527603;Outros;;;4;;4
+3527603;Unidade Básica de Saúde;;;8;;8
+3527603;Unidade Móvel;;;1;;1
+3527603;Vigilância em Saúde;;;1;;1
+3527702;Clínica;;;;1;1
+3527702;Consultório Isolado;;;;3;3
+3527702;Outros;;;2;1;3
+3527702;Unidade Básica de Saúde;;;1;;1
+3527801;Outros;;;2;;2
+3527801;Unidade Básica de Saúde;;;2;;2
+3527900;Consultório Isolado;;;;1;1
+3527900;Outros;;;2;;2
+3527900;Unidade Básica de Saúde;;;1;;1
+3528007;Clínica;;;4;13;17
+3528007;Consultório Isolado;;;;18;18
+3528007;Diagnose e Terapia;;;1;2;3
+3528007;Hospital;;;;1;1
+3528007;Outros;;;1;;1
+3528007;Unidade Básica de Saúde;;;4;;4
+3528007;Unidade de Saúde Mental ;;;1;;1
+3528007;Vigilância em Saúde;;;1;;1
+3528106;Clínica;;;1;;1
+3528106;Consultório Isolado;;;;5;5
+3528106;Diagnose e Terapia;;;;2;2
+3528106;Hospital;;;;1;1
+3528106;Outros;;;1;;1
+3528106;Unidade Básica de Saúde;;;2;;2
+3528205;Consultório Isolado;;;;2;2
+3528205;Outros;;;1;;1
+3528205;Unidade Básica de Saúde;;;1;;1
+3528304;Clínica;;;1;;1
+3528304;Consultório Isolado;;;;1;1
+3528304;Outros;;;1;;1
+3528304;Unidade Básica de Saúde;;;1;;1
+3528403;Clínica;;;3;12;15
+3528403;Consultório Isolado;;;1;39;40
+3528403;Diagnose e Terapia;;;;1;1
+3528403;Outros;;;2;;2
+3528403;Pronto Atendimento;;;1;;1
+3528403;Unidade Básica de Saúde;1;;12;;13
+3528403;Unidade de Saúde Mental ;;;1;;1
+3528403;Unidade Móvel;;;1;;1
+3528502;Clínica;;;5;8;13
+3528502;Consultório Isolado;;;;8;8
+3528502;Diagnose e Terapia;;;;3;3
+3528502;Hospital;;;1;1;2
+3528502;Outros;;;4;6;10
+3528502;Pronto Atendimento;;;1;;1
+3528502;Unidade Básica de Saúde;;;16;;16
+3528502;Unidade de Saúde Mental ;;;3;;3
+3528502;Vigilância em Saúde;;;1;;1
+3528601;Clínica;;;1;4;5
+3528601;Consultório Isolado;;;;1;1
+3528601;Diagnose e Terapia;;;;1;1
+3528601;Outros;;;3;1;4
+3528601;Unidade Básica de Saúde;;;3;;3
+3528700;Outros;;;1;;1
+3528700;Unidade Básica de Saúde;1;;3;;4
+3528700;Vigilância em Saúde;;;1;;1
+3528809;Clínica;;;;2;2
+3528809;Consultório Isolado;;;;3;3
+3528809;Diagnose e Terapia;;;;4;4
+3528809;Hospital;;;;1;1
+3528809;Outros;;;3;1;4
+3528809;Unidade Básica de Saúde;;;4;;4
+3528809;Unidade de Saúde Mental ;;;1;;1
+3528858;Clínica;;;1;;1
+3528858;Diagnose e Terapia;;;;1;1
+3528858;Outros;;;1;;1
+3528858;Unidade Básica de Saúde;;;1;;1
+3528908;Consultório Isolado;;;;1;1
+3528908;Outros;;;1;;1
+3528908;Unidade Básica de Saúde;;;2;;2
+3529005;Clínica;3;;8;32;43
+3529005;Consultório Isolado;1;;;959;960
+3529005;Diagnose e Terapia;1;;;33;34
+3529005;Hospital;;;;7;7
+3529005;Outros;5;;8;8;21
+3529005;Pronto Atendimento;;;2;2;4
+3529005;Unidade Básica de Saúde;2;;57;;59
+3529005;Unidade de Saúde Mental ;1;;2;;3
+3529005;Unidade Móvel;;;8;1;9
+3529005;Vigilância em Saúde;;;2;;2
+3529104;Outros;;;1;;1
+3529104;Unidade Básica de Saúde;;;2;;2
+3529203;Clínica;;;;4;4
+3529203;Consultório Isolado;;;;19;19
+3529203;Diagnose e Terapia;;;1;3;4
+3529203;Hospital;;;;1;1
+3529203;Outros;;;3;;3
+3529203;Unidade Básica de Saúde;1;;11;;12
+3529203;Unidade de Saúde Mental ;;;2;;2
+3529203;Vigilância em Saúde;;;1;;1
+3529302;Clínica;;;6;32;38
+3529302;Consultório Isolado;;;1;204;205
+3529302;Diagnose e Terapia;;;;12;12
+3529302;Hospital;;;;1;1
+3529302;Outros;;;2;1;3
+3529302;Pronto Atendimento;;;;1;1
+3529302;Unidade Básica de Saúde;;;19;;19
+3529302;Unidade de Saúde Mental ;;;2;;2
+3529302;Unidade Móvel;1;;3;;4
+3529401;Clínica;1;;6;34;41
+3529401;Consultório Isolado;;;1;246;247
+3529401;Diagnose e Terapia;;;1;35;36
+3529401;Hospital;;;1;3;4
+3529401;Outros;;;5;6;11
+3529401;Pronto Atendimento;;;4;2;6
+3529401;Unidade Básica de Saúde;1;;24;;25
+3529401;Unidade de Saúde Mental ;;;3;;3
+3529401;Unidade Móvel;;;17;1;18
+3529401;Vigilância em Saúde;;;2;;2
+3529500;Consultório Isolado;;;;2;2
+3529500;Diagnose e Terapia;;;;1;1
+3529500;Outros;;;2;;2
+3529500;Unidade Básica de Saúde;;;2;;2
+3529500;Unidade Móvel;;;1;;1
+3529609;Clínica;;;1;;1
+3529609;Consultório Isolado;;;1;1;2
+3529609;Outros;;;2;;2
+3529609;Unidade Básica de Saúde;;;2;;2
+3529658;Consultório Isolado;;;;1;1
+3529658;Outros;;;1;;1
+3529658;Unidade Básica de Saúde;;;1;;1
+3529708;Clínica;;;3;3;6
+3529708;Consultório Isolado;;;;40;40
+3529708;Diagnose e Terapia;;;;4;4
+3529708;Hospital;;;;1;1
+3529708;Outros;;;1;1;2
+3529708;Pronto Atendimento;;;1;;1
+3529708;Unidade Básica de Saúde;;;8;;8
+3529708;Unidade de Saúde Mental ;;;1;;1
+3529708;Unidade Móvel;;;1;;1
+3529807;Clínica;;;3;1;4
+3529807;Consultório Isolado;;;;3;3
+3529807;Outros;;;1;;1
+3529807;Pronto Atendimento;;;1;;1
+3529807;Unidade Básica de Saúde;;;3;;3
+3529807;Unidade de Saúde Mental ;;;1;;1
+3529906;Clínica;;;1;;1
+3529906;Consultório Isolado;;;;1;1
+3529906;Diagnose e Terapia;;;;1;1
+3529906;Outros;;1;2;2;5
+3529906;Pronto Atendimento;;;1;;1
+3529906;Unidade Básica de Saúde;;;9;;9
+3529906;Unidade de Saúde Mental ;;;1;;1
+3529906;Vigilância em Saúde;;;1;;1
+3530003;Clínica;;;1;;1
+3530003;Consultório Isolado;;;;1;1
+3530003;Outros;;;2;;2
+3530003;Unidade Básica de Saúde;;;1;;1
+3530102;Clínica;;;1;2;3
+3530102;Consultório Isolado;;;;46;46
+3530102;Diagnose e Terapia;;;1;8;9
+3530102;Hospital;1;;;;1
+3530102;Outros;;;4;;4
+3530102;Pronto Atendimento;;;1;;1
+3530102;Unidade Básica de Saúde;2;;6;;8
+3530102;Unidade de Saúde Mental ;;;1;;1
+3530102;Vigilância em Saúde;;;1;;1
+3530201;Clínica;;;2;2;4
+3530201;Consultório Isolado;;;;7;7
+3530201;Diagnose e Terapia;;;;1;1
+3530201;Outros;;;3;;3
+3530201;Pronto Atendimento;;;1;;1
+3530201;Unidade Básica de Saúde;;;8;;8
+3530201;Unidade de Saúde Mental ;;;1;;1
+3530201;Vigilância em Saúde;;;1;;1
+3530300;Clínica;;;5;15;20
+3530300;Consultório Isolado;1;;;114;115
+3530300;Diagnose e Terapia;;;;10;10
+3530300;Hospital;;;;2;2
+3530300;Outros;;;2;6;8
+3530300;Pronto Atendimento;;;1;;1
+3530300;Unidade Básica de Saúde;;;7;;7
+3530300;Unidade de Saúde Mental ;;;1;;1
+3530300;Unidade Móvel;;;1;;1
+3530409;Outros;;;1;;1
+3530409;Unidade Básica de Saúde;;;1;;1
+3530508;Clínica;;;4;101;105
+3530508;Consultório Isolado;;;1;130;131
+3530508;Diagnose e Terapia;1;;1;11;13
+3530508;Hospital;;;;1;1
+3530508;Outros;;;4;5;9
+3530508;Pronto Atendimento;;;1;1;2
+3530508;Unidade Básica de Saúde;;;13;;13
+3530508;Unidade de Saúde Mental ;;;5;;5
+3530508;Unidade Móvel;;;1;;1
+3530508;Vigilância em Saúde;;;3;;3
+3530607;Clínica;2;;11;212;225
+3530607;Consultório Isolado;;;2;192;194
+3530607;Diagnose e Terapia;;;1;25;26
+3530607;Hospital;2;;1;6;9
+3530607;Outros;2;;5;17;24
+3530607;Pronto Atendimento;;;4;;4
+3530607;Unidade Básica de Saúde;;;37;;37
+3530607;Unidade de Saúde Mental ;;;2;;2
+3530607;Unidade Móvel;;;10;1;11
+3530607;Vigilância em Saúde;1;;1;;2
+3530706;Clínica;1;;5;45;51
+3530706;Consultório Isolado;;;;321;321
+3530706;Diagnose e Terapia;;;;30;30
+3530706;Hospital;;;1;2;3
+3530706;Outros;;;5;8;13
+3530706;Pronto Atendimento;;;2;;2
+3530706;Unidade Básica de Saúde;1;;23;;24
+3530706;Unidade de Saúde Mental ;;;3;;3
+3530706;Unidade Móvel;;;4;;4
+3530805;Clínica;1;;3;15;19
+3530805;Consultório Isolado;;;;216;216
+3530805;Diagnose e Terapia;;;1;22;23
+3530805;Hospital;;;;3;3
+3530805;Outros;;;4;4;8
+3530805;Pronto Atendimento;;;1;;1
+3530805;Unidade Básica de Saúde;3;;14;;17
+3530805;Unidade de Saúde Mental ;;;3;;3
+3530805;Unidade Móvel;;;2;;2
+3530805;Vigilância em Saúde;;;1;;1
+3530904;Outros;;;2;;2
+3530904;Unidade Básica de Saúde;;;2;;2
+3531001;Consultório Isolado;;;;1;1
+3531001;Diagnose e Terapia;;;2;;2
+3531001;Outros;;;2;;2
+3531001;Unidade Básica de Saúde;;;2;;2
+3531100;Clínica;;;3;9;12
+3531100;Consultório Isolado;;;;6;6
+3531100;Diagnose e Terapia;;;;3;3
+3531100;Hospital;;;1;;1
+3531100;Outros;;1;3;;4
+3531100;Pronto Atendimento;;;2;;2
+3531100;Unidade Básica de Saúde;;;10;;10
+3531100;Unidade Móvel;;;4;;4
+3531100;Vigilância em Saúde;;;1;;1
+3531209;Clínica;;;1;;1
+3531209;Consultório Isolado;;;;9;9
+3531209;Diagnose e Terapia;;;1;1;2
+3531209;Outros;;;2;1;3
+3531209;Pronto Atendimento;;;1;;1
+3531209;Unidade Básica de Saúde;;;3;;3
+3531209;Unidade Móvel;;;1;;1
+3531209;Vigilância em Saúde;;;1;;1
+3531308;Clínica;;;6;54;60
+3531308;Consultório Isolado;;;1;162;163
+3531308;Diagnose e Terapia;;;;3;3
+3531308;Hospital;;;;2;2
+3531308;Outros;;;3;9;12
+3531308;Pronto Atendimento;;;2;;2
+3531308;Unidade Básica de Saúde;;;8;;8
+3531308;Unidade de Saúde Mental ;;;1;;1
+3531308;Unidade Móvel;;;3;;3
+3531308;Vigilância em Saúde;;;1;;1
+3531407;Clínica;;;;8;8
+3531407;Consultório Isolado;;;;35;35
+3531407;Diagnose e Terapia;;;;2;2
+3531407;Hospital;;;;1;1
+3531407;Outros;;;1;1;2
+3531407;Unidade Básica de Saúde;;;7;;7
+3531407;Unidade Móvel;;;1;;1
+3531407;Vigilância em Saúde;;;1;;1
+3531506;Clínica;;;;6;6
+3531506;Consultório Isolado;;;;36;36
+3531506;Diagnose e Terapia;;;;6;6
+3531506;Hospital;;;;2;2
+3531506;Outros;;;2;1;3
+3531506;Pronto Atendimento;;;1;;1
+3531506;Unidade Básica de Saúde;;;7;2;9
+3531605;Diagnose e Terapia;;;1;;1
+3531605;Outros;;;2;;2
+3531605;Unidade Básica de Saúde;;;2;;2
+3531605;Vigilância em Saúde;;;1;;1
+3531704;Clínica;;;;1;1
+3531704;Consultório Isolado;;;;2;2
+3531704;Outros;;;3;;3
+3531704;Pronto Atendimento;;;1;;1
+3531704;Unidade Básica de Saúde;;;1;;1
+3531803;Clínica;;;3;4;7
+3531803;Consultório Isolado;;;;41;41
+3531803;Diagnose e Terapia;;;;7;7
+3531803;Hospital;;;;1;1
+3531803;Outros;;;3;2;5
+3531803;Pronto Atendimento;;;1;;1
+3531803;Unidade Básica de Saúde;;;11;;11
+3531803;Unidade de Saúde Mental ;;;1;;1
+3531803;Vigilância em Saúde;;;2;;2
+3531902;Clínica;;;1;3;4
+3531902;Consultório Isolado;;;;60;60
+3531902;Diagnose e Terapia;;;;8;8
+3531902;Hospital;;;;1;1
+3531902;Outros;;;4;4;8
+3531902;Unidade Básica de Saúde;;;13;;13
+3531902;Unidade de Saúde Mental ;;;1;;1
+3532009;Clínica;;;2;3;5
+3532009;Consultório Isolado;;;;7;7
+3532009;Diagnose e Terapia;;;;4;4
+3532009;Hospital;;;1;;1
+3532009;Outros;;;1;;1
+3532009;Unidade Básica de Saúde;;;5;;5
+3532009;Unidade de Saúde Mental ;;;1;;1
+3532009;Vigilância em Saúde;;;1;;1
+3532058;Consultório Isolado;;;;1;1
+3532058;Outros;;;2;;2
+3532058;Unidade Básica de Saúde;;;2;;2
+3532058;Vigilância em Saúde;;;1;;1
+3532108;Clínica;;;;1;1
+3532108;Consultório Isolado;;;;1;1
+3532108;Diagnose e Terapia;;;;1;1
+3532108;Outros;;;2;;2
+3532108;Unidade Básica de Saúde;;;1;;1
+3532157;Diagnose e Terapia;;;1;;1
+3532157;Outros;;;2;;2
+3532157;Unidade Básica de Saúde;;;2;;2
+3532157;Vigilância em Saúde;;;1;;1
+3532207;Clínica;;;1;;1
+3532207;Outros;;;2;;2
+3532207;Unidade Básica de Saúde;;;2;;2
+3532207;Vigilância em Saúde;;;1;;1
+3532306;Outros;;;2;;2
+3532306;Unidade Básica de Saúde;;;3;;3
+3532306;Unidade Móvel;;;1;;1
+3532405;Clínica;;;;3;3
+3532405;Consultório Isolado;;;;1;1
+3532405;Diagnose e Terapia;;;;1;1
+3532405;Hospital;;;1;;1
+3532405;Outros;;;1;;1
+3532405;Unidade Básica de Saúde;;;2;;2
+3532405;Unidade Móvel;;;1;;1
+3532504;Consultório Isolado;;;;6;6
+3532504;Diagnose e Terapia;;;;1;1
+3532504;Hospital;;;;1;1
+3532504;Outros;;;1;;1
+3532504;Unidade Básica de Saúde;;;5;;5
+3532504;Unidade Móvel;;;1;;1
+3532603;Clínica;;;;4;4
+3532603;Consultório Isolado;;;;28;28
+3532603;Diagnose e Terapia;;;;3;3
+3532603;Hospital;;;;2;2
+3532603;Outros;;;1;;1
+3532603;Unidade Básica de Saúde;;;5;;5
+3532603;Unidade Móvel;;;1;1;2
+3532702;Consultório Isolado;;;;3;3
+3532702;Outros;;;1;;1
+3532702;Unidade Básica de Saúde;;;1;;1
+3532801;Clínica;;;1;;1
+3532801;Consultório Isolado;;;;1;1
+3532801;Outros;;;1;;1
+3532801;Unidade Básica de Saúde;;;2;;2
+3532827;Outros;;;4;;4
+3532827;Unidade Básica de Saúde;;;5;;5
+3532827;Unidade Móvel;;;1;;1
+3532843;Outros;;;1;;1
+3532843;Unidade Básica de Saúde;;;2;;2
+3532868;Outros;;;2;;2
+3532868;Unidade Básica de Saúde;;;1;;1
+3532900;Clínica;;;;2;2
+3532900;Consultório Isolado;;;;14;14
+3532900;Diagnose e Terapia;;;;1;1
+3532900;Hospital;;;;1;1
+3532900;Outros;;;1;;1
+3532900;Pronto Atendimento;;;1;;1
+3532900;Unidade Básica de Saúde;;;5;;5
+3533007;Clínica;;;;9;9
+3533007;Consultório Isolado;;;;12;12
+3533007;Diagnose e Terapia;;;;3;3
+3533007;Hospital;;;;1;1
+3533007;Outros;;;1;;1
+3533007;Pronto Atendimento;;;1;;1
+3533007;Unidade Básica de Saúde;;;8;;8
+3533007;Unidade de Saúde Mental ;;;1;;1
+3533007;Unidade Móvel;;;1;;1
+3533007;Vigilância em Saúde;;;1;;1
+3533106;Clínica;;;1;;1
+3533106;Outros;;;2;;2
+3533106;Unidade Básica de Saúde;;;1;;1
+3533106;Vigilância em Saúde;;;1;;1
+3533205;Consultório Isolado;;;;2;2
+3533205;Diagnose e Terapia;;;1;1;2
+3533205;Outros;;;2;;2
+3533205;Unidade Básica de Saúde;1;;2;;3
+3533254;Clínica;;;1;;1
+3533254;Diagnose e Terapia;;;;1;1
+3533254;Outros;;;1;;1
+3533254;Unidade Básica de Saúde;;;1;;1
+3533304;Consultório Isolado;;;;1;1
+3533304;Diagnose e Terapia;;;;1;1
+3533304;Outros;;;2;;2
+3533304;Unidade Básica de Saúde;;;1;;1
+3533403;Clínica;;;3;5;8
+3533403;Consultório Isolado;;;;66;66
+3533403;Diagnose e Terapia;;;;5;5
+3533403;Hospital;;;1;;1
+3533403;Outros;;;5;;5
+3533403;Pronto Atendimento;;;1;;1
+3533403;Unidade Básica de Saúde;;;7;;7
+3533403;Unidade de Saúde Mental ;;;1;;1
+3533502;Clínica;;;2;24;26
+3533502;Consultório Isolado;;;;80;80
+3533502;Diagnose e Terapia;;;2;6;8
+3533502;Hospital;;;;2;2
+3533502;Outros;;;1;4;5
+3533502;Unidade Básica de Saúde;;;8;;8
+3533502;Unidade de Saúde Mental ;;;1;;1
+3533502;Unidade Móvel;;;1;;1
+3533601;Consultório Isolado;;;;8;8
+3533601;Diagnose e Terapia;;;1;8;9
+3533601;Outros;;;1;;1
+3533601;Pronto Atendimento;;;;1;1
+3533601;Unidade Básica de Saúde;;;6;;6
+3533700;Outros;;;1;;1
+3533700;Unidade Básica de Saúde;;;3;;3
+3533809;Outros;;;1;;1
+3533809;Unidade Básica de Saúde;;;4;;4
+3533908;Clínica;;;4;25;29
+3533908;Consultório Isolado;;;;126;126
+3533908;Diagnose e Terapia;;;3;12;15
+3533908;Hospital;;;;2;2
+3533908;Outros;;;7;3;10
+3533908;Pronto Atendimento;;;1;2;3
+3533908;Unidade Básica de Saúde;;;9;1;10
+3533908;Unidade de Saúde Mental ;;;1;;1
+3533908;Unidade Móvel;;;1;;1
+3534005;Clínica;;;1;;1
+3534005;Consultório Isolado;;;;1;1
+3534005;Diagnose e Terapia;;;;1;1
+3534005;Outros;;;2;;2
+3534005;Unidade Básica de Saúde;;;2;;2
+3534104;Consultório Isolado;;;;7;7
+3534104;Outros;;;2;;2
+3534104;Pronto Atendimento;;;1;;1
+3534104;Unidade Básica de Saúde;;;3;;3
+3534203;Clínica;;;;1;1
+3534203;Consultório Isolado;;;;8;8
+3534203;Diagnose e Terapia;;;;2;2
+3534203;Outros;;;2;1;3
+3534203;Unidade Básica de Saúde;;;1;;1
+3534203;Unidade de Saúde Mental ;;;1;;1
+3534203;Unidade Móvel;;;1;;1
+3534302;Clínica;;;4;48;52
+3534302;Consultório Isolado;;;;151;151
+3534302;Diagnose e Terapia;;;1;11;12
+3534302;Hospital;;;;1;1
+3534302;Outros;;;2;3;5
+3534302;Pronto Atendimento;;;;1;1
+3534302;Unidade Básica de Saúde;;;5;1;6
+3534302;Unidade de Saúde Mental ;;;2;;2
+3534302;Unidade Móvel;1;;1;;2
+3534401;Clínica;1;;11;414;426
+3534401;Consultório Isolado;;;;644;644
+3534401;Diagnose e Terapia;;;;50;50
+3534401;Hospital;1;;2;7;10
+3534401;Outros;2;;7;10;19
+3534401;Pronto Atendimento;;;9;4;13
+3534401;Unidade Básica de Saúde;1;;36;;37
+3534401;Unidade de Saúde Mental ;;;3;;3
+3534401;Unidade Móvel;;;11;1;12
+3534401;Vigilância em Saúde;1;;4;;5
+3534500;Outros;;;2;;2
+3534500;Unidade Básica de Saúde;;;1;;1
+3534500;Unidade Móvel;;;1;;1
+3534609;Clínica;;;3;20;23
+3534609;Consultório Isolado;;;;49;49
+3534609;Diagnose e Terapia;;;1;17;18
+3534609;Hospital;;;;1;1
+3534609;Outros;;;3;4;7
+3534609;Unidade Básica de Saúde;1;;9;;10
+3534609;Unidade de Saúde Mental ;;;1;;1
+3534609;Unidade Móvel;;;;1;1
+3534708;Clínica;;;7;16;23
+3534708;Consultório Isolado;;;;388;388
+3534708;Diagnose e Terapia;;;;45;45
+3534708;Hospital;1;;;5;6
+3534708;Outros;;;5;7;12
+3534708;Pronto Atendimento;;;1;;1
+3534708;Unidade Básica de Saúde;1;;18;;19
+3534708;Unidade de Saúde Mental ;;;3;;3
+3534708;Unidade Móvel;;;3;1;4
+3534708;Vigilância em Saúde;;;1;;1
+3534757;Clínica;;;1;;1
+3534757;Consultório Isolado;;;;25;25
+3534757;Diagnose e Terapia;;;;3;3
+3534757;Hospital;;;1;;1
+3534757;Outros;;;1;;1
+3534757;Unidade Básica de Saúde;;;4;;4
+3534757;Vigilância em Saúde;;;1;;1
+3534807;Consultório Isolado;;;;1;1
+3534807;Diagnose e Terapia;;;2;1;3
+3534807;Outros;;;1;;1
+3534807;Unidade Básica de Saúde;;;4;;4
+3534807;Vigilância em Saúde;;;1;;1
+3534906;Consultório Isolado;;;;18;18
+3534906;Diagnose e Terapia;;;;2;2
+3534906;Outros;;;2;1;3
+3534906;Pronto Atendimento;;;1;;1
+3534906;Unidade Básica de Saúde;4;;4;;8
+3534906;Unidade de Saúde Mental ;;;1;;1
+3534906;Unidade Móvel;;;;2;2
+3535002;Clínica;;;1;1;2
+3535002;Consultório Isolado;;;;10;10
+3535002;Diagnose e Terapia;;;;7;7
+3535002;Outros;;;1;;1
+3535002;Unidade Básica de Saúde;;;4;;4
+3535002;Unidade Móvel;;;1;;1
+3535101;Clínica;;;1;2;3
+3535101;Consultório Isolado;;;;9;9
+3535101;Diagnose e Terapia;;;;4;4
+3535101;Outros;;;1;;1
+3535101;Unidade Básica de Saúde;;;4;;4
+3535200;Clínica;;;;1;1
+3535200;Consultório Isolado;;;;6;6
+3535200;Diagnose e Terapia;;;;1;1
+3535200;Hospital;;;;1;1
+3535200;Outros;;;1;;1
+3535200;Unidade Básica de Saúde;;;4;;4
+3535200;Unidade Móvel;;;1;;1
+3535200;Vigilância em Saúde;;;1;;1
+3535309;Clínica;;;2;3;5
+3535309;Consultório Isolado;;;;31;31
+3535309;Diagnose e Terapia;;;;5;5
+3535309;Hospital;;;;1;1
+3535309;Outros;;;4;;4
+3535309;Unidade Básica de Saúde;;;6;;6
+3535309;Unidade Móvel;;;1;;1
+3535309;Vigilância em Saúde;;;1;;1
+3535408;Clínica;;;;1;1
+3535408;Consultório Isolado;;;;6;6
+3535408;Diagnose e Terapia;;;1;2;3
+3535408;Outros;;;1;;1
+3535408;Pronto Atendimento;;;1;;1
+3535408;Unidade Básica de Saúde;;;6;;6
+3535408;Unidade de Saúde Mental ;;;1;;1
+3535408;Vigilância em Saúde;;;1;;1
+3535507;Clínica;;;3;6;9
+3535507;Consultório Isolado;;;;92;92
+3535507;Diagnose e Terapia;;;;12;12
+3535507;Hospital;;;;1;1
+3535507;Outros;;;6;;6
+3535507;Unidade Básica de Saúde;1;;12;;13
+3535507;Unidade de Saúde Mental ;;;1;;1
+3535507;Unidade Móvel;;;1;;1
+3535606;Consultório Isolado;;;;6;6
+3535606;Diagnose e Terapia;;;;3;3
+3535606;Outros;;;1;;1
+3535606;Pronto Atendimento;;;1;;1
+3535606;Unidade Básica de Saúde;;;6;;6
+3535606;Unidade de Saúde Mental ;;;1;;1
+3535606;Unidade Móvel;;;1;1;2
+3535606;Vigilância em Saúde;;;1;;1
+3535705;Consultório Isolado;;;;9;9
+3535705;Diagnose e Terapia;;;;2;2
+3535705;Outros;;;2;;2
+3535705;Unidade Básica de Saúde;;;2;;2
+3535705;Vigilância em Saúde;;;1;;1
+3535804;Clínica;;;;1;1
+3535804;Consultório Isolado;;;;26;26
+3535804;Diagnose e Terapia;;;;4;4
+3535804;Hospital;;;1;;1
+3535804;Outros;;;1;11;12
+3535804;Unidade Básica de Saúde;;;6;;6
+3535804;Unidade de Saúde Mental ;;;1;;1
+3535804;Unidade Móvel;;;1;;1
+3535903;Outros;;;1;;1
+3535903;Unidade Básica de Saúde;;;1;;1
+3536000;Consultório Isolado;;;;4;4
+3536000;Diagnose e Terapia;;;;1;1
+3536000;Hospital;;;;1;1
+3536000;Outros;;;1;;1
+3536000;Unidade Básica de Saúde;;;4;;4
+3536000;Vigilância em Saúde;;;1;;1
+3536109;Consultório Isolado;;;;1;1
+3536109;Outros;;;1;;1
+3536109;Unidade Básica de Saúde;;;1;;1
+3536109;Unidade Móvel;;;1;;1
+3536208;Clínica;2;;1;2;5
+3536208;Consultório Isolado;;;;11;11
+3536208;Diagnose e Terapia;;;;5;5
+3536208;Hospital;;;1;;1
+3536208;Outros;;;1;;1
+3536208;Unidade Básica de Saúde;;;8;;8
+3536208;Unidade de Saúde Mental ;;;1;;1
+3536208;Unidade Móvel;;;;1;1
+3536257;Outros;;;1;;1
+3536257;Unidade Básica de Saúde;;;1;;1
+3536307;Clínica;;;1;1;2
+3536307;Consultório Isolado;;;1;3;4
+3536307;Diagnose e Terapia;;;1;1;2
+3536307;Hospital;;;;1;1
+3536307;Outros;;;2;;2
+3536307;Unidade Básica de Saúde;;;7;;7
+3536307;Unidade Móvel;;;1;;1
+3536406;Diagnose e Terapia;;;2;1;3
+3536406;Outros;;;1;;1
+3536406;Unidade Básica de Saúde;;;3;;3
+3536406;Vigilância em Saúde;;;2;;2
+3536505;Clínica;;;7;70;77
+3536505;Consultório Isolado;;;;127;127
+3536505;Diagnose e Terapia;;;;17;17
+3536505;Hospital;;;1;;1
+3536505;Outros;;;4;6;10
+3536505;Pronto Atendimento;;;1;1;2
+3536505;Unidade Básica de Saúde;;;12;;12
+3536505;Unidade de Saúde Mental ;;;2;;2
+3536505;Unidade Móvel;;;2;1;3
+3536505;Vigilância em Saúde;;;1;;1
+3536570;Outros;;;1;;1
+3536570;Unidade Básica de Saúde;;;1;;1
+3536604;Clínica;;;;1;1
+3536604;Consultório Isolado;;;;2;2
+3536604;Diagnose e Terapia;;;1;1;2
+3536604;Hospital;;;;1;1
+3536604;Outros;;;1;;1
+3536604;Unidade Básica de Saúde;1;;1;;2
+3536604;Unidade Móvel;;;1;;1
+3536703;Clínica;;;5;1;6
+3536703;Consultório Isolado;;;;68;68
+3536703;Diagnose e Terapia;;;;8;8
+3536703;Hospital;;;;1;1
+3536703;Outros;;;2;3;5
+3536703;Unidade Básica de Saúde;;;14;;14
+3536703;Unidade de Saúde Mental ;;;1;;1
+3536703;Unidade Móvel;;;1;;1
+3536802;Outros;;;2;;2
+3536802;Unidade Básica de Saúde;;;2;;2
+3536802;Unidade Móvel;;;1;;1
+3536901;Consultório Isolado;;;;1;1
+3536901;Outros;;;2;;2
+3536901;Unidade Básica de Saúde;;;3;;3
+3537008;Clínica;;;3;;3
+3537008;Consultório Isolado;;;;10;10
+3537008;Diagnose e Terapia;;;;3;3
+3537008;Hospital;;;;1;1
+3537008;Outros;;;1;1;2
+3537008;Unidade Básica de Saúde;;;7;;7
+3537008;Unidade de Saúde Mental ;;;1;;1
+3537107;Clínica;;;2;9;11
+3537107;Consultório Isolado;;;;46;46
+3537107;Diagnose e Terapia;;;;13;13
+3537107;Hospital;;;2;;2
+3537107;Outros;;;2;1;3
+3537107;Unidade Básica de Saúde;;;10;;10
+3537107;Unidade de Saúde Mental ;;;1;;1
+3537156;Consultório Isolado;;;;1;1
+3537156;Diagnose e Terapia;;;;1;1
+3537156;Outros;;;4;;4
+3537156;Unidade Básica de Saúde;;;2;;2
+3537206;Clínica;;;;1;1
+3537206;Consultório Isolado;;;;1;1
+3537206;Outros;;;3;;3
+3537206;Unidade Básica de Saúde;;;7;;7
+3537206;Unidade Móvel;;;1;;1
+3537206;Vigilância em Saúde;;;1;;1
+3537305;Clínica;;;3;9;12
+3537305;Consultório Isolado;;;;187;187
+3537305;Diagnose e Terapia;;;;15;15
+3537305;Hospital;;;;2;2
+3537305;Outros;;;4;12;16
+3537305;Pronto Atendimento;;;1;1;2
+3537305;Unidade Básica de Saúde;;;9;;9
+3537305;Unidade de Saúde Mental ;;;2;;2
+3537305;Vigilância em Saúde;;;1;;1
+3537404;Clínica;;;2;7;9
+3537404;Consultório Isolado;;;;66;66
+3537404;Diagnose e Terapia;;;2;4;6
+3537404;Hospital;;;;1;1
+3537404;Outros;;;4;;4
+3537404;Unidade Básica de Saúde;;;6;;6
+3537404;Unidade de Saúde Mental ;;;1;;1
+3537404;Vigilância em Saúde;;;1;;1
+3537503;Clínica;;;1;;1
+3537503;Consultório Isolado;;;;5;5
+3537503;Diagnose e Terapia;;;;1;1
+3537503;Outros;;;2;;2
+3537503;Unidade Básica de Saúde;;;4;;4
+3537602;Clínica;;;5;25;30
+3537602;Consultório Isolado;;;1;32;33
+3537602;Diagnose e Terapia;;;;9;9
+3537602;Hospital;;;1;;1
+3537602;Outros;;1;3;3;7
+3537602;Pronto Atendimento;;;1;;1
+3537602;Unidade Básica de Saúde;;;14;;14
+3537602;Unidade de Saúde Mental ;;;1;;1
+3537602;Unidade Móvel;;;4;;4
+3537602;Vigilância em Saúde;;;1;;1
+3537701;Clínica;;;1;;1
+3537701;Consultório Isolado;;;;5;5
+3537701;Outros;;;2;1;3
+3537701;Unidade Básica de Saúde;;;1;;1
+3537701;Vigilância em Saúde;;;1;;1
+3537800;Clínica;;;2;14;16
+3537800;Consultório Isolado;;;;45;45
+3537800;Diagnose e Terapia;;;;4;4
+3537800;Hospital;;;;1;1
+3537800;Outros;;;4;1;5
+3537800;Unidade Básica de Saúde;;;8;;8
+3537800;Unidade de Saúde Mental ;;;1;;1
+3537800;Unidade Móvel;;;1;;1
+3537909;Clínica;;;;3;3
+3537909;Consultório Isolado;;;;12;12
+3537909;Diagnose e Terapia;;;;8;8
+3537909;Hospital;;;;1;1
+3537909;Outros;;;2;1;3
+3537909;Unidade Básica de Saúde;;;6;;6
+3537909;Unidade de Saúde Mental ;;;1;;1
+3537909;Unidade Móvel;;;1;;1
+3538006;Clínica;;;6;46;52
+3538006;Consultório Isolado;;;;371;371
+3538006;Diagnose e Terapia;;;2;16;18
+3538006;Hospital;;;;2;2
+3538006;Outros;;;6;10;16
+3538006;Pronto Atendimento;;;3;;3
+3538006;Unidade Básica de Saúde;;;32;;32
+3538006;Unidade de Saúde Mental ;;;3;;3
+3538006;Unidade Móvel;;;3;;3
+3538006;Vigilância em Saúde;;;1;;1
+3538105;Consultório Isolado;;;;8;8
+3538105;Diagnose e Terapia;;;2;2;4
+3538105;Outros;;;3;;3
+3538105;Unidade Básica de Saúde;;;4;;4
+3538105;Unidade de Saúde Mental ;;;1;;1
+3538105;Unidade Móvel;;;1;;1
+3538105;Vigilância em Saúde;;;1;;1
+3538204;Clínica;;;;6;6
+3538204;Consultório Isolado;;;;7;7
+3538204;Diagnose e Terapia;;;;2;2
+3538204;Outros;;;1;;1
+3538204;Pronto Atendimento;;;1;;1
+3538204;Unidade Básica de Saúde;;;4;;4
+3538204;Unidade Móvel;;;1;;1
+3538204;Vigilância em Saúde;;;2;;2
+3538303;Outros;;;1;;1
+3538303;Unidade Básica de Saúde;;;2;;2
+3538501;Clínica;;;1;;1
+3538501;Consultório Isolado;;;;4;4
+3538501;Diagnose e Terapia;;;;1;1
+3538501;Outros;;;2;1;3
+3538501;Pronto Atendimento;;;1;;1
+3538501;Unidade Básica de Saúde;;;5;;5
+3538501;Unidade Móvel;;;1;;1
+3538600;Clínica;;;;18;18
+3538600;Consultório Isolado;;;;8;8
+3538600;Diagnose e Terapia;;;1;2;3
+3538600;Hospital;;;;1;1
+3538600;Outros;;;2;1;3
+3538600;Unidade Básica de Saúde;;;4;;4
+3538600;Unidade de Saúde Mental ;;;1;;1
+3538600;Unidade Móvel;;;2;;2
+3538709;Clínica;1;;17;234;252
+3538709;Consultório Isolado;1;;1;909;911
+3538709;Diagnose e Terapia;2;;3;80;85
+3538709;Hospital;2;;;6;8
+3538709;Outros;4;;4;27;35
+3538709;Pronto Atendimento;;;5;;5
+3538709;Unidade Básica de Saúde;3;;74;;77
+3538709;Unidade de Saúde Mental ;;;4;;4
+3538709;Unidade Móvel;;;8;;8
+3538709;Vigilância em Saúde;;;1;;1
+3538808;Clínica;;;2;16;18
+3538808;Consultório Isolado;;;;49;49
+3538808;Diagnose e Terapia;;;;9;9
+3538808;Hospital;;;;1;1
+3538808;Outros;;;3;1;4
+3538808;Unidade Básica de Saúde;;;10;;10
+3538808;Unidade de Saúde Mental ;;;1;;1
+3538907;Clínica;;;;5;5
+3538907;Consultório Isolado;;;;44;44
+3538907;Diagnose e Terapia;;;1;2;3
+3538907;Hospital;;;;2;2
+3538907;Outros;;;1;;1
+3538907;Unidade Básica de Saúde;3;;9;;12
+3538907;Unidade de Saúde Mental ;;;1;;1
+3538907;Unidade Móvel;;;1;;1
+3538907;Vigilância em Saúde;;;1;;1
+3539004;Clínica;;;2;1;3
+3539004;Consultório Isolado;;;;15;15
+3539004;Diagnose e Terapia;;;;2;2
+3539004;Hospital;;;;1;1
+3539004;Outros;;;1;;1
+3539004;Pronto Atendimento;;;1;;1
+3539004;Unidade Básica de Saúde;;;3;;3
+3539103;Clínica;;;1;1;2
+3539103;Consultório Isolado;;;;3;3
+3539103;Diagnose e Terapia;;;;1;1
+3539103;Outros;;;2;;2
+3539103;Pronto Atendimento;;;1;;1
+3539103;Unidade Básica de Saúde;;;4;;4
+3539103;Unidade Móvel;;;1;1;2
+3539103;Vigilância em Saúde;;;1;;1
+3539202;Clínica;;;1;6;7
+3539202;Consultório Isolado;;;;13;13
+3539202;Diagnose e Terapia;;;;6;6
+3539202;Outros;;;2;;2
+3539202;Pronto Atendimento;;;1;;1
+3539202;Unidade Básica de Saúde;;;9;;9
+3539202;Unidade de Saúde Mental ;;;1;;1
+3539202;Vigilância em Saúde;;;1;;1
+3539301;Clínica;;;4;17;21
+3539301;Consultório Isolado;;;;259;259
+3539301;Diagnose e Terapia;1;;1;9;11
+3539301;Hospital;;1;;4;5
+3539301;Outros;;;4;8;12
+3539301;Pronto Atendimento;;;1;1;2
+3539301;Unidade Básica de Saúde;;;15;1;16
+3539301;Unidade de Saúde Mental ;;;3;;3
+3539301;Unidade Móvel;;;4;1;5
+3539301;Vigilância em Saúde;;;1;;1
+3539400;Clínica;;;1;1;2
+3539400;Consultório Isolado;;;;2;2
+3539400;Diagnose e Terapia;;;;2;2
+3539400;Hospital;;;;1;1
+3539400;Outros;;;2;;2
+3539400;Pronto Atendimento;;;1;;1
+3539400;Unidade Básica de Saúde;;;4;;4
+3539400;Unidade Móvel;;;1;;1
+3539400;Vigilância em Saúde;;;2;;2
+3539509;Clínica;;;2;10;12
+3539509;Consultório Isolado;;;;42;42
+3539509;Diagnose e Terapia;;;;5;5
+3539509;Hospital;;;;2;2
+3539509;Outros;;;3;10;13
+3539509;Pronto Atendimento;;;1;;1
+3539509;Unidade Básica de Saúde;;;7;;7
+3539509;Unidade de Saúde Mental ;;;1;;1
+3539509;Unidade Móvel;;;2;;2
+3539608;Diagnose e Terapia;;;1;;1
+3539608;Outros;;;1;;1
+3539608;Unidade Básica de Saúde;;;2;;2
+3539608;Unidade Móvel;;;1;;1
+3539707;Outros;;;1;;1
+3539707;Unidade Básica de Saúde;;;1;;1
+3539806;Clínica;;;4;17;21
+3539806;Consultório Isolado;;;;42;42
+3539806;Diagnose e Terapia;;;;7;7
+3539806;Outros;;;4;;4
+3539806;Pronto Atendimento;;;1;;1
+3539806;Unidade Básica de Saúde;;;12;;12
+3539806;Unidade de Saúde Mental ;;;2;;2
+3539806;Vigilância em Saúde;;;2;;2
+3539905;Clínica;;;1;1;2
+3539905;Consultório Isolado;;;;5;5
+3539905;Diagnose e Terapia;;;;1;1
+3539905;Outros;;;1;;1
+3539905;Unidade Básica de Saúde;;;1;;1
+3540002;Clínica;;;7;5;12
+3540002;Consultório Isolado;;;;100;100
+3540002;Diagnose e Terapia;;;;2;2
+3540002;Hospital;;;;1;1
+3540002;Outros;;;6;;6
+3540002;Pronto Atendimento;;;;1;1
+3540002;Unidade Básica de Saúde;;;10;;10
+3540002;Unidade de Saúde Mental ;;;1;;1
+3540002;Unidade Móvel;;;1;;1
+3540002;Vigilância em Saúde;;;2;;2
+3540101;Outros;;;1;;1
+3540101;Unidade Básica de Saúde;;;1;;1
+3540200;Clínica;;;2;5;7
+3540200;Consultório Isolado;;;;48;48
+3540200;Diagnose e Terapia;;;;15;15
+3540200;Hospital;;;;1;1
+3540200;Outros;;;3;2;5
+3540200;Pronto Atendimento;;;1;;1
+3540200;Unidade Básica de Saúde;1;;11;1;13
+3540200;Unidade de Saúde Mental ;;;1;;1
+3540200;Unidade Móvel;;;1;;1
+3540200;Vigilância em Saúde;;;2;;2
+3540259;Outros;;;1;;1
+3540259;Unidade Básica de Saúde;;;1;;1
+3540309;Consultório Isolado;;;;1;1
+3540309;Outros;;;1;;1
+3540309;Unidade Básica de Saúde;;;2;;2
+3540408;Consultório Isolado;;;;3;3
+3540408;Diagnose e Terapia;;;;1;1
+3540408;Hospital;;;;1;1
+3540408;Outros;;;2;;2
+3540408;Unidade Básica de Saúde;;;1;;1
+3540507;Clínica;;;1;2;3
+3540507;Consultório Isolado;;;;6;6
+3540507;Diagnose e Terapia;;;;1;1
+3540507;Outros;;;2;;2
+3540507;Pronto Atendimento;;;1;;1
+3540507;Unidade Básica de Saúde;;;3;;3
+3540606;Clínica;;;1;16;17
+3540606;Consultório Isolado;;;;64;64
+3540606;Diagnose e Terapia;;;;6;6
+3540606;Hospital;;;;1;1
+3540606;Outros;;;5;1;6
+3540606;Pronto Atendimento;;;;1;1
+3540606;Unidade Básica de Saúde;1;;9;;10
+3540606;Unidade de Saúde Mental ;;;1;;1
+3540606;Vigilância em Saúde;;;1;;1
+3540705;Clínica;;;3;14;17
+3540705;Consultório Isolado;;;;170;170
+3540705;Diagnose e Terapia;;;1;16;17
+3540705;Hospital;;;;1;1
+3540705;Outros;;;3;2;5
+3540705;Pronto Atendimento;;;;1;1
+3540705;Unidade Básica de Saúde;;;12;;12
+3540705;Unidade de Saúde Mental ;;;1;;1
+3540705;Vigilância em Saúde;;;2;;2
+3540754;Clínica;;;1;1;2
+3540754;Consultório Isolado;;;;1;1
+3540754;Diagnose e Terapia;;;;2;2
+3540754;Outros;;;7;1;8
+3540754;Unidade Básica de Saúde;2;;7;;9
+3540754;Unidade de Saúde Mental ;;;1;;1
+3540754;Unidade Móvel;;;1;;1
+3540804;Clínica;;;1;2;3
+3540804;Consultório Isolado;;;;11;11
+3540804;Diagnose e Terapia;;;;3;3
+3540804;Hospital;;;;1;1
+3540804;Outros;;;2;;2
+3540804;Unidade Básica de Saúde;;;4;;4
+3540853;Outros;;;1;;1
+3540853;Unidade Básica de Saúde;1;;1;;2
+3540903;Clínica;;;1;3;4
+3540903;Consultório Isolado;;;;16;16
+3540903;Diagnose e Terapia;;;;2;2
+3540903;Outros;;;3;;3
+3540903;Pronto Atendimento;;;1;1;2
+3540903;Unidade Básica de Saúde;;;3;;3
+3540903;Unidade Móvel;;;1;;1
+3540903;Vigilância em Saúde;;;1;;1
+3541000;Clínica;;;8;80;88
+3541000;Consultório Isolado;;;;167;167
+3541000;Diagnose e Terapia;;;;34;34
+3541000;Hospital;1;;2;4;7
+3541000;Outros;;;4;18;22
+3541000;Pronto Atendimento;;;2;3;5
+3541000;Unidade Básica de Saúde;1;;31;;32
+3541000;Unidade de Saúde Mental ;;;4;;4
+3541000;Unidade Móvel;;;13;;13
+3541000;Vigilância em Saúde;;;1;;1
+3541059;Clínica;;;1;;1
+3541059;Consultório Isolado;;;;1;1
+3541059;Outros;;;1;;1
+3541059;Unidade Básica de Saúde;;;1;;1
+3541109;Outros;;;1;;1
+3541109;Unidade Básica de Saúde;;;2;;2
+3541208;Clínica;;;;5;5
+3541208;Consultório Isolado;;;;13;13
+3541208;Diagnose e Terapia;;;;2;2
+3541208;Hospital;;;;1;1
+3541208;Outros;;;2;;2
+3541208;Unidade Básica de Saúde;2;;7;;9
+3541208;Unidade de Saúde Mental ;;;1;;1
+3541208;Vigilância em Saúde;;;2;;2
+3541307;Clínica;;;1;3;4
+3541307;Consultório Isolado;;;1;48;49
+3541307;Diagnose e Terapia;;;;11;11
+3541307;Hospital;;;;1;1
+3541307;Outros;;;2;2;4
+3541307;Unidade Básica de Saúde;;;13;;13
+3541307;Unidade de Saúde Mental ;;;1;;1
+3541307;Vigilância em Saúde;;;2;;2
+3541406;Clínica;2;;7;98;107
+3541406;Consultório Isolado;;;;946;946
+3541406;Diagnose e Terapia;2;;1;43;46
+3541406;Hospital;2;;;12;14
+3541406;Outros;2;;6;40;48
+3541406;Pronto Atendimento;;;4;;4
+3541406;Unidade Básica de Saúde;2;;32;;34
+3541406;Unidade de Saúde Mental ;;;4;;4
+3541406;Unidade Móvel;;;;2;2
+3541406;Vigilância em Saúde;;;1;;1
+3541505;Clínica;;;;4;4
+3541505;Consultório Isolado;;;;92;92
+3541505;Diagnose e Terapia;;;;9;9
+3541505;Hospital;;;;1;1
+3541505;Outros;1;;2;1;4
+3541505;Unidade Básica de Saúde;2;;10;;12
+3541505;Unidade de Saúde Mental ;;;1;;1
+3541505;Unidade Móvel;;;;1;1
+3541505;Vigilância em Saúde;;;1;;1
+3541604;Clínica;1;;2;3;6
+3541604;Consultório Isolado;;;;52;52
+3541604;Diagnose e Terapia;;;;6;6
+3541604;Hospital;1;;;;1
+3541604;Outros;;;1;1;2
+3541604;Unidade Básica de Saúde;;;11;;11
+3541604;Unidade de Saúde Mental ;;;1;;1
+3541653;Consultório Isolado;;;;1;1
+3541653;Outros;;;2;;2
+3541653;Unidade Básica de Saúde;;;1;;1
+3541653;Unidade Móvel;;;1;;1
+3541703;Clínica;;;1;1;2
+3541703;Consultório Isolado;;;;21;21
+3541703;Diagnose e Terapia;;;1;2;3
+3541703;Outros;;;3;1;4
+3541703;Pronto Atendimento;;;1;1;2
+3541703;Unidade Básica de Saúde;;;5;;5
+3541703;Unidade de Saúde Mental ;;;1;;1
+3541703;Vigilância em Saúde;;;1;;1
+3541802;Outros;;;1;;1
+3541802;Unidade Básica de Saúde;;;2;;2
+3541901;Clínica;;;1;1;2
+3541901;Hospital;;;1;;1
+3541901;Outros;;;4;;4
+3541901;Unidade Básica de Saúde;;;4;;4
+3541901;Unidade Móvel;;;1;;1
+3542008;Clínica;;;2;1;3
+3542008;Consultório Isolado;;;;7;7
+3542008;Diagnose e Terapia;;;;1;1
+3542008;Outros;;;3;;3
+3542008;Pronto Atendimento;;;;1;1
+3542008;Unidade Básica de Saúde;;;4;;4
+3542008;Vigilância em Saúde;;;1;;1
+3542107;Consultório Isolado;;;;1;1
+3542107;Outros;;;1;;1
+3542107;Unidade Básica de Saúde;;;3;;3
+3542206;Clínica;;;;6;6
+3542206;Consultório Isolado;;;;52;52
+3542206;Diagnose e Terapia;;;;8;8
+3542206;Hospital;;;;1;1
+3542206;Outros;;;2;;2
+3542206;Unidade Básica de Saúde;;;11;1;12
+3542206;Unidade de Saúde Mental ;;;2;;2
+3542206;Vigilância em Saúde;;;1;;1
+3542305;Consultório Isolado;;;;1;1
+3542305;Outros;;;1;;1
+3542305;Unidade Básica de Saúde;;;2;;2
+3542305;Unidade Móvel;;;1;;1
+3542404;Consultório Isolado;;;;20;20
+3542404;Diagnose e Terapia;;;;4;4
+3542404;Hospital;;;;1;1
+3542404;Outros;;;1;;1
+3542404;Unidade Básica de Saúde;;;9;;9
+3542404;Unidade de Saúde Mental ;;;1;;1
+3542404;Unidade Móvel;;;1;;1
+3542503;Clínica;;;;1;1
+3542503;Consultório Isolado;;;;3;3
+3542503;Diagnose e Terapia;;;;1;1
+3542503;Outros;;;1;;1
+3542503;Unidade Básica de Saúde;2;;2;;4
+3542602;Clínica;;;6;23;29
+3542602;Consultório Isolado;;;;64;64
+3542602;Diagnose e Terapia;;;1;14;15
+3542602;Hospital;1;;;2;3
+3542602;Outros;3;1;4;5;13
+3542602;Pronto Atendimento;;;1;;1
+3542602;Unidade Básica de Saúde;1;;18;;19
+3542602;Unidade de Saúde Mental ;;;2;;2
+3542602;Vigilância em Saúde;;;2;;2
+3542701;Clínica;;;1;;1
+3542701;Outros;;;1;;1
+3542701;Unidade Básica de Saúde;;;3;;3
+3542701;Vigilância em Saúde;;;1;;1
+3542800;Clínica;;;1;;1
+3542800;Outros;;;2;;2
+3542800;Pronto Atendimento;;;1;;1
+3542800;Unidade Básica de Saúde;;;3;;3
+3542800;Unidade Móvel;;;1;;1
+3542909;Clínica;;;1;2;3
+3542909;Consultório Isolado;;;;25;25
+3542909;Hospital;;;;1;1
+3542909;Outros;;;1;;1
+3542909;Pronto Atendimento;;;1;;1
+3542909;Unidade Básica de Saúde;;;3;;3
+3543006;Clínica;;;;3;3
+3543006;Consultório Isolado;;;;2;2
+3543006;Diagnose e Terapia;;;;1;1
+3543006;Hospital;;;1;;1
+3543006;Outros;;;4;;4
+3543006;Unidade Básica de Saúde;;;5;;5
+3543006;Unidade Móvel;;;1;;1
+3543105;Clínica;;;1;;1
+3543105;Consultório Isolado;;;1;;1
+3543105;Outros;;;1;;1
+3543105;Unidade Básica de Saúde;;;2;;2
+3543204;Clínica;;;1;;1
+3543204;Outros;;;1;;1
+3543204;Unidade Básica de Saúde;;;1;;1
+3543238;Outros;;;1;;1
+3543238;Unidade Básica de Saúde;;;1;;1
+3543253;Clínica;;;1;1;2
+3543253;Outros;;;2;;2
+3543253;Unidade Básica de Saúde;;;1;;1
+3543303;Clínica;;;4;36;40
+3543303;Consultório Isolado;;;;68;68
+3543303;Diagnose e Terapia;;;;12;12
+3543303;Hospital;;;1;1;2
+3543303;Outros;;;3;3;6
+3543303;Pronto Atendimento;;;1;;1
+3543303;Unidade Básica de Saúde;;;12;;12
+3543303;Unidade de Saúde Mental ;;;3;;3
+3543303;Vigilância em Saúde;;;1;;1
+3543402;Clínica;4;;11;652;667
+3543402;Consultório Isolado;;;;2.095;2.095
+3543402;Diagnose e Terapia;2;;1;110;113
+3543402;Hospital;3;;1;21;25
+3543402;Outros;6;;3;96;105
+3543402;Pronto Atendimento;;;4;3;7
+3543402;Unidade Básica de Saúde;3;;49;;52
+3543402;Unidade de Saúde Mental ;;;5;1;6
+3543402;Unidade Móvel;;;18;4;22
+3543402;Vigilância em Saúde;;;1;;1
+3543501;Outros;;;2;;2
+3543501;Pronto Atendimento;;;1;;1
+3543501;Unidade Básica de Saúde;;;1;;1
+3543600;Clínica;;;2;;2
+3543600;Diagnose e Terapia;;;1;1;2
+3543600;Outros;;;1;;1
+3543600;Unidade Básica de Saúde;;;2;;2
+3543709;Clínica;;;;1;1
+3543709;Consultório Isolado;;;;5;5
+3543709;Diagnose e Terapia;;;1;1;2
+3543709;Outros;;;1;;1
+3543709;Pronto Atendimento;;;1;;1
+3543709;Unidade Básica de Saúde;;;3;;3
+3543808;Clínica;;;1;;1
+3543808;Consultório Isolado;;;;1;1
+3543808;Diagnose e Terapia;;;;2;2
+3543808;Hospital;;;;1;1
+3543808;Outros;;;1;;1
+3543808;Unidade Básica de Saúde;;;4;;4
+3543907;Clínica;1;;5;111;117
+3543907;Consultório Isolado;;;2;562;564
+3543907;Diagnose e Terapia;1;;1;41;43
+3543907;Hospital;;;;5;5
+3543907;Outros;;;10;12;22
+3543907;Pronto Atendimento;;;2;;2
+3543907;Unidade Básica de Saúde;2;;21;1;24
+3543907;Unidade de Saúde Mental ;;;3;;3
+3543907;Unidade Móvel;;;3;;3
+3543907;Vigilância em Saúde;;;2;;2
+3544004;Clínica;;;1;8;9
+3544004;Consultório Isolado;;;;72;72
+3544004;Diagnose e Terapia;;;;4;4
+3544004;Hospital;;;;2;2
+3544004;Outros;;;1;;1
+3544004;Unidade Básica de Saúde;;;3;;3
+3544004;Unidade de Saúde Mental ;;;1;;1
+3544103;Clínica;;;2;1;3
+3544103;Consultório Isolado;;;1;2;3
+3544103;Diagnose e Terapia;;;;1;1
+3544103;Outros;;;3;;3
+3544103;Pronto Atendimento;;;1;;1
+3544103;Unidade Básica de Saúde;;;8;;8
+3544103;Unidade de Saúde Mental ;;;1;;1
+3544103;Vigilância em Saúde;;;1;;1
+3544202;Clínica;;;1;1;2
+3544202;Consultório Isolado;;;;2;2
+3544202;Diagnose e Terapia;;;;1;1
+3544202;Hospital;;;;1;1
+3544202;Outros;;;1;;1
+3544202;Unidade Básica de Saúde;2;;4;;6
+3544202;Unidade de Saúde Mental ;;;1;;1
+3544202;Unidade Móvel;;;1;;1
+3544251;Clínica;;;;2;2
+3544251;Consultório Isolado;;;;16;16
+3544251;Diagnose e Terapia;;;;5;5
+3544251;Hospital;1;;;;1
+3544251;Outros;;;1;1;2
+3544251;Unidade Básica de Saúde;;;9;;9
+3544251;Unidade de Saúde Mental ;;;1;;1
+3544301;Clínica;;;1;2;3
+3544301;Consultório Isolado;;;;2;2
+3544301;Diagnose e Terapia;;;;2;2
+3544301;Outros;;;2;;2
+3544301;Unidade Básica de Saúde;;;5;;5
+3544301;Unidade Móvel;;;;1;1
+3544400;Consultório Isolado;;;;1;1
+3544400;Outros;;;1;;1
+3544400;Unidade Básica de Saúde;;;2;;2
+3544400;Vigilância em Saúde;;;1;;1
+3544509;Outros;;;1;;1
+3544509;Unidade Básica de Saúde;;;2;;2
+3544608;Consultório Isolado;;;;2;2
+3544608;Outros;;;2;;2
+3544608;Unidade Básica de Saúde;;;3;;3
+3544707;Outros;;;1;;1
+3544707;Unidade Básica de Saúde;;;1;;1
+3544806;Diagnose e Terapia;;;;2;2
+3544806;Outros;;;1;;1
+3544806;Unidade Básica de Saúde;;;3;;3
+3544905;Clínica;;;;3;3
+3544905;Consultório Isolado;;;;36;36
+3544905;Diagnose e Terapia;;;1;4;5
+3544905;Hospital;;;;1;1
+3544905;Outros;;;2;1;3
+3544905;Pronto Atendimento;;;1;;1
+3544905;Unidade Básica de Saúde;;;4;;4
+3544905;Vigilância em Saúde;;;1;;1
+3545001;Clínica;;;1;;1
+3545001;Consultório Isolado;;;;3;3
+3545001;Diagnose e Terapia;;;1;;1
+3545001;Hospital;;;;1;1
+3545001;Outros;;;3;;3
+3545001;Unidade Básica de Saúde;;;2;;2
+3545001;Unidade Móvel;;;1;;1
+3545001;Vigilância em Saúde;;;2;;2
+3545100;Outros;;;1;;1
+3545100;Unidade Básica de Saúde;;;3;;3
+3545159;Clínica;;;1;;1
+3545159;Consultório Isolado;;;;3;3
+3545159;Diagnose e Terapia;;;;1;1
+3545159;Outros;;;1;;1
+3545159;Unidade Básica de Saúde;;;2;;2
+3545209;Clínica;;;7;21;28
+3545209;Consultório Isolado;;;1;166;167
+3545209;Diagnose e Terapia;;;;6;6
+3545209;Hospital;;;1;;1
+3545209;Outros;;;7;6;13
+3545209;Unidade Básica de Saúde;;;10;;10
+3545209;Unidade de Saúde Mental ;;;3;;3
+3545209;Unidade Móvel;;;;1;1
+3545209;Vigilância em Saúde;;;2;;2
+3545308;Clínica;;;1;5;6
+3545308;Consultório Isolado;;;;50;50
+3545308;Diagnose e Terapia;;;1;6;7
+3545308;Hospital;;;1;1;2
+3545308;Outros;;;3;5;8
+3545308;Unidade Básica de Saúde;;;10;;10
+3545308;Unidade de Saúde Mental ;;;2;;2
+3545308;Vigilância em Saúde;;;2;;2
+3545407;Consultório Isolado;;;;1;1
+3545407;Diagnose e Terapia;;;;3;3
+3545407;Hospital;;;;1;1
+3545407;Outros;;;1;;1
+3545407;Unidade Básica de Saúde;;;3;;3
+3545506;Consultório Isolado;;;;1;1
+3545506;Outros;;;1;;1
+3545506;Unidade Básica de Saúde;;;2;;2
+3545605;Clínica;;;1;1;2
+3545605;Consultório Isolado;;;;23;23
+3545605;Diagnose e Terapia;;;;3;3
+3545605;Hospital;;;;1;1
+3545605;Outros;;;3;;3
+3545605;Unidade Básica de Saúde;;;6;;6
+3545704;Consultório Isolado;;;;3;3
+3545704;Diagnose e Terapia;;;;1;1
+3545704;Outros;;;1;;1
+3545704;Unidade Básica de Saúde;;;2;;2
+3545704;Unidade Móvel;;;1;;1
+3545803;Clínica;1;;5;29;35
+3545803;Consultório Isolado;;;;300;300
+3545803;Diagnose e Terapia;;;1;25;26
+3545803;Hospital;;;;3;3
+3545803;Outros;;;3;6;9
+3545803;Pronto Atendimento;;;2;;2
+3545803;Unidade Básica de Saúde;;;18;;18
+3545803;Unidade de Saúde Mental ;;;3;;3
+3545803;Unidade Móvel;1;;;;1
+3545803;Vigilância em Saúde;;;1;;1
+3546009;Clínica;;;;3;3
+3546009;Consultório Isolado;;;;3;3
+3546009;Diagnose e Terapia;;;;1;1
+3546009;Outros;;;1;;1
+3546009;Pronto Atendimento;;;1;;1
+3546009;Unidade Básica de Saúde;;;2;;2
+3546009;Unidade Móvel;;;1;;1
+3546009;Vigilância em Saúde;;;1;;1
+3546108;Clínica;;;1;;1
+3546108;Consultório Isolado;;;;1;1
+3546108;Outros;;;1;;1
+3546108;Unidade Básica de Saúde;;;1;;1
+3546207;Diagnose e Terapia;;;;1;1
+3546207;Outros;;;1;;1
+3546207;Unidade Básica de Saúde;;;2;;2
+3546256;Clínica;;;1;;1
+3546256;Outros;;;2;;2
+3546256;Pronto Atendimento;;;1;;1
+3546256;Unidade Básica de Saúde;;;2;;2
+3546256;Unidade Móvel;;;1;;1
+3546256;Vigilância em Saúde;;;1;;1
+3546306;Clínica;;;1;8;9
+3546306;Consultório Isolado;;;;50;50
+3546306;Diagnose e Terapia;;;;7;7
+3546306;Hospital;;;;1;1
+3546306;Outros;;;2;;2
+3546306;Pronto Atendimento;;;;1;1
+3546306;Unidade Básica de Saúde;;;6;;6
+3546306;Unidade de Saúde Mental ;;;1;;1
+3546306;Unidade Móvel;;;2;;2
+3546405;Clínica;;;2;14;16
+3546405;Consultório Isolado;;;1;126;127
+3546405;Diagnose e Terapia;;;3;10;13
+3546405;Hospital;;;;1;1
+3546405;Outros;;;3;5;8
+3546405;Pronto Atendimento;;;1;;1
+3546405;Unidade Básica de Saúde;;;10;;10
+3546405;Unidade de Saúde Mental ;;;1;;1
+3546405;Unidade Móvel;;;3;;3
+3546504;Consultório Isolado;;;;4;4
+3546504;Outros;;;1;;1
+3546504;Unidade Básica de Saúde;;;1;;1
+3546603;Clínica;1;;4;29;34
+3546603;Consultório Isolado;;;;86;86
+3546603;Diagnose e Terapia;;;1;9;10
+3546603;Hospital;;;;1;1
+3546603;Outros;;;3;7;10
+3546603;Pronto Atendimento;;;2;;2
+3546603;Unidade Básica de Saúde;;;9;;9
+3546603;Unidade de Saúde Mental ;;;1;;1
+3546603;Unidade Móvel;;;1;2;3
+3546603;Vigilância em Saúde;;;1;;1
+3546702;Clínica;;;4;3;7
+3546702;Consultório Isolado;;;1;27;28
+3546702;Diagnose e Terapia;;;1;2;3
+3546702;Outros;;;2;1;3
+3546702;Pronto Atendimento;;;1;;1
+3546702;Unidade Básica de Saúde;;;5;;5
+3546702;Unidade de Saúde Mental ;;;1;;1
+3546702;Unidade Móvel;;;1;;1
+3546801;Clínica;;;3;6;9
+3546801;Consultório Isolado;;;;18;18
+3546801;Diagnose e Terapia;;;;2;2
+3546801;Hospital;;;;1;1
+3546801;Outros;;;4;3;7
+3546801;Pronto Atendimento;;;1;;1
+3546801;Unidade Básica de Saúde;;;12;;12
+3546801;Unidade de Saúde Mental ;;;1;;1
+3546801;Unidade Móvel;;;2;;2
+3546900;Clínica;;;1;;1
+3546900;Outros;;;1;;1
+3546900;Pronto Atendimento;;;1;;1
+3546900;Unidade Básica de Saúde;;;2;;2
+3547007;Clínica;;;1;;1
+3547007;Consultório Isolado;;;;2;2
+3547007;Outros;;;1;;1
+3547007;Unidade Básica de Saúde;;;3;;3
+3547007;Vigilância em Saúde;;;1;;1
+3547106;Clínica;;;1;;1
+3547106;Consultório Isolado;;;;2;2
+3547106;Outros;;;1;;1
+3547106;Unidade Básica de Saúde;;;3;;3
+3547106;Vigilância em Saúde;;;1;;1
+3547205;Clínica;;;1;;1
+3547205;Outros;;;1;;1
+3547205;Unidade Básica de Saúde;;;1;;1
+3547304;Clínica;;;4;17;21
+3547304;Consultório Isolado;;;;39;39
+3547304;Diagnose e Terapia;;;;5;5
+3547304;Hospital;;;2;;2
+3547304;Outros;;;4;8;12
+3547304;Pronto Atendimento;;;2;;2
+3547304;Unidade Básica de Saúde;;;13;;13
+3547304;Unidade de Saúde Mental ;;;3;;3
+3547304;Unidade Móvel;;;2;;2
+3547403;Clínica;;;1;;1
+3547403;Outros;;;2;;2
+3547403;Unidade Básica de Saúde;;;1;;1
+3547502;Clínica;;;3;6;9
+3547502;Consultório Isolado;;;;58;58
+3547502;Diagnose e Terapia;;;;4;4
+3547502;Hospital;1;;;1;2
+3547502;Outros;;;1;2;3
+3547502;Unidade Básica de Saúde;;;6;;6
+3547502;Unidade de Saúde Mental ;1;;;;1
+3547502;Unidade Móvel;;;1;;1
+3547601;Clínica;;;1;5;6
+3547601;Consultório Isolado;;;;56;56
+3547601;Diagnose e Terapia;;;;3;3
+3547601;Hospital;;;;1;1
+3547601;Outros;;;1;;1
+3547601;Pronto Atendimento;;;1;;1
+3547601;Unidade Básica de Saúde;;;4;;4
+3547601;Unidade de Saúde Mental ;;;1;;1
+3547601;Unidade Móvel;;;1;;1
+3547601;Vigilância em Saúde;;;2;;2
+3547650;Outros;;;1;;1
+3547650;Unidade Básica de Saúde;;;1;;1
+3547700;Clínica;;;1;2;3
+3547700;Consultório Isolado;;;;33;33
+3547700;Diagnose e Terapia;;;;3;3
+3547700;Hospital;;;;1;1
+3547700;Outros;;;1;;1
+3547700;Unidade Básica de Saúde;;;6;;6
+3547700;Unidade de Saúde Mental ;;;1;;1
+3547700;Vigilância em Saúde;;;1;;1
+3547809;Clínica;;;14;753;767
+3547809;Consultório Isolado;;;;173;173
+3547809;Diagnose e Terapia;1;;1;51;53
+3547809;Hospital;2;;2;12;16
+3547809;Outros;1;;8;62;71
+3547809;Pronto Atendimento;;;7;3;10
+3547809;Unidade Básica de Saúde;1;;35;1;37
+3547809;Unidade de Saúde Mental ;;;5;;5
+3547809;Unidade Móvel;;;20;1;21
+3547809;Vigilância em Saúde;1;;1;;2
+3547908;Clínica;;;2;1;3
+3547908;Consultório Isolado;;;;2;2
+3547908;Diagnose e Terapia;;;2;1;3
+3547908;Outros;;;4;;4
+3547908;Unidade Básica de Saúde;;;6;;6
+3547908;Unidade Móvel;;;1;;1
+3547908;Vigilância em Saúde;;;1;;1
+3548005;Clínica;;;2;6;8
+3548005;Consultório Isolado;;;;22;22
+3548005;Diagnose e Terapia;;;;4;4
+3548005;Outros;;;2;1;3
+3548005;Pronto Atendimento;;;1;;1
+3548005;Unidade Básica de Saúde;;;7;;7
+3548005;Unidade de Saúde Mental ;;;1;;1
+3548054;Diagnose e Terapia;;;;1;1
+3548054;Outros;;;1;;1
+3548054;Unidade Básica de Saúde;;;3;;3
+3548104;Clínica;;;1;;1
+3548104;Consultório Isolado;;;;3;3
+3548104;Outros;;;1;;1
+3548104;Unidade Básica de Saúde;;;2;;2
+3548104;Unidade Móvel;;;1;;1
+3548203;Clínica;;;1;1;2
+3548203;Consultório Isolado;;;;1;1
+3548203;Outros;;;4;;4
+3548203;Pronto Atendimento;;;1;;1
+3548203;Unidade Básica de Saúde;;;10;;10
+3548203;Unidade Móvel;;;1;;1
+3548302;Clínica;;;1;;1
+3548302;Outros;;;2;;2
+3548302;Unidade Básica de Saúde;;;2;;2
+3548302;Vigilância em Saúde;;;1;;1
+3548401;Outros;;;1;;1
+3548401;Unidade Básica de Saúde;;;1;;1
+3548401;Vigilância em Saúde;;;1;;1
+3548500;Clínica;1;;15;231;247
+3548500;Consultório Isolado;;;1;1.402;1.403
+3548500;Diagnose e Terapia;1;;1;84;86
+3548500;Hospital;2;;3;23;28
+3548500;Outros;4;;5;44;53
+3548500;Pronto Atendimento;;;4;;4
+3548500;Unidade Básica de Saúde;1;;35;;36
+3548500;Unidade de Saúde Mental ;;;9;;9
+3548500;Unidade Móvel;;;21;8;29
+3548609;Consultório Isolado;;;;8;8
+3548609;Diagnose e Terapia;;;;1;1
+3548609;Hospital;;;;1;1
+3548609;Outros;;;1;3;4
+3548609;Pronto Atendimento;;;1;;1
+3548609;Unidade Básica de Saúde;;;4;;4
+3548609;Unidade Móvel;;;1;;1
+3548708;Clínica;;;9;388;397
+3548708;Consultório Isolado;;;1;651;652
+3548708;Diagnose e Terapia;;;2;51;53
+3548708;Hospital;;;5;20;25
+3548708;Outros;1;;9;47;57
+3548708;Pronto Atendimento;;;11;1;12
+3548708;Unidade Básica de Saúde;1;;36;1;38
+3548708;Unidade de Saúde Mental ;;;9;;9
+3548708;Unidade Móvel;;;16;2;18
+3548708;Vigilância em Saúde;;;6;;6
+3548807;Clínica;;;22;209;231
+3548807;Consultório Isolado;;;;543;543
+3548807;Diagnose e Terapia;;;1;32;33
+3548807;Hospital;;;2;7;9
+3548807;Outros;1;;7;32;40
+3548807;Pronto Atendimento;;;1;;1
+3548807;Unidade Básica de Saúde;;;15;;15
+3548807;Unidade de Saúde Mental ;;;3;;3
+3548807;Unidade Móvel;;;6;2;8
+3548807;Vigilância em Saúde;;;2;;2
+3548906;Clínica;2;1;7;145;155
+3548906;Consultório Isolado;;;1;811;812
+3548906;Diagnose e Terapia;1;1;;41;43
+3548906;Hospital;1;;;4;5
+3548906;Outros;;;5;24;29
+3548906;Pronto Atendimento;;;3;1;4
+3548906;Unidade Básica de Saúde;;;34;;34
+3548906;Unidade de Saúde Mental ;;;3;;3
+3548906;Unidade Móvel;1;;10;2;13
+3549003;Consultório Isolado;;;;1;1
+3549003;Outros;;;2;;2
+3549003;Unidade Básica de Saúde;;;2;;2
+3549102;Clínica;3;;6;30;39
+3549102;Consultório Isolado;;;;588;588
+3549102;Diagnose e Terapia;;;1;19;20
+3549102;Hospital;;;;5;5
+3549102;Outros;3;;5;22;30
+3549102;Pronto Atendimento;;;1;;1
+3549102;Unidade Básica de Saúde;;;14;;14
+3549102;Unidade de Saúde Mental ;;;3;;3
+3549102;Unidade Móvel;;;2;3;5
+3549102;Vigilância em Saúde;;;2;;2
+3549201;Outros;;;1;;1
+3549201;Unidade Básica de Saúde;;;1;;1
+3549250;Outros;;;2;;2
+3549250;Unidade Básica de Saúde;;;2;;2
+3549300;Clínica;;;1;;1
+3549300;Consultório Isolado;;;;2;2
+3549300;Outros;;;2;;2
+3549300;Unidade Básica de Saúde;;;1;;1
+3549409;Clínica;;;4;3;7
+3549409;Consultório Isolado;;;;156;156
+3549409;Diagnose e Terapia;;;1;29;30
+3549409;Hospital;;;;1;1
+3549409;Outros;;;1;1;2
+3549409;Pronto Atendimento;;;1;;1
+3549409;Unidade Básica de Saúde;;;10;;10
+3549409;Unidade de Saúde Mental ;;;1;;1
+3549409;Unidade Móvel;;;1;;1
+3549508;Clínica;;;1;;1
+3549508;Outros;;;1;;1
+3549508;Pronto Atendimento;;;1;;1
+3549508;Unidade Básica de Saúde;;;5;;5
+3549607;Consultório Isolado;;;;1;1
+3549607;Outros;;;1;;1
+3549607;Unidade Básica de Saúde;;;3;;3
+3549706;Clínica;;;5;31;36
+3549706;Consultório Isolado;;;;118;118
+3549706;Diagnose e Terapia;;;2;24;26
+3549706;Hospital;;;;2;2
+3549706;Outros;;;1;7;8
+3549706;Pronto Atendimento;;;1;;1
+3549706;Unidade Básica de Saúde;;;11;;11
+3549706;Unidade de Saúde Mental ;;;1;;1
+3549706;Unidade Móvel;;;2;2;4
+3549706;Vigilância em Saúde;;;1;;1
+3549805;Clínica;4;;11;249;264
+3549805;Consultório Isolado;;;1;911;912
+3549805;Diagnose e Terapia;2;;2;116;120
+3549805;Hospital;1;;1;22;24
+3549805;Outros;6;;11;37;54
+3549805;Pronto Atendimento;;;5;1;6
+3549805;Unidade Básica de Saúde;3;;30;;33
+3549805;Unidade de Saúde Mental ;;;7;;7
+3549805;Unidade Móvel;;;14;1;15
+3549805;Vigilância em Saúde;1;;1;;2
+3549904;Clínica;2;;16;374;392
+3549904;Consultório Isolado;;;;1.054;1.054
+3549904;Diagnose e Terapia;;;1;91;92
+3549904;Hospital;1;1;3;21;26
+3549904;Outros;2;;4;65;71
+3549904;Pronto Atendimento;;;5;3;8
+3549904;Unidade Básica de Saúde;2;;40;;42
+3549904;Unidade de Saúde Mental ;;;4;;4
+3549904;Unidade Móvel;;;9;9;18
+3549904;Vigilância em Saúde;1;;1;;2
+3549953;Clínica;;;1;2;3
+3549953;Diagnose e Terapia;;;;2;2
+3549953;Outros;;;1;2;3
+3549953;Pronto Atendimento;;;1;;1
+3549953;Unidade Básica de Saúde;;;3;;3
+3549953;Unidade Móvel;;;1;2;3
+3550001;Consultório Isolado;;;;1;1
+3550001;Hospital;;;;1;1
+3550001;Outros;;;2;;2
+3550001;Unidade Básica de Saúde;;;4;;4
+3550001;Unidade Móvel;;;1;;1
+3550100;Clínica;;;2;2;4
+3550100;Consultório Isolado;;;2;86;88
+3550100;Diagnose e Terapia;;;1;5;6
+3550100;Hospital;;;;1;1
+3550100;Outros;;;5;;5
+3550100;Unidade Básica de Saúde;;;7;;7
+3550100;Unidade de Saúde Mental ;;;1;;1
+3550100;Unidade Móvel;;;;1;1
+3550100;Vigilância em Saúde;;;1;;1
+3550209;Clínica;;;2;2;4
+3550209;Consultório Isolado;;;;29;29
+3550209;Diagnose e Terapia;;;;4;4
+3550209;Hospital;;;;1;1
+3550209;Outros;;;4;13;17
+3550209;Unidade Básica de Saúde;;;10;;10
+3550209;Unidade de Saúde Mental ;;;1;;1
+3550308;Clínica;20;1;183;5.776;5.980
+3550308;Consultório Isolado;19;1;1;16.750;16.771
+3550308;Diagnose e Terapia;9;;9;983;1.001
+3550308;Hospital;37;3;39;192;271
+3550308;Outros;24;;51;985;1.060
+3550308;Pronto Atendimento;;;59;12;71
+3550308;Unidade Básica de Saúde;14;;482;22;518
+3550308;Unidade de Saúde Mental ;2;;104;;106
+3550308;Unidade Móvel;1;;165;47;213
+3550308;Vigilância em Saúde;;;30;;30
+3550407;Clínica;;;1;9;10
+3550407;Consultório Isolado;;;;74;74
+3550407;Diagnose e Terapia;;;;3;3
+3550407;Hospital;;;;1;1
+3550407;Outros;;;1;2;3
+3550407;Pronto Atendimento;;;1;;1
+3550407;Unidade Básica de Saúde;;;11;;11
+3550407;Unidade de Saúde Mental ;;;1;;1
+3550407;Unidade Móvel;;;2;;2
+3550506;Diagnose e Terapia;;;;1;1
+3550506;Outros;;;2;;2
+3550506;Unidade Básica de Saúde;;;4;;4
+3550605;Clínica;;;4;32;36
+3550605;Consultório Isolado;;;1;226;227
+3550605;Diagnose e Terapia;;;;13;13
+3550605;Hospital;;;;3;3
+3550605;Outros;;;6;27;33
+3550605;Unidade Básica de Saúde;;;13;;13
+3550605;Unidade de Saúde Mental ;;;2;;2
+3550605;Vigilância em Saúde;;;1;;1
+3550704;Clínica;;;8;10;18
+3550704;Consultório Isolado;;;;136;136
+3550704;Diagnose e Terapia;;;1;12;13
+3550704;Hospital;;;1;1;2
+3550704;Outros;;;7;4;11
+3550704;Pronto Atendimento;;;1;;1
+3550704;Unidade Básica de Saúde;;;30;;30
+3550704;Unidade de Saúde Mental ;;;3;;3
+3550704;Unidade Móvel;;;6;;6
+3550704;Vigilância em Saúde;;;2;;2
+3550803;Clínica;;;;2;2
+3550803;Consultório Isolado;;;;25;25
+3550803;Diagnose e Terapia;;;;6;6
+3550803;Hospital;;;;1;1
+3550803;Outros;;;2;;2
+3550803;Pronto Atendimento;;;1;;1
+3550803;Unidade Básica de Saúde;;;5;;5
+3550902;Clínica;;;3;1;4
+3550902;Consultório Isolado;;;;21;21
+3550902;Diagnose e Terapia;;;;5;5
+3550902;Hospital;;;;1;1
+3550902;Outros;;;2;;2
+3550902;Unidade Básica de Saúde;;;4;;4
+3550902;Unidade Móvel;;;1;;1
+3550902;Vigilância em Saúde;;;2;;2
+3551009;Clínica;;;12;33;45
+3551009;Consultório Isolado;;;1;115;116
+3551009;Diagnose e Terapia;;;1;18;19
+3551009;Hospital;1;;3;3;7
+3551009;Outros;;;8;6;14
+3551009;Pronto Atendimento;;;3;1;4
+3551009;Unidade Básica de Saúde;4;;27;;31
+3551009;Unidade de Saúde Mental ;;;5;;5
+3551009;Unidade Móvel;;;9;;9
+3551009;Vigilância em Saúde;;;1;;1
+3551108;Consultório Isolado;;;;1;1
+3551108;Diagnose e Terapia;;;1;1;2
+3551108;Outros;;;2;;2
+3551108;Unidade Básica de Saúde;;;4;;4
+3551108;Unidade Móvel;;;2;;2
+3551207;Outros;;;1;;1
+3551207;Unidade Básica de Saúde;;;1;;1
+3551306;Clínica;;;;1;1
+3551306;Outros;;;1;1;2
+3551306;Unidade Básica de Saúde;;;1;;1
+3551405;Clínica;;;1;;1
+3551405;Consultório Isolado;;;;3;3
+3551405;Diagnose e Terapia;;;;1;1
+3551405;Outros;;;1;1;2
+3551405;Unidade Básica de Saúde;3;;5;;8
+3551405;Unidade Móvel;;;1;;1
+3551405;Vigilância em Saúde;;;1;;1
+3551504;Clínica;;;5;12;17
+3551504;Consultório Isolado;;;;35;35
+3551504;Hospital;1;;;1;2
+3551504;Outros;;;4;1;5
+3551504;Pronto Atendimento;;;1;;1
+3551504;Unidade Básica de Saúde;;;7;;7
+3551504;Unidade de Saúde Mental ;;;1;;1
+3551504;Unidade Móvel;;;1;;1
+3551504;Vigilância em Saúde;;;2;;2
+3551603;Clínica;;;1;2;3
+3551603;Consultório Isolado;;;;54;54
+3551603;Diagnose e Terapia;;;2;8;10
+3551603;Hospital;;;;1;1
+3551603;Outros;;;1;12;13
+3551603;Unidade Básica de Saúde;;;11;;11
+3551603;Unidade de Saúde Mental ;;;1;;1
+3551603;Vigilância em Saúde;;;1;;1
+3551702;Clínica;;;8;66;74
+3551702;Consultório Isolado;1;;1;362;364
+3551702;Diagnose e Terapia;;;;27;27
+3551702;Hospital;;;;3;3
+3551702;Outros;;;5;7;12
+3551702;Pronto Atendimento;;;1;1;2
+3551702;Unidade Básica de Saúde;;;10;;10
+3551702;Unidade de Saúde Mental ;;;2;;2
+3551702;Unidade Móvel;;;3;;3
+3551702;Vigilância em Saúde;;;4;;4
+3551801;Clínica;;;;1;1
+3551801;Consultório Isolado;;;;1;1
+3551801;Outros;;;1;;1
+3551801;Pronto Atendimento;;;1;;1
+3551801;Unidade Básica de Saúde;;;5;;5
+3551801;Unidade Móvel;;;1;;1
+3551900;Clínica;;;;2;2
+3551900;Consultório Isolado;;;;4;4
+3551900;Diagnose e Terapia;;;1;1;2
+3551900;Outros;;;2;;2
+3551900;Pronto Atendimento;;;1;;1
+3551900;Unidade Básica de Saúde;;;3;;3
+3551900;Unidade Móvel;;;1;;1
+3552007;Consultório Isolado;;;;6;6
+3552007;Diagnose e Terapia;;;1;;1
+3552007;Outros;;;1;;1
+3552007;Unidade Básica de Saúde;;;4;;4
+3552106;Clínica;;;3;3;6
+3552106;Consultório Isolado;;;;57;57
+3552106;Diagnose e Terapia;;;1;5;6
+3552106;Hospital;;;;1;1
+3552106;Outros;;;5;2;7
+3552106;Unidade Básica de Saúde;;;15;;15
+3552106;Unidade de Saúde Mental ;;;1;;1
+3552106;Unidade Móvel;;;1;;1
+3552205;Clínica;2;;6;270;278
+3552205;Consultório Isolado;;;2;1.122;1.124
+3552205;Diagnose e Terapia;1;;1;108;110
+3552205;Hospital;3;;;18;21
+3552205;Outros;5;;4;41;50
+3552205;Pronto Atendimento;;;3;3;6
+3552205;Unidade Básica de Saúde;5;;33;;38
+3552205;Unidade de Saúde Mental ;;;7;1;8
+3552205;Unidade Móvel;;;11;5;16
+3552205;Vigilância em Saúde;;;1;;1
+3552304;Clínica;;;;2;2
+3552304;Consultório Isolado;;;;4;4
+3552304;Diagnose e Terapia;;;;1;1
+3552304;Hospital;;;;1;1
+3552304;Outros;;;1;;1
+3552304;Unidade Básica de Saúde;;;2;;2
+3552304;Vigilância em Saúde;;;1;;1
+3552403;Clínica;;;8;76;84
+3552403;Consultório Isolado;;;3;134;137
+3552403;Diagnose e Terapia;;;;32;32
+3552403;Hospital;1;;;2;3
+3552403;Outros;;;3;7;10
+3552403;Pronto Atendimento;;;4;2;6
+3552403;Unidade Básica de Saúde;1;;23;1;25
+3552403;Unidade de Saúde Mental ;;;3;;3
+3552403;Unidade Móvel;;;1;1;2
+3552403;Vigilância em Saúde;;;3;;3
+3552502;Clínica;;;8;120;128
+3552502;Consultório Isolado;;;;168;168
+3552502;Diagnose e Terapia;;;1;20;21
+3552502;Hospital;1;;;3;4
+3552502;Outros;;;4;5;9
+3552502;Pronto Atendimento;;;2;1;3
+3552502;Unidade Básica de Saúde;1;;24;;25
+3552502;Unidade de Saúde Mental ;;;4;;4
+3552502;Unidade Móvel;;;5;;5
+3552502;Vigilância em Saúde;;;2;;2
+3552551;Clínica;;;;1;1
+3552551;Outros;;;2;;2
+3552551;Unidade Básica de Saúde;;;1;;1
+3552601;Clínica;;;2;1;3
+3552601;Consultório Isolado;;;;10;10
+3552601;Diagnose e Terapia;;;1;2;3
+3552601;Hospital;;;;1;1
+3552601;Outros;;;1;;1
+3552601;Unidade Básica de Saúde;;;2;;2
+3552601;Unidade Móvel;;;1;;1
+3552700;Clínica;;;;8;8
+3552700;Consultório Isolado;;;;31;31
+3552700;Diagnose e Terapia;;;1;5;6
+3552700;Hospital;;;;1;1
+3552700;Outros;;;1;;1
+3552700;Pronto Atendimento;;;1;;1
+3552700;Unidade Básica de Saúde;;;5;;5
+3552700;Vigilância em Saúde;;;1;;1
+3552809;Clínica;1;;8;46;55
+3552809;Consultório Isolado;;;2;82;84
+3552809;Diagnose e Terapia;;;;8;8
+3552809;Hospital;1;;1;1;3
+3552809;Outros;;;4;3;7
+3552809;Pronto Atendimento;;;2;;2
+3552809;Unidade Básica de Saúde;;;14;;14
+3552809;Unidade de Saúde Mental ;;;3;;3
+3552809;Unidade Móvel;;;6;;6
+3552809;Vigilância em Saúde;;;4;;4
+3552908;Clínica;;;1;;1
+3552908;Outros;;;1;;1
+3552908;Unidade Básica de Saúde;;;4;;4
+3553005;Consultório Isolado;;;;6;6
+3553005;Diagnose e Terapia;;;;4;4
+3553005;Hospital;;;;1;1
+3553005;Outros;;;1;1;2
+3553005;Unidade Básica de Saúde;;;5;;5
+3553005;Unidade Móvel;;;1;;1
+3553104;Clínica;;;1;1;2
+3553104;Consultório Isolado;;;;4;4
+3553104;Diagnose e Terapia;;;;1;1
+3553104;Outros;;;2;;2
+3553104;Unidade Básica de Saúde;;;3;;3
+3553203;Consultório Isolado;;;;10;10
+3553203;Diagnose e Terapia;;;;4;4
+3553203;Outros;;;1;;1
+3553203;Unidade Básica de Saúde;1;;2;;3
+3553302;Clínica;;;2;1;3
+3553302;Consultório Isolado;;;;41;41
+3553302;Diagnose e Terapia;;;;12;12
+3553302;Hospital;;;;1;1
+3553302;Outros;;;3;2;5
+3553302;Pronto Atendimento;;;1;;1
+3553302;Unidade Básica de Saúde;;;9;;9
+3553302;Unidade Móvel;;;1;;1
+3553302;Vigilância em Saúde;;;1;;1
+3553401;Clínica;1;;;14;15
+3553401;Consultório Isolado;;;1;22;23
+3553401;Diagnose e Terapia;;;;4;4
+3553401;Hospital;;;;1;1
+3553401;Outros;;;2;;2
+3553401;Unidade Básica de Saúde;;;11;;11
+3553401;Unidade de Saúde Mental ;;;1;;1
+3553401;Unidade Móvel;;;1;;1
+3553500;Consultório Isolado;;;2;;2
+3553500;Outros;;;3;;3
+3553500;Pronto Atendimento;;;;1;1
+3553500;Unidade Básica de Saúde;;;3;;3
+3553609;Clínica;;;;1;1
+3553609;Consultório Isolado;;;;6;6
+3553609;Diagnose e Terapia;;;1;1;2
+3553609;Hospital;;;;1;1
+3553609;Outros;;;2;1;3
+3553609;Unidade Básica de Saúde;;;5;;5
+3553609;Unidade de Saúde Mental ;;;1;;1
+3553658;Outros;;;2;;2
+3553658;Pronto Atendimento;;;1;;1
+3553658;Unidade Básica de Saúde;;;1;;1
+3553708;Clínica;1;;2;8;11
+3553708;Consultório Isolado;1;;;146;147
+3553708;Diagnose e Terapia;;;;9;9
+3553708;Hospital;;;;2;2
+3553708;Outros;;;2;5;7
+3553708;Pronto Atendimento;;;1;;1
+3553708;Unidade Básica de Saúde;;;10;;10
+3553708;Unidade de Saúde Mental ;;;2;;2
+3553708;Unidade Móvel;;;1;2;3
+3553708;Vigilância em Saúde;;;1;;1
+3553807;Clínica;;;;1;1
+3553807;Consultório Isolado;;;;11;11
+3553807;Diagnose e Terapia;;;;5;5
+3553807;Hospital;;;;1;1
+3553807;Outros;;;1;;1
+3553807;Unidade Básica de Saúde;1;;6;;7
+3553807;Unidade de Saúde Mental ;;;1;;1
+3553807;Unidade Móvel;;;1;;1
+3553856;Outros;;;3;;3
+3553856;Pronto Atendimento;;;1;;1
+3553856;Unidade Básica de Saúde;;;3;;3
+3553906;Clínica;;;1;;1
+3553906;Consultório Isolado;;;;1;1
+3553906;Outros;;;1;;1
+3553906;Unidade Básica de Saúde;;;4;;4
+3553906;Unidade de Saúde Mental ;;;1;;1
+3553955;Clínica;;;1;;1
+3553955;Consultório Isolado;;;;7;7
+3553955;Diagnose e Terapia;;;;3;3
+3553955;Outros;;;5;;5
+3553955;Pronto Atendimento;;;1;;1
+3553955;Unidade Básica de Saúde;;;4;;4
+3553955;Unidade de Saúde Mental ;;;1;;1
+3553955;Unidade Móvel;;;1;;1
+3554003;Clínica;;;9;28;37
+3554003;Consultório Isolado;;;1;359;360
+3554003;Diagnose e Terapia;;;;22;22
+3554003;Hospital;;;;2;2
+3554003;Outros;;;4;6;10
+3554003;Pronto Atendimento;;;1;;1
+3554003;Unidade Básica de Saúde;;;20;;20
+3554003;Unidade de Saúde Mental ;;;3;;3
+3554003;Unidade Móvel;;;6;2;8
+3554003;Vigilância em Saúde;;;1;;1
+3554102;Clínica;2;;11;260;273
+3554102;Consultório Isolado;;;;598;598
+3554102;Diagnose e Terapia;1;;;43;44
+3554102;Hospital;1;;1;9;11
+3554102;Outros;3;;6;39;48
+3554102;Pronto Atendimento;;;4;;4
+3554102;Unidade Básica de Saúde;3;;46;;49
+3554102;Unidade de Saúde Mental ;;;3;;3
+3554102;Unidade Móvel;;;8;2;10
+3554102;Vigilância em Saúde;;;1;;1
+3554201;Outros;;;1;;1
+3554201;Unidade Básica de Saúde;;;3;;3
+3554300;Clínica;;;;4;4
+3554300;Consultório Isolado;;;;28;28
+3554300;Diagnose e Terapia;;;2;1;3
+3554300;Hospital;;;;1;1
+3554300;Outros;;;2;;2
+3554300;Unidade Básica de Saúde;;;11;1;12
+3554300;Unidade de Saúde Mental ;;;1;;1
+3554300;Vigilância em Saúde;;;1;;1
+3554409;Clínica;;;1;;1
+3554409;Consultório Isolado;;;;6;6
+3554409;Diagnose e Terapia;;;1;;1
+3554409;Hospital;;;;1;1
+3554409;Outros;;;2;;2
+3554409;Pronto Atendimento;;;1;;1
+3554409;Unidade Básica de Saúde;;;5;;5
+3554508;Clínica;;;3;13;16
+3554508;Consultório Isolado;;;;119;119
+3554508;Diagnose e Terapia;;;1;18;19
+3554508;Hospital;;;;1;1
+3554508;Outros;;;5;4;9
+3554508;Unidade Básica de Saúde;;;7;;7
+3554508;Unidade de Saúde Mental ;;;1;;1
+3554607;Outros;;;1;1;2
+3554607;Unidade Básica de Saúde;;;1;;1
+3554607;Unidade Móvel;;;1;;1
+3554656;Outros;;;2;1;3
+3554656;Unidade Básica de Saúde;;;1;;1
+3554706;Consultório Isolado;;;;2;2
+3554706;Diagnose e Terapia;;;;1;1
+3554706;Hospital;;;;1;1
+3554706;Outros;;;2;;2
+3554706;Unidade Básica de Saúde;;;2;;2
+3554706;Vigilância em Saúde;;;1;;1
+3554755;Outros;;;1;;1
+3554755;Unidade Básica de Saúde;;;1;;1
+3554805;Clínica;;;1;12;13
+3554805;Consultório Isolado;;;;10;10
+3554805;Diagnose e Terapia;;;1;1;2
+3554805;Hospital;;;;1;1
+3554805;Outros;;;3;1;4
+3554805;Pronto Atendimento;;;1;;1
+3554805;Unidade Básica de Saúde;5;;8;;13
+3554805;Unidade Móvel;;;1;;1
+3554805;Vigilância em Saúde;;;2;;2
+3554904;Clínica;;;1;;1
+3554904;Diagnose e Terapia;;;;1;1
+3554904;Outros;;;2;;2
+3554904;Unidade Básica de Saúde;;;2;;2
+3554953;Clínica;;;1;;1
+3554953;Consultório Isolado;;;;1;1
+3554953;Diagnose e Terapia;;;;1;1
+3554953;Outros;;;2;;2
+3554953;Unidade Básica de Saúde;;;1;;1
+3554953;Unidade Móvel;;;1;;1
+3555000;Clínica;;;4;24;28
+3555000;Consultório Isolado;;;;217;217
+3555000;Diagnose e Terapia;;;1;11;12
+3555000;Hospital;1;;;2;3
+3555000;Outros;1;;7;5;13
+3555000;Pronto Atendimento;;;1;;1
+3555000;Unidade Básica de Saúde;;;15;;15
+3555000;Unidade de Saúde Mental ;;;1;;1
+3555000;Vigilância em Saúde;;;1;;1
+3555109;Clínica;;;1;1;2
+3555109;Consultório Isolado;;;;40;40
+3555109;Diagnose e Terapia;;;;3;3
+3555109;Hospital;;;;1;1
+3555109;Outros;;;2;;2
+3555109;Pronto Atendimento;;;1;;1
+3555109;Unidade Básica de Saúde;2;;5;;7
+3555109;Vigilância em Saúde;;;2;;2
+3555208;Outros;;;1;;1
+3555208;Unidade Básica de Saúde;;;1;;1
+3555307;Clínica;;;1;;1
+3555307;Outros;;;1;;1
+3555307;Unidade Básica de Saúde;;;2;;2
+3555356;Diagnose e Terapia;;;;1;1
+3555356;Outros;;;1;;1
+3555356;Unidade Básica de Saúde;;;1;;1
+3555406;Clínica;;;3;9;12
+3555406;Consultório Isolado;;;;36;36
+3555406;Diagnose e Terapia;;;;7;7
+3555406;Hospital;;;;2;2
+3555406;Outros;;1;3;8;12
+3555406;Unidade Básica de Saúde;;;21;;21
+3555406;Unidade de Saúde Mental ;;;1;;1
+3555406;Unidade Móvel;;;5;;5
+3555505;Outros;;;2;;2
+3555505;Unidade Básica de Saúde;;;3;;3
+3555604;Clínica;;;;2;2
+3555604;Consultório Isolado;;;;19;19
+3555604;Diagnose e Terapia;;;;2;2
+3555604;Outros;;;3;;3
+3555604;Unidade Básica de Saúde;;;3;;3
+3555604;Unidade de Saúde Mental ;;;1;;1
+3555703;Outros;;;2;;2
+3555703;Unidade Básica de Saúde;;;1;;1
+3555802;Clínica;;;1;;1
+3555802;Consultório Isolado;;;;2;2
+3555802;Diagnose e Terapia;;;;2;2
+3555802;Hospital;;;;1;1
+3555802;Outros;;;1;;1
+3555802;Unidade Básica de Saúde;;;3;;3
+3555802;Unidade Móvel;;;1;;1
+3555901;Outros;;;2;;2
+3555901;Unidade Básica de Saúde;;;1;;1
+3556008;Clínica;;;1;4;5
+3556008;Consultório Isolado;;;1;14;15
+3556008;Diagnose e Terapia;;;;1;1
+3556008;Hospital;;;;1;1
+3556008;Outros;;;2;1;3
+3556008;Pronto Atendimento;;;1;;1
+3556008;Unidade Básica de Saúde;;;6;;6
+3556008;Unidade Móvel;;;1;;1
+3556107;Consultório Isolado;;;;18;18
+3556107;Diagnose e Terapia;;;;1;1
+3556107;Outros;;;3;;3
+3556107;Unidade Básica de Saúde;;;6;;6
+3556206;Clínica;;;12;63;75
+3556206;Consultório Isolado;;;;408;408
+3556206;Diagnose e Terapia;;;1;21;22
+3556206;Hospital;;;;2;2
+3556206;Outros;;;6;10;16
+3556206;Pronto Atendimento;;;2;;2
+3556206;Unidade Básica de Saúde;;;15;;15
+3556206;Unidade de Saúde Mental ;;;3;;3
+3556206;Unidade Móvel;;;1;;1
+3556206;Vigilância em Saúde;;;2;;2
+3556305;Clínica;;;2;4;6
+3556305;Consultório Isolado;;;;31;31
+3556305;Diagnose e Terapia;;;;2;2
+3556305;Hospital;;;;1;1
+3556305;Outros;;;3;;3
+3556305;Unidade Básica de Saúde;2;;5;;7
+3556305;Unidade de Saúde Mental ;;;1;;1
+3556354;Diagnose e Terapia;;;;1;1
+3556354;Outros;;;1;;1
+3556354;Unidade Básica de Saúde;;;3;;3
+3556354;Unidade Móvel;;;1;;1
+3556404;Clínica;;;3;14;17
+3556404;Consultório Isolado;;;;99;99
+3556404;Diagnose e Terapia;;;;6;6
+3556404;Hospital;;;;1;1
+3556404;Outros;;;2;2;4
+3556404;Pronto Atendimento;;;1;;1
+3556404;Unidade Básica de Saúde;;;10;;10
+3556404;Unidade de Saúde Mental ;;;1;;1
+3556404;Unidade Móvel;;;1;;1
+3556453;Clínica;;;4;23;27
+3556453;Consultório Isolado;;;;13;13
+3556453;Diagnose e Terapia;;;;1;1
+3556453;Hospital;;;;1;1
+3556453;Outros;;;2;4;6
+3556453;Pronto Atendimento;;;1;;1
+3556453;Unidade Básica de Saúde;;;8;;8
+3556453;Unidade de Saúde Mental ;;;1;;1
+3556453;Unidade Móvel;;;1;1;2
+3556453;Vigilância em Saúde;;;3;;3
+3556503;Clínica;;;3;14;17
+3556503;Consultório Isolado;;;;13;13
+3556503;Diagnose e Terapia;;;;7;7
+3556503;Hospital;;;1;;1
+3556503;Outros;;;3;1;4
+3556503;Pronto Atendimento;;;1;;1
+3556503;Unidade Básica de Saúde;;;13;;13
+3556503;Unidade de Saúde Mental ;;;2;;2
+3556503;Unidade Móvel;;;1;;1
+3556503;Vigilância em Saúde;;;1;;1
+3556602;Clínica;;;;4;4
+3556602;Consultório Isolado;;;1;9;10
+3556602;Outros;;;1;;1
+3556602;Pronto Atendimento;;;1;;1
+3556602;Unidade Básica de Saúde;;;3;;3
+3556701;Clínica;;;5;41;46
+3556701;Consultório Isolado;;;1;302;303
+3556701;Diagnose e Terapia;;;;21;21
+3556701;Hospital;;;;1;1
+3556701;Outros;;;3;6;9
+3556701;Pronto Atendimento;;;2;;2
+3556701;Unidade Básica de Saúde;;;8;;8
+3556701;Unidade de Saúde Mental ;;;2;;2
+3556701;Vigilância em Saúde;;;1;;1
+3556800;Clínica;;;4;2;6
+3556800;Consultório Isolado;;;;23;23
+3556800;Diagnose e Terapia;;;;4;4
+3556800;Hospital;;;;1;1
+3556800;Outros;;;5;4;9
+3556800;Pronto Atendimento;;;1;;1
+3556800;Unidade Básica de Saúde;;;5;;5
+3556909;Clínica;;;1;;1
+3556909;Consultório Isolado;;;;5;5
+3556909;Diagnose e Terapia;;;;1;1
+3556909;Outros;;;1;;1
+3556909;Unidade Básica de Saúde;;;2;;2
+3556909;Vigilância em Saúde;;;1;;1
+3556958;Clínica;;;1;;1
+3556958;Outros;;;1;;1
+3556958;Unidade Básica de Saúde;;;1;;1
+3557006;Clínica;;;3;15;18
+3557006;Consultório Isolado;;;;76;76
+3557006;Diagnose e Terapia;;;;20;20
+3557006;Hospital;;;1;1;2
+3557006;Outros;;;5;2;7
+3557006;Pronto Atendimento;;;2;;2
+3557006;Unidade Básica de Saúde;1;;17;;18
+3557006;Unidade de Saúde Mental ;;;3;;3
+3557006;Unidade Móvel;;;2;3;5
+3557006;Vigilância em Saúde;;;1;;1
+3557105;Clínica;1;;6;56;63
+3557105;Consultório Isolado;;;;409;409
+3557105;Diagnose e Terapia;;;2;28;30
+3557105;Hospital;;;;2;2
+3557105;Outros;1;;8;11;20
+3557105;Pronto Atendimento;;;2;;2
+3557105;Unidade Básica de Saúde;;;14;;14
+3557105;Unidade de Saúde Mental ;;;3;;3
+3557105;Unidade Móvel;;;5;1;6
+3557105;Vigilância em Saúde;;;1;;1
+3557154;Outros;;;2;;2
+3557154;Unidade Básica de Saúde;;;1;;1
+3557204;Consultório Isolado;;;;15;15
+3557204;Diagnose e Terapia;;;;2;2
+3557204;Hospital;;;;1;1
+3557204;Outros;;;1;;1
+3557204;Unidade Básica de Saúde;;;4;;4
+3557204;Unidade de Saúde Mental ;;;1;;1
+3557204;Vigilância em Saúde;;;1;;1
+3557303;Clínica;;;1;1;2
+3557303;Consultório Isolado;;;1;3;4
+3557303;Diagnose e Terapia;;;1;1;2
+3557303;Outros;;;2;;2
+3557303;Pronto Atendimento;;;1;;1
+3557303;Unidade Básica de Saúde;;;5;;5
+3557303;Unidade Móvel;;;1;;1

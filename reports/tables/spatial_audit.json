@@ -1,0 +1,13 @@
+{
+  "queen_rule": "At least one shared boundary vertex after rounding coordinates to 7 decimal degrees",
+  "queen_edges": 1832,
+  "queen_islands": [
+    "3520400"
+  ],
+  "queen_components": 2,
+  "knn_rule": "Symmetrized 6-nearest polygon centroids; unit-sphere chord distance",
+  "permutations": 9999,
+  "local_null": "Total randomization of all income values, not conditional LISA permutations",
+  "local_significant_bh": 13,
+  "local_significant_by": 0
+}
